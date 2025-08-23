@@ -1,0 +1,169 @@
+{
+  "whatsappNumber": "5541996073903",
+  "categories": [
+    "Eletrônicos",
+    "Móveis",
+    "Vestuário",
+    "Livros",
+    "Decoração",
+    "Outros"
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "Relógio Elegante",
+      "description": "Relógio de pulso feminino. Em excelente estado.",
+      "price": 10.00,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": ["images/relogio1-10.jpg", "images/relogio2-10.jpg"]
+    },
+    {
+      "id": 2,
+      "name": "Brinco Infinito em Ouro",
+      "description": "Brinco delicado em formato de infinito, confeccionado em ouro 18k.",
+      "price": 100.00,
+      "condition": "bom estado",
+      "category": "Vestuário",
+      "photos": ["images/brinco-infinito-em-ouro-100.jpg"]
+    },
+    {
+      "id": 3,
+      "name": "Brinco Pena Prata 925",
+      "description": "Brinco em formato de pena, confeccionado em prata 925.",
+      "price": 50.00,
+      "condition": "bom estado",
+      "category": "Vestuário",
+      "photos": ["images/brinco-pena-prata-925-50.jpg"]
+    },
+    {
+      "id": 4,
+      "name": "Colar de Flor",
+      "description": "Colar delicado com pingente em formato de flor.",
+      "price": 50.00,
+      "condition": "bom estado",
+      "category": "Vestuário",
+      "photos": ["images/colar-de-flor-50.jpg"]
+    },
+    {
+      "id": 5,
+      "name": "Água Fresca para as Flores",
+      "description": "Livro de Valérie Perrin. Uma história comovente sobre amizade e superação.",
+      "price": 65.00,
+      "promotionalPrice": 60.00,
+      "condition": "bom estado",
+      "category": "Livros",
+      "photos": ["images/agua-fresca-para-as-flores-valerie-perrin-65.jpg"]
+    },
+    {
+      "id": 6,
+      "name": "A Parte que Falta",
+      "description": "Livro de Shel Silverstein. Uma história sobre amizade e perdão.",
+      "price": 30.00,
+      "promotionalPrice": 25.00,
+      "condition": "bom estado",
+      "category": "Livros",
+      "photos": ["images/a-parte-que-falta-30.jpeg"]
+    },
+    {
+      "id": 7,
+      "name": "A Sonata Kreutzer",
+      "description": "Livro de Margriet de Moor. Uma obra clássica sobre ciúmes e obsessão.",
+      "price": 10.00,
+      "promotionalPrice": 5.00,
+      "condition": "bom estado",
+      "category": "Livros",
+      "photos": ["images/a-sonata-kreutzer-10.jpeg"]
+    },
+    {
+      "id": 8,
+      "name": "Aurora: O Despertar da Mulher Exausta",
+      "description": "Livro de Marcela Ceribelli. Uma jornada de autoconhecimento feminino.",
+      "price": 25.00,
+      "promotionalPrice": 20.00,
+      "condition": "bom estado",
+      "category": "Livros",
+      "photos": ["images/aurora-o-despertar-da-mulher-exausta-25.jpeg"]
+    },
+    {
+      "id": 9,
+      "name": "Como Eu Era Antes de Você",
+      "description": "Livro de Jojo Moyes. Uma história de amor comovente.",
+      "price": 20.00,
+      "promotionalPrice": 15.00,
+      "condition": "bom estado",
+      "category": "Livros",
+      "photos": ["images/como-eu-era-antes-de-voce-20.jpeg"]
+    },
+    {
+      "id": 10,
+      "name": "Essencialismo",
+      "description": "Livro de Greg McKeown. A disciplina para focar no essencial.",
+      "price": 25.00,
+      "promotionalPrice": 20.00,
+      "condition": "bom estado",
+      "category": "Livros",
+      "photos": ["images/essencialismo-25.jpeg"]
+    },
+    {
+      "id": 11,
+      "name": "Frankenstein",
+      "description": "Livro de Mary Shelley. O clássico da literatura de ficção científica.",
+      "price": 5.00,
+      "promotionalPrice": null,
+      "condition": "bom estado",
+      "category": "Livros",
+      "photos": ["images/frankestein-5.jpeg"]
+    },
+    {
+      "id": 12,
+      "name": "Gerenciamento de Projetos Fora da Caixa",
+      "description": "Livro de Fabiana Bigão Silva. Técnicas inovadoras de gestão de projetos.",
+      "price": 20.00,
+      "promotionalPrice": 15.00,
+      "condition": "bom estado",
+      "category": "Livros",
+      "photos": ["images/gerenciamento-de-projetos-fora-da-caixa-20.jpeg"]
+    },
+    {
+      "id": 13,
+      "name": "Outros Jeitos de Usar a Boca",
+      "description": "Livro de Rupi Kaur. Poesia sobre amor, perda e feminismo.",
+      "price": 25.00,
+      "promotionalPrice": 20.00,
+      "condition": "bom estado",
+      "category": "Livros",
+      "photos": ["images/outros-jeitos-de-usar-a-boca-25.jpeg"]
+    },
+    {
+      "id": 14,
+      "name": "Pra Você que Teve um Dia Ruim",
+      "description": "Livro de Victor Fernandes. Um guia de autoajuda para dias difíceis.",
+      "price": 15.00,
+      "promotionalPrice": 10.00,
+      "condition": "bom estado",
+      "category": "Livros",
+      "photos": ["images/pra-voce-que-teve-um-dia-ruim-15.jpeg"]
+    },
+    {
+      "id": 15,
+      "name": "Todas as Flores que Não Te Enviei",
+      "description": "Livro de Felipe Rocha. Um romance sobre amor não correspondido.",
+      "price": 20.00,
+      "promotionalPrice": 15.00,
+      "condition": "bom estado",
+      "category": "Livros",
+      "photos": ["images/todas-as-flores-que-nao-te-enviei-20.jpeg"]
+    },
+    {
+      "id": 16,
+      "name": "Três",
+      "description": "Livro de Valiérie Perrin. Um thriller psicológico envolvente.",
+      "price": 65.00,
+      "promotionalPrice": 60.00,
+      "condition": "bom estado",
+      "category": "Livros",
+      "photos": ["images/tres-65.jpeg"]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto:wght@400;500&display=swap');
+
+:root {
+    --primary-bg: #ffffff;
+    --secondary-bg: #f9f9f9;
+    --text-primary: #1a1a1a;
+    --text-secondary: #666;
+    --header-bg: #2F4F4F; /* Verde escuro e sóbrio para o header */
+    --accent-primary: #66CDAA; /* Verde-água claro para botões e destaques */
+    --accent-primary-hover: #5aa992; /* Tom mais escuro para hover */
+    --promo-color: #34d399;
+    --border-color: #e5e5e5;
+    --shadow-color: rgba(0, 0, 0, 0.08);
+    
+    --font-heading: 'Poppins', sans-serif;
+    --font-body: 'Roboto', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-body);
+    background-color: var(--secondary-bg);
+    color: var(--text-primary);
+    line-height: 1.7;
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+.app-header {
+    background-color: var(--primary-bg);
+    color: var(--text-primary);
+    padding: 24px 0;
+    text-align: center;
+    border-bottom: 1px solid var(--border-color);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.app-header h1 {
+    font-family: var(--font-heading);
+    font-size: 2.5rem;
+    margin-bottom: 12px; /* Reduzi a margem para acomodar o subtítulo */
+    letter-spacing: 1px;
+    color: var(--accent-primary);
+}
+
+.app-header .subtitle {
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+    margin-bottom: 24px;
+}
+
+.filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+}
+
+.filters input, .filters select {
+    padding: 12px 16px;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    font-family: var(--font-body);
+    font-size: 1rem;
+    background-color: var(--secondary-bg);
+    color: var(--text-primary);
+    transition: all 0.3s ease;
+}
+
+#name-filter {
+    flex-grow: 1;
+    min-width: 250px;
+}
+
+.filters input::placeholder {
+    color: var(--text-secondary);
+}
+
+.filters select option {
+    background-color: var(--primary-bg);
+    color: var(--text-primary);
+}
+
+.filters input:focus, .filters select:focus {
+    outline: none;
+    border-color: var(--accent-primary);
+    background-color: var(--primary-bg);
+}
+
+main {
+    padding: 48px 0;
+}
+
+.items-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 40px; /* Aumentei o espaçamento */
+    margin-top: 40px; /* Margem aplicada corretamente */
+}
+
+.item-card {
+    background-color: var(--primary-bg);
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 8px 16px var(--shadow-color);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.item-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
+}
+
+.item-photo {
+    width: 100%;
+    height: 220px;
+    object-fit: contain;
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+.item-photo-placeholder {
+    width: 100%;
+    height: 220px;
+    background-color: var(--secondary-bg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-secondary);
+    font-size: 1rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+/* Container para imagens com blur de fundo */
+.image-container {
+    position: relative;
+    width: 100%;
+    height: 220px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0;
+}
+
+.image-container img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    z-index: 2;
+    position: relative;
+}
+
+/* Efeito de blur no fundo */
+.image-blur {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    filter: blur(10px) brightness(0.8);
+    z-index: 1;
+    transform: scale(1.1);
+}
+
+.item-info {
+    padding: 24px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.item-info h3 {
+    font-family: var(--font-heading);
+    font-size: 1.4rem;
+    margin-bottom: 8px;
+}
+
+.item-info .description {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    margin-bottom: 16px;
+    flex-grow: 1;
+}
+
+.item-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+    font-size: 0.9rem;
+}
+
+.item-details .condition {
+    font-weight: 500;
+    padding: 5px 10px;
+    border-radius: 20px;
+    text-transform: capitalize;
+}
+
+.condition.novo { background-color: #e0f2f1; color: #00796b; }
+.condition.usado { background-color: #fff3e0; color: #f57c00; }
+.condition.bom-estado { background-color: #e8f5e9; color: #2e7d32; }
+
+.price {
+    font-size: 1.75rem;
+    font-weight: 600;
+    font-family: var(--font-heading);
+    color: var(--text-primary);
+    text-align: right;
+}
+
+.price .original-price {
+    font-size: 1rem;
+    text-decoration: line-through;
+    color: var(--text-secondary);
+    margin-right: 8px;
+    font-weight: 400;
+}
+
+.price .promo-price {
+    color: var(--promo-color);
+}
+
+.item-actions {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
+    padding: 0 24px 24px;
+}
+
+.item-actions button {
+    padding: 14px;
+    border: none;
+    border-radius: 8px;
+    font-family: var(--font-body);
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.btn-whatsapp {
+    background-color: var(--accent-primary);
+    color: white;
+}
+.btn-whatsapp:hover { 
+    background-color: var(--accent-primary-hover);
+}
+
+.btn-copy {
+    background-color: #e9ecef;
+    color: #495057;
+}
+.btn-copy:hover { 
+    background-color: #dee2e6;
+}
+
+footer {
+    text-align: center;
+    padding: 32px 0;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
