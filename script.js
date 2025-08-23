@@ -44,11 +44,27 @@ document.addEventListener('DOMContentLoaded', () => {
 
             let photoHtml = '';
             if (item.photos && item.photos.length > 0) {
-                const photoUrl = item.photos[0];
+                const images = item.photos.map((photo, index) => `
+                    <img src="${photo}" alt="${item.name} - Foto ${index + 1}" class="item-photo ${index > 0 ? 'hidden' : ''}" data-index="${index}" onerror="this.onerror=null;this.src='images/placeholder.png';">
+                `).join('');
+
+                const navButtons = item.photos.length > 1 ? `
+                    <button class="carousel-btn prev" data-direction="-1">❮</button>
+                    <button class="carousel-btn next" data-direction="1">❯</button>
+                ` : '';
+
+                const dots = item.photos.length > 1 ? `
+                    <div class="carousel-dots">
+                        ${item.photos.map((_, index) => `<span class="dot ${index === 0 ? 'active' : ''}" data-index="${index}"></span>`).join('')}
+                    </div>
+                ` : '';
+
                 photoHtml = `
                     <div class="image-container">
-                        <div class="image-blur" style="background-image: url('${photoUrl}')"></div>
-                        <img src="${photoUrl}" alt="${item.name}" class="item-photo" onerror="this.onerror=null;this.src='images/placeholder.png';">
+                        <div class="image-blur" style="background-image: url('${item.photos[0]}')"></div>
+                        ${images}
+                        ${navButtons}
+                        ${dots}
                     </div>
                 `;
             } else {
@@ -134,12 +150,57 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         if (e.target.classList.contains('btn-copy')) {
-            const price = item.promotionalPrice ? `Preço Promocional: R$${item.promotionalPrice.toFixed(2)}` : `Preço: R$${item.price.toFixed(2)}`;
+            const price = item.promotionalPrice ? `Preço Promocional: R${item.promotionalPrice.toFixed(2)}` : `Preço: R${item.price.toFixed(2)}`;
             const textToCopy = `Item: ${item.name}\nDescrição: ${item.description}\n${price}\nEstado: ${item.condition}`;
             navigator.clipboard.writeText(textToCopy).then(() => {
                 e.target.textContent = 'Copiado!';
                 setTimeout(() => { e.target.textContent = 'Copiar Infos'; }, 2000);
             });
+        }
+
+        if (e.target.classList.contains('carousel-btn')) {
+            const direction = parseInt(e.target.dataset.direction);
+            const imageContainer = e.target.closest('.image-container');
+            const photos = Array.from(imageContainer.querySelectorAll('.item-photo'));
+            const dots = Array.from(imageContainer.querySelectorAll('.dot'));
+            const currentPhoto = imageContainer.querySelector('.item-photo:not(.hidden)');
+            let currentIndex = parseInt(currentPhoto.dataset.index);
+
+            let nextIndex = currentIndex + direction;
+
+            if (nextIndex >= photos.length) {
+                nextIndex = 0;
+            }
+            if (nextIndex < 0) {
+                nextIndex = photos.length - 1;
+            }
+
+            currentPhoto.classList.add('hidden');
+            photos[nextIndex].classList.remove('hidden');
+            dots[currentIndex].classList.remove('active');
+            dots[nextIndex].classList.add('active');
+
+            const newPhotoUrl = photos[nextIndex].src;
+            imageContainer.querySelector('.image-blur').style.backgroundImage = `url('${newPhotoUrl}')`;
+        }
+
+        if (e.target.classList.contains('dot')) {
+            const imageContainer = e.target.closest('.image-container');
+            const photos = Array.from(imageContainer.querySelectorAll('.item-photo'));
+            const dots = Array.from(imageContainer.querySelectorAll('.dot'));
+            const currentPhoto = imageContainer.querySelector('.item-photo:not(.hidden)');
+            let currentIndex = parseInt(currentPhoto.dataset.index);
+            const nextIndex = parseInt(e.target.dataset.index);
+
+            if (currentIndex !== nextIndex) {
+                currentPhoto.classList.add('hidden');
+                photos[nextIndex].classList.remove('hidden');
+                dots[currentIndex].classList.remove('active');
+                dots[nextIndex].classList.add('active');
+
+                const newPhotoUrl = photos[nextIndex].src;
+                imageContainer.querySelector('.image-blur').style.backgroundImage = `url('${newPhotoUrl}')`;
+            }
         }
     });
 
