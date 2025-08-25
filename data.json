@@ -16,7 +16,10 @@
       "price": 10.00,
       "condition": "bom estado",
       "category": "Eletrônicos",
-      "photos": ["images/relogio1-10.jpg", "images/relogio2-10.jpg"]
+      "photos": [
+        "images/relogio1-10.jpg",
+        "images/relogio2-10.jpg"
+      ]
     },
     {
       "id": 2,
@@ -25,7 +28,9 @@
       "price": 100.00,
       "condition": "bom estado",
       "category": "Vestuário",
-      "photos": ["images/brinco-infinito-em-ouro-100.jpg"]
+      "photos": [
+        "images/brinco-infinito-em-ouro-100.jpg"
+      ]
     },
     {
       "id": 3,
@@ -34,7 +39,9 @@
       "price": 50.00,
       "condition": "bom estado",
       "category": "Vestuário",
-      "photos": ["images/brinco-pena-prata-925-50.jpg"]
+      "photos": [
+        "images/brinco-pena-prata-925-50.jpg"
+      ]
     },
     {
       "id": 4,
@@ -43,7 +50,9 @@
       "price": 50.00,
       "condition": "bom estado",
       "category": "Vestuário",
-      "photos": ["images/colar-de-flor-50.jpg"]
+      "photos": [
+        "images/colar-de-flor-50.jpg"
+      ]
     },
     {
       "id": 5,
@@ -53,7 +62,9 @@
       "promotionalPrice": 60.00,
       "condition": "bom estado",
       "category": "Livros",
-      "photos": ["images/agua-fresca-para-as-flores-valerie-perrin-65.jpg"]
+      "photos": [
+        "images/agua-fresca-para-as-flores-valerie-perrin-65.jpg"
+      ]
     },
     {
       "id": 6,
@@ -63,7 +74,9 @@
       "promotionalPrice": 25.00,
       "condition": "bom estado",
       "category": "Livros",
-      "photos": ["images/a-parte-que-falta-30.jpeg"]
+      "photos": [
+        "images/a-parte-que-falta-30.jpeg"
+      ]
     },
     {
       "id": 7,
@@ -73,7 +86,9 @@
       "promotionalPrice": 5.00,
       "condition": "bom estado",
       "category": "Livros",
-      "photos": ["images/a-sonata-kreutzer-10.jpeg"]
+      "photos": [
+        "images/a-sonata-kreutzer-10.jpeg"
+      ]
     },
     {
       "id": 8,
@@ -83,7 +98,9 @@
       "promotionalPrice": 20.00,
       "condition": "bom estado",
       "category": "Livros",
-      "photos": ["images/aurora-o-despertar-da-mulher-exausta-25.jpeg"]
+      "photos": [
+        "images/aurora-o-despertar-da-mulher-exausta-25.jpeg"
+      ]
     },
     {
       "id": 9,
@@ -93,7 +110,9 @@
       "promotionalPrice": 15.00,
       "condition": "bom estado",
       "category": "Livros",
-      "photos": ["images/como-eu-era-antes-de-voce-20.jpeg"]
+      "photos": [
+        "images/como-eu-era-antes-de-voce-20.jpeg"
+      ]
     },
     {
       "id": 10,
@@ -103,7 +122,9 @@
       "promotionalPrice": 20.00,
       "condition": "bom estado",
       "category": "Livros",
-      "photos": ["images/essencialismo-25.jpeg"]
+      "photos": [
+        "images/essencialismo-25.jpeg"
+      ]
     },
     {
       "id": 11,
@@ -113,7 +134,9 @@
       "promotionalPrice": null,
       "condition": "bom estado",
       "category": "Livros",
-      "photos": ["images/frankestein-5.jpeg"]
+      "photos": [
+        "images/frankestein-5.jpeg"
+      ]
     },
     {
       "id": 12,
@@ -123,7 +146,9 @@
       "promotionalPrice": 15.00,
       "condition": "bom estado",
       "category": "Livros",
-      "photos": ["images/gerenciamento-de-projetos-fora-da-caixa-20.jpeg"]
+      "photos": [
+        "images/gerenciamento-de-projetos-fora-da-caixa-20.jpeg"
+      ]
     },
     {
       "id": 13,
@@ -133,7 +158,9 @@
       "promotionalPrice": 20.00,
       "condition": "bom estado",
       "category": "Livros",
-      "photos": ["images/outros-jeitos-de-usar-a-boca-25.jpeg"]
+      "photos": [
+        "images/outros-jeitos-de-usar-a-boca-25.jpeg"
+      ]
     },
     {
       "id": 14,
@@ -143,7 +170,9 @@
       "promotionalPrice": 10.00,
       "condition": "bom estado",
       "category": "Livros",
-      "photos": ["images/pra-voce-que-teve-um-dia-ruim-15.jpeg"]
+      "photos": [
+        "images/pra-voce-que-teve-um-dia-ruim-15.jpeg"
+      ]
     },
     {
       "id": 15,
@@ -153,7 +182,9 @@
       "promotionalPrice": 15.00,
       "condition": "bom estado",
       "category": "Livros",
-      "photos": ["images/todas-as-flores-que-nao-te-enviei-20.jpeg"]
+      "photos": [
+        "images/todas-as-flores-que-nao-te-enviei-20.jpeg"
+      ]
     },
     {
       "id": 16,
@@ -163,7 +194,94 @@
       "promotionalPrice": 60.00,
       "condition": "bom estado",
       "category": "Livros",
-      "photos": ["images/tres-65.jpeg"]
+      "photos": [
+        "images/tres-65.jpeg"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Calculadora Científica Casio",
+      "description": "Em excelente estado de funcionamento. Duas unidades disponíveis, uma delas está nova na caixa.",
+      "price": 40.00,
+      "promotionalPrice":25.00,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/calculadora-cientifica-casio1-20.jpg",
+        "images/calculadora-cientifica-casio2-20.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Fantasia de Pirata",
+      "description": "Dois chapéus, duas espadas, cinco lenços, cinto de pedrarias e moedas de ouro que valem mais do que dinheiro. Apenas para marujos!",
+      "price": 10.00,
+      "condition": "bom estado",
+      "category": "Vestuário",
+      "photos": [
+        "images/fantasia-de-pirata1-10.jpg",
+        "images/fantasia-de-pirata2-10.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Havaianas Tamanho 38",
+      "description": "Modelo básico. Cor azul.",
+      "price": 20.00,
+      "condition": "usada",
+      "category": "Vestuário",
+      "photos": [
+        "images/havaianas-38-20.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Headset Fifine",
+      "description": "Headset com fio para computador. Com microfone embutido. Ideal para reuniões.",
+      "price": 35.00,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/headset-fifine1-40.jpg",
+        "images/headset-fifine2-40.jpg.jpg",
+        "images/headset-fifine3-40.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "NERF Sidestrike",
+      "description": "Dispara dardos Nerf. Duas unidades e dardos de três tipos diferentes",
+      "price": 40.00,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/nerf-sidestrike1-20.jpg",
+        "images/nerf-sidestrike2-20.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Palmilha N38",
+      "description": "Modelo feminino. Dois pares disponíveis.",
+      "price": 5.00,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/palmilha-n381-5.jpg.jpg",
+        "images/palmilha-n382-5.jpg.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Pistola de Massagem 4 Pontas",
+      "description": "Possui 5 velocidades. Carregamento via USB tipo C. Excelente para relaxamento muscular.",
+      "price": 45.00,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/pistola-de-massagem-4pontas-45.jpg",
+        "images/pistola-de-massagem-4pontas2-45.jpg"
+      ]
     }
   ]
 }
