@@ -127,18 +127,6 @@
       ]
     },
     {
-      "id": 11,
-      "name": "Frankenstein",
-      "description": "Livro de Mary Shelley. O clássico da literatura de ficção científica.",
-      "price": 5.00,
-      "promotionalPrice": null,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/frankestein-5.jpeg"
-      ]
-    },
-    {
       "id": 12,
       "name": "Gerenciamento de Projetos Fora da Caixa",
       "description": "Livro de Fabiana Bigão Silva. Técnicas inovadoras de gestão de projetos.",
@@ -281,6 +269,18 @@
       "photos": [
         "images/pistola-de-massagem-4pontas-45.jpg",
         "images/pistola-de-massagem-4pontas2-45.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Bolsa Impermeável com alça",
+      "description": "Cabem 3 celulares e uma carteira. Nunca utilizados. 2 unidades disponíveis",
+      "price": 15.00,
+      "condition": "novo",
+      "category": "Outros",
+      "photos": [
+        "images/bolsa-impermeavel-com-alca2-15.jpg",
+        "images/bolsa-impermeavel-com-alca1-15.jpg"
       ]
     }
   ]
