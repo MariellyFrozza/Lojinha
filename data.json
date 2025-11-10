@@ -13,7 +13,7 @@
       "id": 1,
       "name": "Relógio Elegante",
       "description": "Relógio de pulso feminino. Em excelente estado.",
-      "price": 10.00,
+      "price": 5.00,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -25,7 +25,7 @@
       "id": 2,
       "name": "Brinco Infinito em Ouro",
       "description": "Brinco delicado em formato de infinito, confeccionado em ouro 18k.",
-      "price": 100.00,
+      "price": 30.00,
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
@@ -36,7 +36,7 @@
       "id": 3,
       "name": "Brinco Pena Prata 925",
       "description": "Brinco em formato de pena, confeccionado em prata 925.",
-      "price": 50.00,
+      "price": 25.00,
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
@@ -47,7 +47,7 @@
       "id": 4,
       "name": "Colar de Flor",
       "description": "Colar delicado com pingente em formato de flor.",
-      "price": 50.00,
+      "price": 20.00,
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
@@ -94,8 +94,8 @@
       "id": 8,
       "name": "Aurora: O Despertar da Mulher Exausta",
       "description": "Livro de Marcela Ceribelli. Uma jornada de autoconhecimento feminino.",
-      "price": 25.00,
-      "promotionalPrice": 20.00,
+      "price": 20.00,
+      "promotionalPrice": 10.00,
       "condition": "bom estado",
       "category": "Livros",
       "photos": [
@@ -107,7 +107,7 @@
       "name": "Como Eu Era Antes de Você",
       "description": "Livro de Jojo Moyes. Uma história de amor comovente.",
       "price": 20.00,
-      "promotionalPrice": 15.00,
+      "promotionalPrice": 10.00,
       "condition": "bom estado",
       "category": "Livros",
       "photos": [
@@ -119,7 +119,7 @@
       "name": "Essencialismo",
       "description": "Livro de Greg McKeown. A disciplina para focar no essencial.",
       "price": 25.00,
-      "promotionalPrice": 20.00,
+      "promotionalPrice": 10.00,
       "condition": "bom estado",
       "category": "Livros",
       "photos": [
@@ -143,7 +143,7 @@
       "name": "Outros Jeitos de Usar a Boca",
       "description": "Livro de Rupi Kaur. Poesia sobre amor, perda e feminismo.",
       "price": 25.00,
-      "promotionalPrice": 20.00,
+      "promotionalPrice": 10.00,
       "condition": "bom estado",
       "category": "Livros",
       "photos": [
@@ -250,8 +250,8 @@
     {
       "id": 22,
       "name": "Palmilha N38",
-      "description": "Modelo feminino. Dois pares disponíveis.",
-      "price": 5.00,
+      "description": "Modelo feminino. Dois pares disponíveis. Doação!",
+      "price": 0.00,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -263,7 +263,7 @@
       "id": 23,
       "name": "Pistola de Massagem 4 Pontas",
       "description": "Possui 5 velocidades. Carregamento via USB tipo C. Excelente para relaxamento muscular.",
-      "price": 45.00,
+      "price": 35.00,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
