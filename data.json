@@ -10,29 +10,6 @@
   ],
   "items": [
     {
-      "id": 1,
-      "name": "Relógio Elegante",
-      "description": "Relógio de pulso feminino. Em excelente estado.",
-      "price": 5.00,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/relogio1-10.jpg",
-        "images/relogio2-10.jpg"
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Brinco Infinito em Ouro",
-      "description": "Brinco delicado em formato de infinito, confeccionado em ouro 18k.",
-      "price": 30.00,
-      "condition": "bom estado",
-      "category": "Vestuário",
-      "photos": [
-        "images/brinco-infinito-em-ouro-100.jpg"
-      ]
-    },
-    {
       "id": 3,
       "name": "Brinco Pena Prata 925",
       "description": "Brinco em formato de pena, confeccionado em prata 925.",
@@ -248,18 +225,6 @@
       ]
     },
     {
-      "id": 22,
-      "name": "Palmilha N38",
-      "description": "Modelo feminino. Dois pares disponíveis. Doação!",
-      "price": 0.00,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/palmilha-n381-5.jpg.jpg",
-        "images/palmilha-n382-5.jpg.jpg"
-      ]
-    },
-    {
       "id": 23,
       "name": "Pistola de Massagem 4 Pontas",
       "description": "Possui 5 velocidades. Carregamento via USB tipo C. Excelente para relaxamento muscular.",
@@ -281,6 +246,20 @@
       "photos": [
         "images/bolsa-impermeavel-com-alca2-15.jpg",
         "images/bolsa-impermeavel-com-alca1-15.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Headphone QCY H3 PRO",
+      "description": "Headphone bluetooth sem fio com cancelamento de ruído, 55h de reprodução",
+      "price": 265.00,
+      "condition": "novo",
+      "category": "Outros",
+      "photos": [
+        "images/headphoneqcy1.jpeg",
+        "images/headphoneqcy2.jpeg",
+        "images/headphoneqcy3.jpeg",
+        "images/headphoneqcy4.jpeg"
       ]
     }
   ]
