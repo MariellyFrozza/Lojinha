@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const itemsContainer = document.getElementById('items-container');
     const nameFilter = document.getElementById('name-filter');
     const categoryFilter = document.getElementById('category-filter');
-    const conditionFilter = document.getElementById('condition-filter');
+    const sortFilter = document.getElementById('sort-filter');
     const priceFilter = document.getElementById('price-filter');
 
     let allItems = [];
@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
             allItems = data.items;
             whatsappNumber = data.whatsappNumber;
             populateCategories(data.categories);
-            renderItems(allItems);
+            filterItems();
         })
         .catch(error => {
             console.error('Erro ao carregar os dados:', error);
@@ -113,12 +113,6 @@ document.addEventListener('DOMContentLoaded', () => {
             filteredItems = filteredItems.filter(item => item.category === categoryQuery);
         }
 
-        // Condition filter
-        const conditionQuery = conditionFilter.value;
-        if (conditionQuery) {
-            filteredItems = filteredItems.filter(item => item.condition === conditionQuery);
-        }
-
         // Price filter
         const priceQuery = priceFilter.value;
         if (priceQuery) {
@@ -133,6 +127,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             });
         }
+
+        const sortQuery = sortFilter.value || 'desc';
+        filteredItems.sort((a, b) => {
+            const priceA = a.promotionalPrice || a.price;
+            const priceB = b.promotionalPrice || b.price;
+
+            if (sortQuery === 'asc') {
+                return priceA - priceB;
+            }
+
+            return priceB - priceA;
+        });
 
         renderItems(filteredItems);
     }
@@ -204,7 +210,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    [nameFilter, categoryFilter, conditionFilter, priceFilter].forEach(el => {
+    [nameFilter, categoryFilter, sortFilter, priceFilter].forEach(el => {
         el.addEventListener('input', filterItems);
         el.addEventListener('change', filterItems);
     });
