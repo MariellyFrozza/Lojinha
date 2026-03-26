@@ -139,17 +139,6 @@
       ]
     },
     {
-      "id": 29,
-      "name": "Amor, Teoricamente",
-      "description": "Livro de Ali Hazelwood. Comédia romântica ambientada no meio acadêmico com rivalidade, física e paixão.",
-      "price": 25,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/amor-teoricamente-25.jpeg"
-      ]
-    },
-    {
       "id": 30,
       "name": "Quarto de Despejo: Diário de uma Favelada",
       "description": "Livro de Carolina Maria de Jesus. Diário autobiográfico sobre a vida na favela e a luta cotidiana pela sobrevivência.",
@@ -249,17 +238,6 @@
       ]
     },
     {
-      "id": 39,
-      "name": "Google: A História do Negócio de Mídia e Tecnologia de Maior Sucesso dos Nossos Tempos",
-      "description": "Livro de David A. Vise e Mark Malseed. Relato sobre a ascensão do Google e seu impacto no mundo da tecnologia.",
-      "price": 15,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/google-a-historia-do-negocio-de-midia-e-tecnologia-de-maior-sucesso-dos-nossos-tempos-15.jpeg"
-      ]
-    },
-    {
       "id": 40,
       "name": "A Voz da Sereia Volta Neste Livro",
       "description": "Livro de Amanda Lovelace. Coletânea de poemas sobre dor, cura, feminilidade e retomada da própria voz.",
@@ -268,17 +246,6 @@
       "category": "Livros",
       "photos": [
         "images/a-voz-da-sereia-volta-neste-livro-25.jpeg"
-      ]
-    },
-    {
-      "id": 41,
-      "name": "A Biblioteca da Meia-Noite",
-      "description": "Livro de Matt Haig. Romance fantástico em que Nora explora vidas alternativas entre o arrependimento e a esperança.",
-      "price": 20,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/a-biblioteca-da-meia-noite-20.jpeg"
       ]
     },
     {
@@ -294,16 +261,26 @@
     },
     {
       "id": 43,
-      "name": "Buffet com Duas Portas",
-      "description": "Buffet com duas portas e prateleira. Cor marrom e off white. Seminovo, usado por apenas 2 meses. Medidas: 60 x 79 x 35 cm (L x A x P).",
-      "price": 180,
-      "condition": "usado",
-      "category": "Móveis",
+      "name": "Tablet Samsung Galaxy Tab S9 FE Wifi",
+      "description": "S Pen e Capa protetora inclusas, Resistente a àgua e poeira (IP68), 128GB/6GB",
+      "price": 2800,
+      "condition": "novo",
+      "category": "Eletrônicos",
       "photos": [
-        "images/buffet-duas-portas1-180.jpg",
-        "images/buffet-duas-portas2-180.jpg",
-        "images/buffet-duas-portas3-180.jpg",
-        "images/buffet-duas-portas4-180.jpg"
+        "images/tablet-caixa.jpg", "images/tablet-costa.jpg", "images/tablet-na-caixa.jpg",  "images/tablet-pen-carregador.jpg",  "images/capa-tablet.jpg"
+
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Notebook Acer - Predator Helios 300 - PH315-52-748U",
+      "description": "Processador: Intel Core i7-9750H @ 2.60GHz, 2592 MHz, 6 núcleos, Armazenamento: SSD 120GB + HD 1TB, Memória RAM: um pente de 16GB, Sistema operacional: Windows 10/11, Placa gráfica: NVidia GeForce GTX 1660Ti 6GB, Tela: 15.6",
+      "price": 3500,
+      "condition": "excelente",
+      "category": "Eletrônicos",
+      "photos": [
+       "images/predator4.jpg",  "images/predator5.jpg", "images/prdator2.jpg", "images/predator1.jpg", "images/predator3.jpg", "images/predator6.jpg", "images/predator7.jpg",
+        "images/predator8.jpg", "images/predator9.jpg", "images/predator10.jpg"
       ]
     }
   ]
