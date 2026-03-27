@@ -82,18 +82,6 @@
       ]
     },
     {
-      "id": 23,
-      "name": "Pistola de Massagem 4 Pontas",
-      "description": "Possui 5 velocidades. Carregamento via USB tipo C. Excelente para relaxamento muscular.",
-      "price": 35,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/pistola-de-massagem-4pontas-45.jpg",
-        "images/pistola-de-massagem-4pontas2-45.jpg"
-      ]
-    },
-    {
       "id": 24,
       "name": "Bolsa Impermeável com alça",
       "description": "Cabem 3 celulares e uma carteira. Nunca utilizados. 2 unidades disponíveis",
@@ -194,17 +182,6 @@
       ]
     },
     {
-      "id": 35,
-      "name": "O Colecionador",
-      "description": "Livro de John Fowles. Suspense psicológico sobre obsessão, aprisionamento e controle. Edição capa dura.",
-      "price": 30,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/o-colecionador-30.jpeg"
-      ]
-    },
-    {
       "id": 36,
       "name": "Feitiço para Coisas Perdidas",
       "description": "Livro de Jenna Evans Welch. Romance juvenil com magia, segredos familiares e uma herança misteriosa em Salem.",
@@ -267,8 +244,11 @@
       "condition": "novo",
       "category": "Eletrônicos",
       "photos": [
-        "images/tablet-caixa.jpg", "images/tablet-costa.jpg", "images/tablet-na-caixa.jpg",  "images/tablet-pen-carregador.jpg",  "images/capa-tablet.jpg"
-
+        "images/tablet-caixa.jpg",
+        "images/tablet-costa.jpg",
+        "images/tablet-na-caixa.jpg",
+        "images/tablet-pen-carregador.jpg",
+        "images/capa-tablet.jpg"
       ]
     },
     {
@@ -279,8 +259,53 @@
       "condition": "excelente",
       "category": "Eletrônicos",
       "photos": [
-       "images/predator4.jpg",  "images/predator5.jpg", "images/prdator2.jpg", "images/predator1.jpg", "images/predator3.jpg", "images/predator6.jpg", "images/predator7.jpg",
-        "images/predator8.jpg", "images/predator9.jpg", "images/predator10.jpg"
+        "images/predator4.jpg",
+        "images/predator5.jpg",
+        "images/prdator2.jpg",
+        "images/predator1.jpg",
+        "images/predator3.jpg",
+        "images/predator6.jpg",
+        "images/predator7.jpg",
+        "images/predator8.jpg",
+        "images/predator9.jpg",
+        "images/predator10.jpg"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "kit xícara pixie nespresso",
+      "description": "kit com 2 xícaras pixie nespresso, vermelha e prata",
+      "price": 50,
+      "condition": "excelente",
+      "category": "decoração",
+      "photos": [
+        "images/xicara1.jpg",
+        "images/xicara2.jpg"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "kit churrasco (4 peças) com maleta",
+      "description": "kit churrasco com maleta inclui: garfo, amolador, faca, pegador. Nunca usado.",
+      "price": 50,
+      "condition": "novo",
+      "category": "decoração",
+      "photos": [
+        "images/kit1.jpg",
+        "images/kit2.jpg",
+        "images/kit3.jpg"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "kit 3 cachepos raposa",
+      "description": "kit com 3 cachepos de raposa, nas cores vermelho, laranja e lilás. ideal para decorar ambientes com um toque divertido e charmoso. perfeito para suculentas ou pequenos arranjos.",
+      "price": 30,
+      "condition": "novo",
+      "category": "decoração",
+      "photos": [
+        "images/raposa1.jpg",
+        "images/raposa2.jpg"
       ]
     }
   ]
