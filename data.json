@@ -297,7 +297,7 @@
       ]
     },
     {
-      "id": 46,
+      "id": 47,
       "name": "kit 3 cachepos raposa",
       "description": "kit com 3 cachepos de raposa, nas cores vermelho, laranja e lilás. ideal para decorar ambientes com um toque divertido e charmoso. perfeito para suculentas ou pequenos arranjos.",
       "price": 30,
@@ -307,6 +307,59 @@
         "images/raposa1.jpg",
         "images/raposa2.jpg"
       ]
-    }
+    },
+        {
+      "id": 48,
+      "name": "fone de ouvido headset sem fio prata",
+      "description": "Fone de ouvido prata com suporte para cartao de memoria de ate 32GB",
+      "price": 30,
+      "condition": "Usado",
+      "category": "tecnologia",
+      "photos": [
+        "images/PHO1.jpeg",
+        "images/PHO2.jpeg",
+        "images/PHO3.jpeg"
+      ]
+    }, 
+           {
+      "id": 49, 
+      "name": "Controle PS4 Dualshock Blue Camouflage",
+      "description": "Controle para Playstation 4 Dualshock na cor Blue Camouflage. Paralelo. ",
+      "price": 30,
+      "condition": "Usado",
+      "category": "tecnologia",
+      "photos": [
+        "images/PS1.jpeg",
+        "images/PS2.jpeg",
+        "images/PS3.jpeg"
+      ]
+    },         {
+      "id": 50,
+      "name": "Máquina Golden Waffle 850w Cinza Britânia",
+      "description": "Material das placas de cozimento: teflon. É antiaderente. Potência de 850W. Com luz indicadora de funcionamento",
+      "price": 50,
+      "condition": "Usado",
+      "category": "decoração",
+      "photos": [
+        "images/WAF1.jpeg",
+        "images/WAF2.jpeg",
+        "images/WAF3.jpeg"
+      ]
+    },  
+
+     {
+      "id": 51,
+      "name": "Caneta Crown Dourada Azul",
+      "description": "Esferografica. Possui carga lacrada. Caixa original.",
+      "price": 50,
+      "condition": "Usado",
+      "category": "Escritorio",
+      "photos": [
+        "images/PEN1.jpeg",
+        "images/PEN2.jpeg",
+        "images/PEN3.jpeg"
+      ]
+    },  
+ 
   ]
 }
