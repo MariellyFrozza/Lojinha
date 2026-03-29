@@ -360,6 +360,19 @@
         "images/PEN3.jpeg"
       ]
     },  
+  {
+      "id": 51,
+      "name": "Carteira Rosa Grande"
+      "description": "Com alça. Material: PU"
+      "price": 25,
+      "condition": "Usado",
+      "category": "Vestuario",
+      "photos": [
+        "images/WAF1.jpeg",
+        "images/WAF2.jpeg",
+        "images/WAF3.jpeg"
+      ]
+    }
  
   ]
 }
