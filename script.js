@@ -4,9 +4,19 @@ document.addEventListener('DOMContentLoaded', () => {
     const categoryFilter = document.getElementById('category-filter');
     const sortFilter = document.getElementById('sort-filter');
     const priceFilter = document.getElementById('price-filter');
+    const imageModal = document.getElementById('image-modal');
+    const imageModalPhoto = document.getElementById('image-modal-photo');
+    const imageModalClose = document.getElementById('image-modal-close');
+    const imageModalPrev = document.getElementById('image-modal-prev');
+    const imageModalNext = document.getElementById('image-modal-next');
 
     let allItems = [];
     let whatsappNumber = '';
+    let modalState = {
+        item: null,
+        currentIndex: 0,
+        lastTrigger: null
+    };
 
     fetch('data.json')
         .then(response => response.json())
@@ -63,6 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="image-container">
                         <div class="image-blur" style="background-image: url('${item.photos[0]}')"></div>
                         ${images}
+                        <button class="image-open-btn" type="button" aria-label="Ampliar imagem do produto"></button>
                         ${navButtons}
                         ${dots}
                     </div>
@@ -96,6 +107,101 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
             itemsContainer.appendChild(card);
         });
+    }
+
+    function getCurrentPhotoIndex(imageContainer) {
+        const currentPhoto = imageContainer.querySelector('.item-photo:not(.hidden)');
+        return currentPhoto ? parseInt(currentPhoto.dataset.index, 10) : 0;
+    }
+
+    function updateCarouselImage(imageContainer, nextIndex) {
+        const photos = Array.from(imageContainer.querySelectorAll('.item-photo'));
+        const dots = Array.from(imageContainer.querySelectorAll('.dot'));
+
+        if (photos.length === 0) {
+            return 0;
+        }
+
+        const normalizedIndex = (nextIndex + photos.length) % photos.length;
+
+        photos.forEach((photo, index) => {
+            photo.classList.toggle('hidden', index !== normalizedIndex);
+        });
+
+        dots.forEach((dot, index) => {
+            dot.classList.toggle('active', index === normalizedIndex);
+        });
+
+        const activePhoto = photos[normalizedIndex];
+        imageContainer.querySelector('.image-blur').style.backgroundImage = `url('${activePhoto.getAttribute('src')}')`;
+
+        return normalizedIndex;
+    }
+
+    function moveCarousel(imageContainer, direction) {
+        const currentIndex = getCurrentPhotoIndex(imageContainer);
+        updateCarouselImage(imageContainer, currentIndex + direction);
+    }
+
+    function updateModalView() {
+        const { item, currentIndex } = modalState;
+        if (!item || !item.photos || item.photos.length === 0) {
+            return;
+        }
+
+        const normalizedIndex = (currentIndex + item.photos.length) % item.photos.length;
+        modalState.currentIndex = normalizedIndex;
+        imageModalPhoto.src = item.photos[normalizedIndex];
+        imageModalPhoto.alt = `${item.name} - Foto ${normalizedIndex + 1}`;
+
+        const shouldShowNavigation = item.photos.length > 1;
+        imageModalPrev.classList.toggle('hidden', !shouldShowNavigation);
+        imageModalNext.classList.toggle('hidden', !shouldShowNavigation);
+    }
+
+    function openImageModal(item, startIndex, triggerElement) {
+        if (!item || !item.photos || item.photos.length === 0) {
+            return;
+        }
+
+        modalState = {
+            item,
+            currentIndex: startIndex,
+            lastTrigger: triggerElement
+        };
+
+        updateModalView();
+        imageModal.classList.remove('hidden');
+        imageModal.setAttribute('aria-hidden', 'false');
+        document.body.classList.add('modal-open');
+        imageModalClose.focus();
+    }
+
+    function closeImageModal() {
+        imageModal.classList.add('hidden');
+        imageModal.setAttribute('aria-hidden', 'true');
+        imageModalPhoto.src = '';
+        imageModalPhoto.alt = '';
+        document.body.classList.remove('modal-open');
+
+        if (modalState.lastTrigger) {
+            modalState.lastTrigger.focus();
+        }
+
+        modalState = {
+            item: null,
+            currentIndex: 0,
+            lastTrigger: null
+        };
+    }
+
+    function moveModal(direction) {
+        if (!modalState.item || !modalState.item.photos || modalState.item.photos.length <= 1) {
+            return;
+        }
+
+        modalState.currentIndex += direction;
+        updateModalView();
     }
 
     function filterItems() {
@@ -153,6 +259,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (e.target.classList.contains('btn-whatsapp')) {
             const message = encodeURIComponent(`Olá! Tenho interesse no item: ${item.name}.`);
             window.open(`https://wa.me/${whatsappNumber}?text=${message}`, '_blank');
+            return;
         }
 
         if (e.target.classList.contains('btn-copy')) {
@@ -162,51 +269,56 @@ document.addEventListener('DOMContentLoaded', () => {
                 e.target.textContent = 'Copiado!';
                 setTimeout(() => { e.target.textContent = 'Copiar Infos'; }, 2000);
             });
+            return;
         }
 
-        if (e.target.classList.contains('carousel-btn')) {
-            const direction = parseInt(e.target.dataset.direction);
-            const imageContainer = e.target.closest('.image-container');
-            const photos = Array.from(imageContainer.querySelectorAll('.item-photo'));
-            const dots = Array.from(imageContainer.querySelectorAll('.dot'));
-            const currentPhoto = imageContainer.querySelector('.item-photo:not(.hidden)');
-            let currentIndex = parseInt(currentPhoto.dataset.index);
-
-            let nextIndex = currentIndex + direction;
-
-            if (nextIndex >= photos.length) {
-                nextIndex = 0;
-            }
-            if (nextIndex < 0) {
-                nextIndex = photos.length - 1;
-            }
-
-            currentPhoto.classList.add('hidden');
-            photos[nextIndex].classList.remove('hidden');
-            dots[currentIndex].classList.remove('active');
-            dots[nextIndex].classList.add('active');
-
-            const newPhotoUrl = photos[nextIndex].src;
-            imageContainer.querySelector('.image-blur').style.backgroundImage = `url('${newPhotoUrl}')`;
+        const carouselButton = e.target.closest('.carousel-btn');
+        if (carouselButton) {
+            const direction = parseInt(carouselButton.dataset.direction, 10);
+            moveCarousel(carouselButton.closest('.image-container'), direction);
+            return;
         }
 
-        if (e.target.classList.contains('dot')) {
-            const imageContainer = e.target.closest('.image-container');
-            const photos = Array.from(imageContainer.querySelectorAll('.item-photo'));
-            const dots = Array.from(imageContainer.querySelectorAll('.dot'));
-            const currentPhoto = imageContainer.querySelector('.item-photo:not(.hidden)');
-            let currentIndex = parseInt(currentPhoto.dataset.index);
-            const nextIndex = parseInt(e.target.dataset.index);
+        const dot = e.target.closest('.dot');
+        if (dot) {
+            const imageContainer = dot.closest('.image-container');
+            const nextIndex = parseInt(dot.dataset.index, 10);
+            updateCarouselImage(imageContainer, nextIndex);
+            return;
+        }
 
-            if (currentIndex !== nextIndex) {
-                currentPhoto.classList.add('hidden');
-                photos[nextIndex].classList.remove('hidden');
-                dots[currentIndex].classList.remove('active');
-                dots[nextIndex].classList.add('active');
+        const imageOpenButton = e.target.closest('.image-open-btn');
+        if (imageOpenButton) {
+            const imageContainer = imageOpenButton.closest('.image-container');
+            openImageModal(item, getCurrentPhotoIndex(imageContainer), imageOpenButton);
+        }
+    });
 
-                const newPhotoUrl = photos[nextIndex].src;
-                imageContainer.querySelector('.image-blur').style.backgroundImage = `url('${newPhotoUrl}')`;
-            }
+    imageModalPrev.addEventListener('click', () => moveModal(-1));
+    imageModalNext.addEventListener('click', () => moveModal(1));
+    imageModalClose.addEventListener('click', closeImageModal);
+
+    imageModal.addEventListener('click', (e) => {
+        if (e.target.dataset.closeModal === 'true') {
+            closeImageModal();
+        }
+    });
+
+    document.addEventListener('keydown', (e) => {
+        if (imageModal.classList.contains('hidden')) {
+            return;
+        }
+
+        if (e.key === 'Escape') {
+            closeImageModal();
+        }
+
+        if (e.key === 'ArrowLeft') {
+            moveModal(-1);
+        }
+
+        if (e.key === 'ArrowRight') {
+            moveModal(1);
         }
     });
 

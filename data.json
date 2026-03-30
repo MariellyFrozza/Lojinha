@@ -25,6 +25,7 @@
       "name": "Colar de Flor",
       "description": "Colar delicado com pingente em formato de flor.",
       "price": 20,
+      "promotionalPrice": 15,
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
@@ -34,7 +35,7 @@
     {
       "id": 17,
       "name": "Calculadora Científica Casio",
-      "description": "Em excelente estado de funcionamento. Duas unidades disponíveis, uma delas está nova na caixa.",
+      "description": "Em bom estado de funcionamento. Duas unidades disponíveis, uma delas está nova na caixa.",
       "price": 40,
       "promotionalPrice": 25,
       "condition": "bom estado",
@@ -256,7 +257,7 @@
       "name": "Notebook Acer - Predator Helios 300 - PH315-52-748U",
       "description": "Processador: Intel Core i7-9750H @ 2.60GHz, 2592 MHz, 6 núcleos, Armazenamento: SSD 120GB + HD 1TB, Memória RAM: um pente de 16GB, Sistema operacional: Windows 10/11, Placa gráfica: NVidia GeForce GTX 1660Ti 6GB, Tela: 15.6",
       "price": 3500,
-      "condition": "excelente",
+      "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
         "images/predator4.jpg",
@@ -273,107 +274,321 @@
     },
     {
       "id": 45,
-      "name": "kit xícara pixie nespresso",
-      "description": "kit com 2 xícaras pixie nespresso, vermelha e prata",
+      "name": "Kit de Xícaras Pixie Nespresso",
+      "description": "Kit com 2 xícaras Pixie Nespresso nas cores vermelha e prata.",
       "price": 50,
-      "condition": "excelente",
-      "category": "decoração",
+      "promotionalPrice": 40,
+      "condition": "bom estado",
+      "category": "Decoração",
       "photos": [
-        "images/xicara1.jpg",
-        "images/xicara2.jpg"
+        "images/kit-de-xicaras-pixie-nespresso1-50.jpg",
+        "images/kit-de-xicaras-pixie-nespresso2-50.jpg"
       ]
     },
     {
       "id": 46,
-      "name": "kit churrasco (4 peças) com maleta",
-      "description": "kit churrasco com maleta inclui: garfo, amolador, faca, pegador. Nunca usado.",
+      "name": "Kit de Churrasco com Maleta (4 Peças)",
+      "description": "Kit de churrasco com maleta contendo faca, garfo, pegador e amolador. Nunca usado.",
       "price": 50,
       "condition": "novo",
-      "category": "decoração",
+      "category": "Decoração",
       "photos": [
-        "images/kit1.jpg",
-        "images/kit2.jpg",
-        "images/kit3.jpg"
+        "images/kit-de-churrasco-com-maleta1-50.jpg",
+        "images/kit-de-churrasco-com-maleta2-50.jpg",
+        "images/kit-de-churrasco-com-maleta3-50.jpg"
       ]
     },
     {
       "id": 47,
-      "name": "kit 3 cachepos raposa",
-      "description": "kit com 3 cachepos de raposa, nas cores vermelho, laranja e lilás. ideal para decorar ambientes com um toque divertido e charmoso. perfeito para suculentas ou pequenos arranjos.",
+      "name": "Kit com 3 Cachepôs de Raposa",
+      "description": "Kit com 3 cachepôs de raposa nas cores vermelha, laranja e lilás. Ideal para decorar ambientes ou acomodar suculentas e pequenos arranjos.",
       "price": 30,
       "condition": "novo",
-      "category": "decoração",
+      "category": "Decoração",
       "photos": [
-        "images/raposa1.jpg",
-        "images/raposa2.jpg"
+        "images/kit-com-3-cachepos-de-raposa1-30.jpg",
+        "images/kit-com-3-cachepos-de-raposa2-30.jpg"
       ]
     },
-        {
+    {
       "id": 48,
-      "name": "fone de ouvido headset sem fio prata",
-      "description": "Fone de ouvido prata com suporte para cartao de memoria de ate 32GB",
+      "name": "Headset Sem Fio Prata",
+      "description": "Headset sem fio na cor prata, com suporte para cartão de memória de até 32 GB.",
       "price": 30,
-      "condition": "Usado",
-      "category": "tecnologia",
+      "condition": "bom estado",
+      "category": "Eletrônicos",
       "photos": [
-        "images/PHO1.jpeg",
-        "images/PHO2.jpeg",
-        "images/PHO3.jpeg"
+        "images/headset-sem-fio-prata1-30.jpeg",
+        "images/headset-sem-fio-prata2-30.jpeg",
+        "images/headset-sem-fio-prata3-30.jpeg"
       ]
-    }, 
-           {
-      "id": 49, 
-      "name": "Controle PS4 Dualshock Blue Camouflage",
-      "description": "Controle para Playstation 4 Dualshock na cor Blue Camouflage. Paralelo. ",
+    },
+    {
+      "id": 49,
+      "name": "Controle PS4 DualShock Blue Camouflage",
+      "description": "Controle paralelo para PlayStation 4 na cor Blue Camouflage.",
       "price": 30,
-      "condition": "Usado",
-      "category": "tecnologia",
+      "condition": "bom estado",
+      "category": "Eletrônicos",
       "photos": [
-        "images/PS1.jpeg",
-        "images/PS2.jpeg",
-        "images/PS3.jpeg"
+        "images/controle-ps4-dualshock-blue-camouflage1-30.jpeg",
+        "images/controle-ps4-dualshock-blue-camouflage2-30.jpeg",
+        "images/controle-ps4-dualshock-blue-camouflage3-30.jpeg"
       ]
-    },         {
+    },
+    {
       "id": 50,
-      "name": "Máquina Golden Waffle 850w Cinza Britânia",
-      "description": "Material das placas de cozimento: teflon. É antiaderente. Potência de 850W. Com luz indicadora de funcionamento",
+      "name": "Máquina de Waffle Britânia Golden Waffle 850W",
+      "description": "Máquina de waffle Britânia com placas de teflon antiaderentes, potência de 850 W e luz indicadora de funcionamento.",
       "price": 50,
-      "condition": "Usado",
-      "category": "decoração",
+      "condition": "bom estado",
+      "category": "Eletrônicos",
       "photos": [
-        "images/WAF1.jpeg",
-        "images/WAF2.jpeg",
-        "images/WAF3.jpeg"
+        "images/maquina-de-waffle-britania-golden-waffle1-50.jpeg",
+        "images/maquina-de-waffle-britania-golden-waffle2-50.jpeg",
+        "images/maquina-de-waffle-britania-golden-waffle3-50.jpeg"
       ]
-    },  
-
-     {
+    },
+    {
       "id": 51,
-      "name": "Caneta Crown Dourada Azul",
-      "description": "Esferografica. Possui carga lacrada. Caixa original.",
+      "name": "Caneta Crown Dourada e Azul",
+      "description": "Caneta esferográfica Crown nas cores dourada e azul, com carga lacrada e caixa original.",
       "price": 50,
-      "condition": "Usado",
-      "category": "Escritorio",
+      "promotionalPrice": 40,
+      "condition": "novo",
+      "category": "Outros",
       "photos": [
-        "images/PEN1.jpeg",
-        "images/PEN2.jpeg",
-        "images/PEN3.jpeg"
+        "images/caneta-crown-dourada-e-azul1-50.jpeg",
+        "images/caneta-crown-dourada-e-azul2-50.jpeg",
+        "images/caneta-crown-dourada-e-azul3-50.jpeg"
       ]
-    },  
-  {
+    },
+    {
       "id": 52,
       "name": "Carteira Rosa Grande",
-      "description": "Com alça. Material: PU",
+      "description": "Carteira grande na cor rosa, com alça e acabamento em material PU.",
       "price": 25,
-      "condition": "Usado",
-      "category": "Vestuario",
+      "condition": "bom estado",
+      "category": "Vestuário",
       "photos": [
-        "images/BAG1.jpeg",
-        "images/BAG2.jpeg",
-        "images/BAG3.jpeg"
-        
+        "images/carteira-rosa-grande1-25.jpeg",
+        "images/carteira-rosa-grande2-25.jpeg",
+        "images/carteira-rosa-grande3-25.jpeg"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Adaptador Bluetooth USB CSR para PC",
+      "description": "Adaptador Bluetooth USB para PC, ideal para conectar periféricos sem fio com praticidade.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/adaptador-bluetooth-usb-para-pc-csr1-10.jpg"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Ampulheta de Vidro e Madeira Verde",
+      "description": "Ampulheta decorativa com estrutura de madeira e vidro com areia verde.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/ampulheta-de-vidro-e-madeira-verde1-15.jpg"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Caixa de Acrílico para Cápsulas de Café",
+      "description": "Caixa organizadora de acrílico para cápsulas de café Nescafé, Nespresso e Três Corações.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/caixa-de-acrilico-para-capsulas-de-cafe1-10.jpg",
+        "images/caixa-de-acrilico-para-capsulas-de-cafe2-10.jpg"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Caixa Decorativa de Madeira Florida",
+      "description": "Caixa decorativa de madeira maciça com acabamento branco rústico e pintura floral em laranja.",
+      "price": 40,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/caixa-decorativa-de-madeira-florida1-40.jpg",
+        "images/caixa-decorativa-de-madeira-florida2-40.jpg",
+        "images/caixa-decorativa-de-madeira-florida3-40.jpg"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Caneca Decorativa Verde com Bromélia Artificial",
+      "description": "Caneca decorativa verde acompanhada de bromélia artificial, ideal para compor ambientes.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/caneca-decorativa-verde-com-bromelia-artificial1-15.jpg",
+        "images/caneca-decorativa-verde-com-bromelia-artificial2-15.jpg"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Carregador USB H'Maston com Duas Saídas",
+      "description": "Carregador de tomada H'Maston com duas saídas USB.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/carregador-usb-hmaston-com-duas-saidas1-15.jpg",
+        "images/carregador-usb-hmaston-com-duas-saidas2-15.jpg"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Carregador Wireless com Entrada USB-C",
+      "description": "Base de carregamento wireless redonda com entrada USB-C.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/carregador-wireless-com-entrada-usb-c1-15.jpg",
+        "images/carregador-wireless-com-entrada-usb-c2-15.jpg"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Coleira Rosa com Guia para Gato ou Cachorro Médio",
+      "description": "Coleira rosa com guia, indicada para gatos ou cães de porte médio.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/coleira-rosa-com-guia-para-gato-ou-cachorro-medio1-20.jpg",
+        "images/coleira-rosa-com-guia-para-gato-ou-cachorro-medio2-20.jpg"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Espelho Branco Grande 125 x 60 cm",
+      "description": "Espelho grande com moldura branca, medindo 125 x 60 cm.",
+      "price": 110,
+      "promotionalPrice": 70,
+      "condition": "bom estado",
+      "category": "Móveis",
+      "photos": [
+        "images/espelho-branco-grande-125x60cm1-110.jpg",
+        "images/espelho-branco-grande-125x60cm2-110.jpg",
+        "images/espelho-branco-grande-125x60cm3-110.jpg"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Kit com 2 Tesouras Decorativas para Papel",
+      "description": "Kit com 2 tesouras decorativas para papel, ideal para trabalhos manuais e artesanato.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/kit-com-2-tesouras-decorativas-para-papel1-10.jpg"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Kit com 3 Potes de Cerâmica Raposa Coloridos",
+      "description": "Kit com 3 potes de cerâmica em formato de raposa, coloridos e ideais para decoração.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/kit-com-3-potes-de-ceramica-raposa-coloridos1-20.jpg",
+        "images/kit-com-3-potes-de-ceramica-raposa-coloridos2-20.jpg"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Porta-Retrato Cinema em Vidro",
+      "description": "Porta-retrato em vidro com moldura inspirada em rolo de filme.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/porta-retrato-cinema-em-vidro1-10.jpg",
+        "images/porta-retrato-cinema-em-vidro2-10.jpg"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Pulseira Dourada Árvore da Vida com Brilho",
+      "description": "Pulseira dourada com pingente de árvore da vida e detalhes brilhantes.",
+      "price": 30,
+      "promotionalPrice": 15,
+      "condition": "bom estado",
+      "category": "Vestuário",
+      "photos": [
+        "images/pulseira-dourada-arvore-da-vida-com-brilho1-30.jpg"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Receptor USB de TV Digital Pieno com Antena",
+      "description": "Receptor USB de TV digital para computador, acompanhado de antena.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/receptor-usb-de-tv-digital-pieno-com-antena1-10.jpg",
+        "images/receptor-usb-de-tv-digital-pieno-com-antena2-10.jpg"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Restaurador de Palheta Baseus em Inox",
+      "description": "Restaurador Baseus em inox para recuperar o corte de palhetas de para-brisa.",
+      "price": 10,
+      "condition": "novo",
+      "category": "Outros",
+      "photos": [
+        "images/restaurador-de-palheta-baseus-em-inox1-10.jpg"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Roteador Xiaomi Mesh System AC1200",
+      "description": "Roteador Xiaomi Mesh System AC1200 com design compacto e manual incluso.",
+      "price": 200,
+      "condition": "novo",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/roteador-xiaomi-mesh-system-ac12001-200.jpg",
+        "images/roteador-xiaomi-mesh-system-ac12002-200.jpg"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Super Trunfo Grow: Edição Gatos",
+      "description": "Jogo de cartas Super Trunfo Grow, edição Gatos.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/super-trunfo-grow-edicao-gatos1-5.jpg"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Varinha de Dumbledore em Resina",
+      "description": "Varinha decorativa de Dumbledore em resina, ideal para colecionadores e fãs da saga.",
+      "price": 35,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/varinha-de-dumbledore-em-resina1-35.jpg",
+        "images/varinha-de-dumbledore-em-resina2-35.jpg"
       ]
     }
- 
   ]
 }

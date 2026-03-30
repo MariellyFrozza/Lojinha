@@ -46,6 +46,18 @@
         <div id="items-container" class="items-grid"></div>
     </main>
 
+    <div id="image-modal" class="image-modal hidden" aria-hidden="true">
+        <div class="image-modal-backdrop" data-close-modal="true"></div>
+        <div class="image-modal-content" role="dialog" aria-modal="true" aria-label="Visualização da imagem do produto">
+            <button id="image-modal-close" class="image-modal-close" type="button" aria-label="Fechar visualização">✕</button>
+            <button id="image-modal-prev" class="image-modal-nav prev" type="button" aria-label="Imagem anterior">❮</button>
+            <div class="image-modal-stage">
+                <img id="image-modal-photo" src="" alt="">
+            </div>
+            <button id="image-modal-next" class="image-modal-nav next" type="button" aria-label="Próxima imagem">❯</button>
+        </div>
+    </div>
+
     <footer>
         <div class="container">
             <p>Lojinha Mari & Rogério &copy; 2025</p>
