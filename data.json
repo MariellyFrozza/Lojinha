@@ -253,26 +253,6 @@
       ]
     },
     {
-      "id": 44,
-      "name": "Notebook Acer - Predator Helios 300 - PH315-52-748U",
-      "description": "Processador: Intel Core i7-9750H @ 2.60GHz, 2592 MHz, 6 núcleos, Armazenamento: SSD 120GB + HD 1TB, Memória RAM: um pente de 16GB, Sistema operacional: Windows 10/11, Placa gráfica: NVidia GeForce GTX 1660Ti 6GB, Tela: 15.6",
-      "price": 3500,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/predator4.jpg",
-        "images/predator5.jpg",
-        "images/prdator2.jpg",
-        "images/predator1.jpg",
-        "images/predator3.jpg",
-        "images/predator6.jpg",
-        "images/predator7.jpg",
-        "images/predator8.jpg",
-        "images/predator9.jpg",
-        "images/predator10.jpg"
-      ]
-    },
-    {
       "id": 45,
       "name": "Kit de Xícaras Pixie Nespresso",
       "description": "Kit com 2 xícaras Pixie Nespresso nas cores vermelha e prata.",
@@ -334,19 +314,6 @@
         "images/controle-ps4-dualshock-blue-camouflage1-30.jpeg",
         "images/controle-ps4-dualshock-blue-camouflage2-30.jpeg",
         "images/controle-ps4-dualshock-blue-camouflage3-30.jpeg"
-      ]
-    },
-    {
-      "id": 50,
-      "name": "Máquina de Waffle Britânia Golden Waffle 850W",
-      "description": "Máquina de waffle Britânia com placas de teflon antiaderentes, potência de 850 W e luz indicadora de funcionamento.",
-      "price": 50,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/maquina-de-waffle-britania-golden-waffle1-50.jpeg",
-        "images/maquina-de-waffle-britania-golden-waffle2-50.jpeg",
-        "images/maquina-de-waffle-britania-golden-waffle3-50.jpeg"
       ]
     },
     {
@@ -490,6 +457,7 @@
       "name": "Kit com 2 Tesouras Decorativas para Papel",
       "description": "Kit com 2 tesouras decorativas para papel, ideal para trabalhos manuais e artesanato.",
       "price": 10,
+      "promotionalPrice": 5,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -588,6 +556,113 @@
       "photos": [
         "images/varinha-de-dumbledore-em-resina1-35.jpg",
         "images/varinha-de-dumbledore-em-resina2-35.jpg"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Calendário de Mesa Preto e Madeira",
+      "description": "Calendário de mesa permanente com estrutura preta e blocos de madeira para dia e mês.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/calendario-de-mesa-preto-e-madeira1-20.jpg",
+        "images/calendario-de-mesa-preto-e-madeira2-20.jpg"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Guarda-Roupa Branco Grande com 4 Portas",
+      "description": "Guarda-roupa branco grande com 4 portas, prateleiras internas e espaço para cabides.",
+      "price": 900,
+      "condition": "bom estado",
+      "category": "Móveis",
+      "photos": [
+        "images/guarda-roupa-branco-grande-com-4-portas1-900.jpg",
+        "images/guarda-roupa-branco-grande-com-4-portas2-900.jpg",
+        "images/guarda-roupa-branco-grande-com-4-portas3-900.jpg",
+        "images/guarda-roupa-branco-grande-com-4-portas4-900.jpg",
+        "images/guarda-roupa-branco-grande-com-4-portas5-900.jpg"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Hub USB FTX para MacBook com Ethernet",
+      "description": "Hub USB FTX para MacBook com Ethernet, saída HDMI, porta USB-A e leitor de cartão.",
+      "price": 300,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/hub-usb-ftx-para-macbook-com-ethernet1-300.jpg",
+        "images/hub-usb-ftx-para-macbook-com-ethernet2-300.jpg",
+        "images/hub-usb-ftx-para-macbook-com-ethernet3-300.jpg"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Porta-Retrato com Brilho",
+      "description": "Porta-retrato com acabamento preto e detalhe brilhante ao redor da moldura.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/porta-retrato-com-brilho1-5.jpg",
+        "images/porta-retrato-com-brilho2-5.jpg"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Rack Branco com Portas de Correr",
+      "description": "Rack branco com portas de correr, nichos centrais e pés palito.",
+      "price": 100,
+      "condition": "bom estado",
+      "category": "Móveis",
+      "photos": [
+        "images/rack-branco-com-portas-de-correr1-100.jpg",
+        "images/rack-branco-com-portas-de-correr2-100.jpg",
+        "images/rack-branco-com-portas-de-correr3-100.jpg",
+        "images/rack-branco-com-portas-de-correr4-100.jpg",
+        "images/rack-branco-com-portas-de-correr5-100.jpg"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Saco Impermeável para Esportes Aquáticos",
+      "description": "Saco impermeável ideal para proteger itens pessoais durante esportes aquáticos e passeios ao ar livre.",
+      "price": 40,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/saco-impermeavel-para-esportes-aquaticos1-40.jpg",
+        "images/saco-impermeavel-para-esportes-aquaticos2-40.jpg"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Teclado Logitech com Receptor Unifying",
+      "description": "Teclado Logitech sem fio com receptor USB Unifying incluso.",
+      "price": 30,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/teclado-logitech-com-receptor-unifying1-30.jpg",
+        "images/teclado-logitech-com-receptor-unifying2-30.jpg",
+        "images/teclado-logitech-com-receptor-unifying3-30.jpg"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "TV Samsung 32\" HD com Entrada HDMI",
+      "description": "TV Samsung de 32 polegadas com resolução HD e entrada HDMI.",
+      "price": 290,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/tv-samsung-32-hd-com-entrada-hdmi1-290.jpg",
+        "images/tv-samsung-32-hd-com-entrada-hdmi2-290.jpg",
+        "images/tv-samsung-32-hd-com-entrada-hdmi3-290.jpg",
+        "images/tv-samsung-32-hd-com-entrada-hdmi4-290.jpg",
+        "images/tv-samsung-32-hd-com-entrada-hdmi5-290.jpg"
       ]
     }
   ]
