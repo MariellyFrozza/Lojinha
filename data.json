@@ -10,42 +10,6 @@
   ],
   "items": [
     {
-      "id": 3,
-      "name": "Brinco Pena Prata 925",
-      "description": "Brinco em formato de pena, confeccionado em prata 925.",
-      "price": 25,
-      "condition": "bom estado",
-      "category": "Vestuário",
-      "photos": [
-        "images/brinco-pena-prata-925-50.jpg"
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Colar de Flor",
-      "description": "Colar delicado com pingente em formato de flor.",
-      "price": 20,
-      "promotionalPrice": 15,
-      "condition": "bom estado",
-      "category": "Vestuário",
-      "photos": [
-        "images/colar-de-flor-50.jpg"
-      ]
-    },
-    {
-      "id": 17,
-      "name": "Calculadora Científica Casio",
-      "description": "Em bom estado de funcionamento. Duas unidades disponíveis, uma delas está nova na caixa.",
-      "price": 40,
-      "promotionalPrice": 25,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/calculadora-cientifica-casio1-20.jpg",
-        "images/calculadora-cientifica-casio2-20.jpg"
-      ]
-    },
-    {
       "id": 18,
       "name": "Fantasia de Pirata",
       "description": "Dois chapéus, duas espadas, cinco lenços, cinto de pedrarias e moedas de ouro que valem mais do que dinheiro. Apenas para marujos!",
@@ -106,17 +70,6 @@
       ]
     },
     {
-      "id": 27,
-      "name": "Os 7 Hábitos das Pessoas Altamente Eficazes: Lições Poderosas para a Transformação Pessoal",
-      "description": "Livro de Stephen R. Covey. Clássico do desenvolvimento pessoal sobre princípios de eficácia na vida e no trabalho.",
-      "price": 35,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/os-7-habitos-das-pessoas-altamente-eficazes-licoes-poderosas-para-a-transformacao-pessoal-35.jpeg"
-      ]
-    },
-    {
       "id": 28,
       "name": "Brevíssima História de Portugal",
       "description": "Livro de A. H. de Oliveira Marques. Panorama conciso da formação e da trajetória histórica de Portugal.",
@@ -169,17 +122,6 @@
       "category": "Livros",
       "photos": [
         "images/o-misterio-da-cruz-egipcia-30.jpeg"
-      ]
-    },
-    {
-      "id": 34,
-      "name": "Especialista em Pessoas: Soluções Bíblicas e Inteligentes para Lidar com Todo Tipo de Gente",
-      "description": "Livro de Tiago Brunet. Reflexões e estratégias para melhorar relacionamentos com base em princípios bíblicos.",
-      "price": 30,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/especialista-em-pessoas-solucoes-biblicas-e-inteligentes-para-lidar-com-todo-tipo-de-gente-30.jpeg"
       ]
     },
     {
@@ -238,34 +180,6 @@
       ]
     },
     {
-      "id": 43,
-      "name": "Tablet Samsung Galaxy Tab S9 FE Wifi",
-      "description": "S Pen e Capa protetora inclusas, Resistente a àgua e poeira (IP68), 128GB/6GB",
-      "price": 2800,
-      "condition": "novo",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/tablet-caixa.jpg",
-        "images/tablet-costa.jpg",
-        "images/tablet-na-caixa.jpg",
-        "images/tablet-pen-carregador.jpg",
-        "images/capa-tablet.jpg"
-      ]
-    },
-    {
-      "id": 45,
-      "name": "Kit de Xícaras Pixie Nespresso",
-      "description": "Kit com 2 xícaras Pixie Nespresso nas cores vermelha e prata.",
-      "price": 50,
-      "promotionalPrice": 40,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/kit-de-xicaras-pixie-nespresso1-50.jpg",
-        "images/kit-de-xicaras-pixie-nespresso2-50.jpg"
-      ]
-    },
-    {
       "id": 46,
       "name": "Kit de Churrasco com Maleta (4 Peças)",
       "description": "Kit de churrasco com maleta contendo faca, garfo, pegador e amolador. Nunca usado.",
@@ -276,18 +190,6 @@
         "images/kit-de-churrasco-com-maleta1-50.jpg",
         "images/kit-de-churrasco-com-maleta2-50.jpg",
         "images/kit-de-churrasco-com-maleta3-50.jpg"
-      ]
-    },
-    {
-      "id": 47,
-      "name": "Kit com 3 Cachepôs de Raposa",
-      "description": "Kit com 3 cachepôs de raposa nas cores vermelha, laranja e lilás. Ideal para decorar ambientes ou acomodar suculentas e pequenos arranjos.",
-      "price": 30,
-      "condition": "novo",
-      "category": "Decoração",
-      "photos": [
-        "images/kit-com-3-cachepos-de-raposa1-30.jpg",
-        "images/kit-com-3-cachepos-de-raposa2-30.jpg"
       ]
     },
     {
@@ -489,18 +391,6 @@
       ]
     },
     {
-      "id": 65,
-      "name": "Pulseira Dourada Árvore da Vida com Brilho",
-      "description": "Pulseira dourada com pingente de árvore da vida e detalhes brilhantes.",
-      "price": 30,
-      "promotionalPrice": 15,
-      "condition": "bom estado",
-      "category": "Vestuário",
-      "photos": [
-        "images/pulseira-dourada-arvore-da-vida-com-brilho1-30.jpg"
-      ]
-    },
-    {
       "id": 66,
       "name": "Receptor USB de TV Digital Pieno com Antena",
       "description": "Receptor USB de TV digital para computador, acompanhado de antena.",
@@ -611,21 +501,6 @@
       ]
     },
     {
-      "id": 75,
-      "name": "Rack Branco com Portas de Correr",
-      "description": "Rack branco com portas de correr, nichos centrais e pés palito.",
-      "price": 100,
-      "condition": "bom estado",
-      "category": "Móveis",
-      "photos": [
-        "images/rack-branco-com-portas-de-correr1-100.jpg",
-        "images/rack-branco-com-portas-de-correr2-100.jpg",
-        "images/rack-branco-com-portas-de-correr3-100.jpg",
-        "images/rack-branco-com-portas-de-correr4-100.jpg",
-        "images/rack-branco-com-portas-de-correr5-100.jpg"
-      ]
-    },
-    {
       "id": 76,
       "name": "Saco Impermeável para Esportes Aquáticos",
       "description": "Saco impermeável ideal para proteger itens pessoais durante esportes aquáticos e passeios ao ar livre.",
@@ -648,21 +523,6 @@
         "images/teclado-logitech-com-receptor-unifying1-30.jpg",
         "images/teclado-logitech-com-receptor-unifying2-30.jpg",
         "images/teclado-logitech-com-receptor-unifying3-30.jpg"
-      ]
-    },
-    {
-      "id": 78,
-      "name": "TV Samsung 32\" HD com Entrada HDMI",
-      "description": "TV Samsung de 32 polegadas com resolução HD e entrada HDMI.",
-      "price": 290,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/tv-samsung-32-hd-com-entrada-hdmi1-290.jpg",
-        "images/tv-samsung-32-hd-com-entrada-hdmi2-290.jpg",
-        "images/tv-samsung-32-hd-com-entrada-hdmi3-290.jpg",
-        "images/tv-samsung-32-hd-com-entrada-hdmi4-290.jpg",
-        "images/tv-samsung-32-hd-com-entrada-hdmi5-290.jpg"
       ]
     }
   ]
