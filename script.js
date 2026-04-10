@@ -40,6 +40,14 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    function hasPromotionalPrice(item) {
+        return typeof item.promotionalPrice === 'number';
+    }
+
+    function getEffectivePrice(item) {
+        return hasPromotionalPrice(item) ? item.promotionalPrice : item.price;
+    }
+
     function renderItems(items) {
         itemsContainer.innerHTML = '';
         if (items.length === 0) {
@@ -84,10 +92,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Converter "bom estado" para "bom-estado" para a classe CSS
             const conditionClass = item.condition === "bom estado" ? "bom-estado" : item.condition;
+            const effectivePrice = getEffectivePrice(item);
 
-            const priceHtml = item.promotionalPrice
-                ? `<span class="original-price">R$ ${item.price.toFixed(2)}</span><span class="promo-price">R$ ${item.promotionalPrice.toFixed(2)}</span>`
-                : `R$ ${item.price.toFixed(2)}`;
+            let priceHtml = `R$ ${item.price.toFixed(2)}`;
+            if (effectivePrice === 0) {
+                priceHtml = hasPromotionalPrice(item) && item.price > 0
+                    ? `<span class="original-price">R$ ${item.price.toFixed(2)}</span><span class="promo-price free-price">Grátis!</span>`
+                    : `<span class="promo-price free-price">Grátis!</span>`;
+            } else if (hasPromotionalPrice(item)) {
+                priceHtml = `<span class="original-price">R$ ${item.price.toFixed(2)}</span><span class="promo-price">R$ ${item.promotionalPrice.toFixed(2)}</span>`;
+            }
 
             card.innerHTML = `
                 ${photoHtml}
@@ -223,7 +237,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const priceQuery = priceFilter.value;
         if (priceQuery) {
             filteredItems = filteredItems.filter(item => {
-                const price = item.promotionalPrice || item.price;
+                const price = getEffectivePrice(item);
                 switch (priceQuery) {
                     case '-50': return price <= 50;
                     case '50-100': return price > 50 && price <= 100;
@@ -236,8 +250,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const sortQuery = sortFilter.value || 'desc';
         filteredItems.sort((a, b) => {
-            const priceA = a.promotionalPrice || a.price;
-            const priceB = b.promotionalPrice || b.price;
+            const priceA = getEffectivePrice(a);
+            const priceB = getEffectivePrice(b);
 
             if (sortQuery === 'asc') {
                 return priceA - priceB;
@@ -263,7 +277,12 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         if (e.target.classList.contains('btn-copy')) {
-            const price = item.promotionalPrice ? `Preço Promocional: R${item.promotionalPrice.toFixed(2)}` : `Preço: R${item.price.toFixed(2)}`;
+            const effectivePrice = getEffectivePrice(item);
+            const price = effectivePrice === 0
+                ? 'Preço: Grátis!'
+                : hasPromotionalPrice(item)
+                    ? `Preço Promocional: R${item.promotionalPrice.toFixed(2)}`
+                    : `Preço: R${item.price.toFixed(2)}`;
             const textToCopy = `Item: ${item.name}\nDescrição: ${item.description}\n${price}\nEstado: ${item.condition}`;
             navigator.clipboard.writeText(textToCopy).then(() => {
                 e.target.textContent = 'Copiado!';

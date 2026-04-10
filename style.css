@@ -413,6 +413,10 @@ body.modal-open {
     color: var(--promo-color);
 }
 
+.price .free-price {
+    font-size: inherit;
+}
+
 .item-actions {
     display: grid;
     grid-template-columns: 1fr;
