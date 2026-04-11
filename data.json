@@ -791,19 +791,6 @@
       ]
     },
     {
-      "id": 118,
-      "name": "Suporte para Livros em Metal Preto",
-      "description": "Suporte para livros em metal preto, útil para organizar estante ou mesa.",
-      "price": 10,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/suporte-para-livros-metal-preto-10-1.webp",
-        "images/suporte-para-livros-metal-preto-10-2.webp",
-        "images/suporte-para-livros-metal-preto-10-3.webp"
-      ]
-    },
-    {
       "id": 119,
       "name": "Tripé para Celular e Câmera em Alumínio",
       "description": "Tripé em alumínio para celular e câmera, leve e fácil de transportar.",
@@ -935,17 +922,6 @@
       ]
     },
     {
-      "id": 131,
-      "name": "Jogo Uno na Caixa",
-      "description": "Jogo de cartas Uno na caixa, pronto para brincar em família ou com amigos.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Brinquedos",
-      "photos": [
-        "images/jogo-uno-na-caixa-0.jpg"
-      ]
-    },
-    {
       "id": 132,
       "name": "Cortina Blackout Bellajanela 300 x 150 cm",
       "description": "Cortina blackout da Bellajanela com ilhós, medindo 300 x 150 cm, com alguns fios puxados.",
@@ -1048,17 +1024,6 @@
       ]
     },
     {
-      "id": 144,
-      "name": "Jarra em Vidro",
-      "description": "Jarra transparente em vidro com alça e bico, útil para água, suco ou outras bebidas.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/jarra-em-vidro-0.jpg"
-      ]
-    },
-    {
       "id": 147,
       "name": "Porta-Papel Higiênico de Piso em Alumínio",
       "description": "Porta-papel higiênico de piso em alumínio, leve e prático para banheiro.",
@@ -1113,6 +1078,85 @@
       "category": "Decoração",
       "photos": [
         "images/vaso-plastico-grande-para-flores-0.jpg"
+      ]
+    },
+    {
+      "id": 152,
+      "name": "Amazon Echo Dot 5 com Adaptador",
+      "description": "Caixa de som inteligente Amazon Echo Dot de 5ª geração, na cor preta, com adaptador incluso.",
+      "price": 330,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/amazon-echo-dot-5-com-adaptador-330-1.jpg",
+        "images/amazon-echo-dot-5-com-adaptador-330-2.jpg"
+      ]
+    },
+    {
+      "id": 153,
+      "name": "Bowl Grande Veggie",
+      "description": "Bowl grande em cerâmica na cor preta, com estampa \"Tasty\", ótimo para sopa, cereal ou caldos.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/bowl-grande-veggie-10.jpg"
+      ]
+    },
+    {
+      "id": 154,
+      "name": "Bowl Vegetais",
+      "description": "Bowl pequeno em cerâmica branca com detalhes amarelos de vegetais, bom para sobremesas, frutas ou petiscos.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/bowl-vegetais-7.jpg"
+      ]
+    },
+    {
+      "id": 155,
+      "name": "Ramekin de Cerâmica Branco (cada um)",
+      "description": "Ramekin de cerâmica branca com laterais caneladas, ideal para sobremesas, molhos ou pequenas porções. Preço por unidade.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/ramekin-ceramica-cada-um-7.jpg"
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Serra para Madeira com Arco",
+      "description": "Serra manual para madeira com arco metálico e cabo plástico, usada, útil para cortes simples.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/serra-madeira-com-arco-usada-20.jpg"
+      ]
+    },
+    {
+      "id": 157,
+      "name": "Shaker em Plástico Novo",
+      "description": "Shaker em plástico com tampa rosqueável e misturador interno, novo, ideal para bebidas e suplementos.",
+      "price": 10,
+      "condition": "novo",
+      "category": "Outros",
+      "photos": [
+        "images/shakera-em-plastico-nova-10.jpg"
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Xícara de Vidro Nescafé Dolce Gusto (unidade)",
+      "description": "Xícara de vidro Nescafé Dolce Gusto com alça transparente. Preço por unidade.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/xicaras-nescafe-dolce-gusto-unidade-15-1.jpg",
+        "images/xicaras-nescafe-dolce-gusto-unidade-15-2.jpg"
       ]
     }
   ]
