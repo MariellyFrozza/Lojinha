@@ -567,20 +567,6 @@
       ]
     },
     {
-      "id": 95,
-      "name": "Ventilador Arno Silence Force Preto 110V",
-      "description": "Ventilador Arno Silence Force preto com grade ampla, hélice de alto fluxo e 3 velocidades para uso diário. Voltagem 110V.",
-      "price": 120,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/ventilador-arno-silence-force-preto-110v-120-1.jpg",
-        "images/ventilador-arno-silence-force-preto-110v-120-2.jpg",
-        "images/ventilador-arno-silence-force-preto-110v-120-3.jpg",
-        "images/ventilador-arno-silence-force-preto-110v-120-4.jpg"
-      ]
-    },
-    {
       "id": 97,
       "name": "Antena de TV Digital Intelbras",
       "description": "Antena interna Intelbras para TV digital, compacta e fácil de instalar.",
