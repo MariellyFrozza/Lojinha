@@ -219,7 +219,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function filterItems() {
-        let filteredItems = [...allItems];
+        let filteredItems = allItems.filter(item => !item.hidden);
 
         // Name filter
         const nameQuery = nameFilter.value.toLowerCase();

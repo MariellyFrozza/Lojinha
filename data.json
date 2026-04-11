@@ -11,18 +11,6 @@
   ],
   "items": [
     {
-      "id": 18,
-      "name": "Fantasia de Pirata",
-      "description": "Dois chapéus, duas espadas, cinco lenços, cinto de pedrarias e moedas de ouro que valem mais do que dinheiro. Apenas para marujos!",
-      "price": 10,
-      "condition": "bom estado",
-      "category": "Vestuário",
-      "photos": [
-        "images/fantasia-de-pirata1-10.jpg",
-        "images/fantasia-de-pirata2-10.jpg"
-      ]
-    },
-    {
       "id": 20,
       "name": "Headset Fifine",
       "description": "Headset com fio para computador. Com microfone embutido. Ideal para reuniões.",
@@ -60,83 +48,6 @@
       ]
     },
     {
-      "id": 26,
-      "name": "Tudo é Rio",
-      "description": "Livro de Carla Madeira. Romance intenso sobre culpa, perda e desejo entre Dalva, Venâncio e Lucy.",
-      "price": 20,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/tudo-e-rio-20.jpeg"
-      ]
-    },
-    {
-      "id": 28,
-      "name": "Brevíssima História de Portugal",
-      "description": "Livro de A. H. de Oliveira Marques. Panorama conciso da formação e da trajetória histórica de Portugal.",
-      "price": 15,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/brevissima-historia-de-portugal-15.jpeg"
-      ]
-    },
-    {
-      "id": 30,
-      "name": "Quarto de Despejo: Diário de uma Favelada",
-      "description": "Livro de Carolina Maria de Jesus. Diário autobiográfico sobre a vida na favela e a luta cotidiana pela sobrevivência.",
-      "price": 30,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/quarto-de-despejo-diario-de-uma-favelada-30.jpeg"
-      ]
-    },
-    {
-      "id": 31,
-      "name": "Teto para Dois",
-      "description": "Livro de Beth O'Leary. Romance em que Tiffy e Leon dividem apartamento e cama sem nunca se encontrar.",
-      "price": 30,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/teto-para-dois-30.jpeg"
-      ]
-    },
-    {
-      "id": 32,
-      "name": "O Conto da Aia",
-      "description": "Livro de Margaret Atwood. Distopia sobre um regime totalitário que controla brutalmente o corpo e a liberdade das mulheres.",
-      "price": 15,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/o-conto-da-aia-15.jpeg"
-      ]
-    },
-    {
-      "id": 33,
-      "name": "O Mistério da Cruz Egípcia",
-      "description": "Livro de Ellery Queen. Romance policial em que uma série de assassinatos desafia a lógica do detetive. Edição capa dura.",
-      "price": 30,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/o-misterio-da-cruz-egipcia-30.jpeg"
-      ]
-    },
-    {
-      "id": 36,
-      "name": "Feitiço para Coisas Perdidas",
-      "description": "Livro de Jenna Evans Welch. Romance juvenil com magia, segredos familiares e uma herança misteriosa em Salem.",
-      "price": 30,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/feitico-para-coisas-perdidas-30.jpeg"
-      ]
-    },
-    {
       "id": 37,
       "name": "A Pequena Loja de Venenos",
       "description": "Livro de Sarah Penner. Ficção histórica com suspense sobre uma loja secreta de venenos e mulheres ligadas por segredos.",
@@ -145,39 +56,6 @@
       "category": "Livros",
       "photos": [
         "images/a-pequena-loja-de-venenos-20.jpeg"
-      ]
-    },
-    {
-      "id": 38,
-      "name": "Bem-vindos à Livraria Hyunam-Dong",
-      "description": "Livro de Hwang Bo-Reum. Romance acolhedor sobre recomeços, amizade e os encontros transformadores de uma livraria.",
-      "price": 17,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/bem-vindos-a-livraria-hyunam-dong-17.jpeg"
-      ]
-    },
-    {
-      "id": 40,
-      "name": "A Voz da Sereia Volta Neste Livro",
-      "description": "Livro de Amanda Lovelace. Coletânea de poemas sobre dor, cura, feminilidade e retomada da própria voz.",
-      "price": 25,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/a-voz-da-sereia-volta-neste-livro-25.jpeg"
-      ]
-    },
-    {
-      "id": 42,
-      "name": "Diário de uma Pessoa Não Tão Ansiosa: Desvendando a Vida Adulta",
-      "description": "Livro de Beth Evans. Reflexões ilustradas e bem-humoradas sobre ansiedade e os desafios da vida adulta.",
-      "price": 20,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/diario-de-uma-pessoa-nao-tao-ansiosa-desvendando-a-vida-adulta-20.jpeg"
       ]
     },
     {
@@ -342,20 +220,6 @@
       ]
     },
     {
-      "id": 61,
-      "name": "Espelho Branco Grande 125 x 60 cm",
-      "description": "Espelho grande com moldura branca, medindo 125 x 60 cm.",
-      "price": 110,
-      "promotionalPrice": 70,
-      "condition": "bom estado",
-      "category": "Móveis",
-      "photos": [
-        "images/espelho-branco-grande-125x60cm1-110.jpg",
-        "images/espelho-branco-grande-125x60cm2-110.jpg",
-        "images/espelho-branco-grande-125x60cm3-110.jpg"
-      ]
-    },
-    {
       "id": 62,
       "name": "Kit com 2 Tesouras Decorativas para Papel",
       "description": "Kit com 2 tesouras decorativas para papel, ideal para trabalhos manuais e artesanato.",
@@ -480,13 +344,13 @@
       "id": 73,
       "name": "Hub USB FTX para MacBook com Ethernet",
       "description": "Hub USB-C FTX para MacBook com Ethernet, HDMI, portas USB e leitor de cartão em corpo compacto de alumínio.",
-      "price": 200,
+      "price": 150,
       "condition": "novo",
       "category": "Eletrônicos",
       "photos": [
-        "images/hub-usb-ftx-para-macbook-com-ethernet1-200.jpg",
-        "images/hub-usb-ftx-para-macbook-com-ethernet2-200.jpg",
-        "images/hub-usb-ftx-para-macbook-com-ethernet3-200.jpg"
+        "images/hub-usb-ftx-para-macbook-com-ethernet1-150.jpg",
+        "images/hub-usb-ftx-para-macbook-com-ethernet2-150.jpg",
+        "images/hub-usb-ftx-para-macbook-com-ethernet3-150.jpg"
       ]
     },
     {
@@ -541,13 +405,13 @@
       "id": 79,
       "name": "Cafeteira Nescafé Dolce Gusto Genio S Touch Prata",
       "description": "Cafeteira de cápsulas Genio S Touch com painel touch, até 15 bar de pressão, ajuste de temperatura e função XL para bebidas quentes ou frias.",
-      "price": 320,
+      "price": 430,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-320-1.jpg",
-        "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-320-2.jpg",
-        "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-320-3.jpg"
+        "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-430-1.jpg",
+        "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-430-2.jpg",
+        "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-430-3.jpg"
       ]
     },
     {
@@ -566,14 +430,14 @@
       "id": 81,
       "name": "Casaco Impermeável Columbia Forrado Marrom para Neve com Touca GG",
       "description": "Casaco Columbia impermeável e forrado, com capuz, bolsos frontais e punhos ajustáveis. Tamanho GG.",
-      "price": 200,
+      "price": 250,
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
-        "images/casaco-impermeavel-columbia-forrado-marrom-neve-com-touca-gg-200-1.jpg",
-        "images/casaco-impermeavel-columbia-forrado-marrom-neve-com-touca-gg-200-2.jpg",
-        "images/casaco-impermeavel-columbia-forrado-marrom-neve-com-touca-gg-200-3.jpg",
-        "images/casaco-impermeavel-columbia-forrado-marrom-neve-com-touca-gg-200-4.jpg"
+        "images/casaco-impermeavel-columbia-forrado-marrom-neve-com-touca-gg-250-1.jpg",
+        "images/casaco-impermeavel-columbia-forrado-marrom-neve-com-touca-gg-250-2.jpg",
+        "images/casaco-impermeavel-columbia-forrado-marrom-neve-com-touca-gg-250-3.jpg",
+        "images/casaco-impermeavel-columbia-forrado-marrom-neve-com-touca-gg-250-4.jpg"
       ]
     },
     {
@@ -599,19 +463,6 @@
         "images/chaleira-eletrica-interior-inoxbranca-110v-40-1.jpg",
         "images/chaleira-eletrica-interior-inoxbranca-110v-40-2.jpg",
         "images/chaleira-eletrica-interior-inoxbranca-110v-40-3.jpg"
-      ]
-    },
-    {
-      "id": 84,
-      "name": "Cômoda Branca com Corrediça Telescópica 105 x 90 cm",
-      "description": "Cômoda branca com 8 gavetas e corrediças telescópicas, oferecendo abertura mais suave e bom espaço para organização. Medidas de 105 x 90 cm.",
-      "price": 120,
-      "condition": "bom estado",
-      "category": "Móveis",
-      "photos": [
-        "images/comoda-branca-corredica-telescopica-105x90-120-1.jpg",
-        "images/comoda-branca-corredica-telescopica-105x90-120-2.jpg",
-        "images/comoda-branca-corredica-telescopica-105x90-120-3.jpg"
       ]
     },
     {
@@ -708,11 +559,11 @@
       "id": 94,
       "name": "Umidificador Frozen Iluminado 110V",
       "description": "Umidificador com estampa Frozen e iluminação suave, ideal para quarto infantil. Funciona em 110V.",
-      "price": 80,
+      "price": 60,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/umidificador-frozen-iluminado-110v-80.jpg"
+        "images/umidificador-frozen-iluminado-110v-60.jpg"
       ]
     },
     {
@@ -727,18 +578,6 @@
         "images/ventilador-arno-silence-force-preto-110v-120-2.jpg",
         "images/ventilador-arno-silence-force-preto-110v-120-3.jpg",
         "images/ventilador-arno-silence-force-preto-110v-120-4.jpg"
-      ]
-    },
-    {
-      "id": 96,
-      "name": "Amazon Fire TV Stick HD com Adaptador",
-      "description": "Dispositivo de streaming Amazon Fire TV Stick HD com adaptador de tomada e acessórios para uso na TV.",
-      "price": 180,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/amazon-fire-tv-stick-hd-com-adaptador-180-1.webp",
-        "images/amazon-fire-tv-stick-hd-com-adaptador-180-2.webp"
       ]
     },
     {
@@ -1063,7 +902,8 @@
         "images/mesa-com-tampo-de-vidro-e-6-cadeiras-em-suede-900-3.jpg",
         "images/mesa-com-tampo-de-vidro-e-6-cadeiras-em-suede-900-2.jpg",
         "images/mesa-com-tampo-de-vidro-e-6-cadeiras-em-suede-900-1.jpg"
-      ]
+      ],
+      "hidden": true
     },
     {
       "id": 124,
@@ -1188,6 +1028,199 @@
       "category": "Móveis",
       "photos": [
         "images/prateleira-branca-madeira-100x20-20.jpg"
+      ]
+    },
+    {
+      "id": 135,
+      "name": "Água Desmineralizada Cockpit 1L Lacrada",
+      "description": "Água desmineralizada Cockpit de 1 litro, lacrada, indicada para diluição de líquidos arrefecedores e baterias.",
+      "price": 0,
+      "condition": "novo",
+      "category": "Outros",
+      "photos": [
+        "images/agua-desmineralizada-lacrada-0.jpg"
+      ]
+    },
+    {
+      "id": 136,
+      "name": "Aquecedor Elétrico Cadence 110V",
+      "description": "Aquecedor elétrico Cadence branco, compacto e prático para uso em ambientes pequenos. Voltagem 110V.",
+      "price": 35,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/aquecedor-eletrico-cadence-110v-35-1.jpg",
+        "images/aquecedor-eletrico-cadence-110v-35-2.jpg"
+      ]
+    },
+    {
+      "id": 137,
+      "name": "Assadeira Retangular de Alumínio",
+      "description": "Assadeira retangular de alumínio, útil para bolos, carnes, massas e preparos do dia a dia.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/assadeira-de-aluminio-0.jpg"
+      ]
+    },
+    {
+      "id": 138,
+      "name": "Copo Shot de Vidro Caveira",
+      "description": "Copo shot de vidro com formato de caveira, ideal para bar, coleção ou decoração.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/copo-shot-caveira-0.jpg"
+      ]
+    },
+    {
+      "id": 139,
+      "name": "Par de Copos Shot Decorativos em Cerâmica",
+      "description": "Par de copos shot em cerâmica com visual de mini caneca e estampas decorativas.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/copos-shot-ceramica-decorativo-0.jpg"
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Par de Copos Shot de Vidro com Estampa",
+      "description": "Par de copos shot de vidro com estampas divertidas, bons para servir ou compor um cantinho de bar.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/copos-shot-vidro-tequila-0.jpg"
+      ]
+    },
+    {
+      "id": 141,
+      "name": "Par de Copos Tipo Caldereta Brahma",
+      "description": "Par de copos tipo caldereta com estampa Brahma, ideais para cerveja, chopp ou coleção.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/copos-tipo-caldereta-chopp-brahma-5.jpg"
+      ]
+    },
+    {
+      "id": 142,
+      "name": "Filtro de Linha Coibeu com 4 Tomadas, 1 Universal e 3 USB",
+      "description": "Filtro de linha Coibeu com plugue de 3 pinos, cabo de 130 cm, 4 tomadas padrão, 1 tomada universal e 3 portas USB.",
+      "price": 30,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/filtro-de-linha-coibeu-3-pinos-130cm-de-cabo-4-tomadas-1-universal-3-usb-30.jpg"
+      ]
+    },
+    {
+      "id": 143,
+      "name": "Forma de Bolo com Furo em Alumínio",
+      "description": "Forma de bolo com furo central em alumínio, prática para bolos caseiros e pudins.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/forma-de-bolo-furada-em-aluminio-0.jpg"
+      ]
+    },
+    {
+      "id": 144,
+      "name": "Jarra em Vidro",
+      "description": "Jarra transparente em vidro com alça e bico, útil para água, suco ou outras bebidas.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/jarra-em-vidro-0.jpg"
+      ]
+    },
+    {
+      "id": 145,
+      "name": "Panela de Pressão Convencional",
+      "description": "Panela de pressão convencional em alumínio, boa para preparos do dia a dia.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/panela-de-pressao-convencional-20-1.jpg",
+        "images/panela-de-pressao-convencional-20-2.jpg"
+      ]
+    },
+    {
+      "id": 146,
+      "name": "Panela Pipoqueira Tramontina",
+      "description": "Panela pipoqueira Tramontina com manivela e tampa de vidro, ideal para fazer pipoca no fogão.",
+      "price": 45,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/panela-pipoqueira-tramontina-45-1.jpg",
+        "images/panela-pipoqueira-tramontina-45-2.jpg",
+        "images/panela-pipoqueira-tramontina-45-3.jpg"
+      ]
+    },
+    {
+      "id": 147,
+      "name": "Porta-Papel Higiênico de Piso em Alumínio",
+      "description": "Porta-papel higiênico de piso em alumínio, leve e prático para banheiro.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/porta-papel-higienico-de-piso-em-aluminio-15-1.jpg",
+        "images/porta-papel-higienico-de-piso-em-aluminio-15-2.jpg"
+      ]
+    },
+    {
+      "id": 148,
+      "name": "Kit com 2 Prateleiras de Vidro de Canto para Banheiro",
+      "description": "Kit com 2 prateleiras de vidro de canto para banheiro, boas para organizar sabonete, shampoo e acessórios.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Móveis",
+      "photos": [
+        "images/prateleiras-de-vidro-para-banheiro-tipo-canto-5.jpg",
+        "images/prateleiras-de-vidro-para-banheiro-tipo-canto-5-2.jpg"
+      ]
+    },
+    {
+      "id": 149,
+      "name": "Restaurador de Vidros Automotivos Vonixx Prizm",
+      "description": "Produto Vonixx Prizm para restauração de vidros automotivos, com menos de um terço utilizado e bastante conteúdo restante.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/produto-para-vidros-automotivos-vonixx-prizm-menos-de-um-terco-utilizado-10.jpg"
+      ]
+    },
+    {
+      "id": 150,
+      "name": "Suporte Plástico para Fazer Batata Chips no Micro-ondas",
+      "description": "Suporte plástico para preparar batata chips no micro-ondas, simples de usar e fácil de lavar.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/suporte-para-fazer-batata-chips-no-microondas-plastico-0.jpg"
+      ]
+    },
+    {
+      "id": 151,
+      "name": "Vaso Plástico Grande para Flores",
+      "description": "Vaso plástico grande para flores ou folhagens, com textura canelada e cor azul.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/vaso-plastico-grande-para-flores-0.jpg"
       ]
     }
   ]
