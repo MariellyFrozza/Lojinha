@@ -48,17 +48,6 @@
       ]
     },
     {
-      "id": 37,
-      "name": "A Pequena Loja de Venenos",
-      "description": "Livro de Sarah Penner. Ficção histórica com suspense sobre uma loja secreta de venenos e mulheres ligadas por segredos.",
-      "price": 20,
-      "condition": "bom estado",
-      "category": "Livros",
-      "photos": [
-        "images/a-pequena-loja-de-venenos-20.jpeg"
-      ]
-    },
-    {
       "id": 46,
       "name": "Kit de Churrasco com Maleta (4 Peças)",
       "description": "Kit de churrasco com maleta contendo faca, garfo, pegador e amolador. Nunca usado.",
@@ -217,30 +206,6 @@
       "photos": [
         "images/coleira-rosa-com-guia-para-gato-ou-cachorro-medio1-20.jpg",
         "images/coleira-rosa-com-guia-para-gato-ou-cachorro-medio2-20.jpg"
-      ]
-    },
-    {
-      "id": 63,
-      "name": "Kit com 3 Potes de Cerâmica Raposa Coloridos",
-      "description": "Kit com 3 potes de cerâmica em formato de raposa, coloridos e ideais para decoração.",
-      "price": 20,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/kit-com-3-potes-de-ceramica-raposa-coloridos1-20.jpg",
-        "images/kit-com-3-potes-de-ceramica-raposa-coloridos2-20.jpg"
-      ]
-    },
-    {
-      "id": 64,
-      "name": "Porta-Retrato Cinema em Vidro",
-      "description": "Porta-retrato em vidro com moldura preta inspirada em rolo de filme, ideal para fotos e decoração de estante ou mesa.",
-      "price": 10,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/porta-retrato-cinema-em-vidro1-10.jpg",
-        "images/porta-retrato-cinema-em-vidro2-10.jpg"
       ]
     },
     {
@@ -780,17 +745,6 @@
       ]
     },
     {
-      "id": 116,
-      "name": "Saboneteira de Plástico Transparente Nova",
-      "description": "Saboneteira de plástico transparente, nova e pronta para uso.",
-      "price": 0,
-      "condition": "novo",
-      "category": "Outros",
-      "photos": [
-        "images/saboneteira-de-plastico-transparente-nova-0.jpg"
-      ]
-    },
-    {
       "id": 119,
       "name": "Tripé para Celular e Câmera em Alumínio",
       "description": "Tripé em alumínio para celular e câmera, leve e fácil de transportar.",
@@ -1067,17 +1021,6 @@
       "category": "Outros",
       "photos": [
         "images/suporte-para-fazer-batata-chips-no-microondas-plastico-0.jpg"
-      ]
-    },
-    {
-      "id": 151,
-      "name": "Vaso Plástico Grande para Flores",
-      "description": "Vaso plástico grande para flores ou folhagens, com textura canelada e cor azul.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/vaso-plastico-grande-para-flores-0.jpg"
       ]
     },
     {
