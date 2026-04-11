@@ -1154,6 +1154,41 @@
       "photos": [
         "images/jogo-uno-na-caixa-0.jpg"
       ]
+    },
+    {
+      "id": 132,
+      "name": "Cortina Blackout Bellajanela 300 x 150 cm",
+      "description": "Cortina blackout da Bellajanela com ilhós, medindo 300 x 150 cm, com alguns fios puxados.",
+      "price": 40,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/cortina-blackout-pano-bellajanela-300x150-com-fios-puxados-40.jpg",
+        "images/cortina-blackout-pano-bellajanela-300x150-com-fios-puxados-40-2.jpg"
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Cortina para Sala 240 x 220 cm",
+      "description": "Cortina clara com ilhós para sala, medindo 240 x 220 cm, leve e fácil de combinar com diferentes ambientes.",
+      "price": 60,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/cortina-para-sala-240x220-60-1.jpg",
+        "images/cortina-para-sala-240x220-60-2.jpg"
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Prateleira Branca de Madeira 100 x 20 cm",
+      "description": "Prateleira branca de madeira com 100 x 20 cm, boa para livros, objetos decorativos ou apoio leve.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Móveis",
+      "photos": [
+        "images/prateleira-branca-madeira-100x20-20.jpg"
+      ]
     }
   ]
 }
