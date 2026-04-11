@@ -48,6 +48,15 @@ document.addEventListener('DOMContentLoaded', () => {
         return hasPromotionalPrice(item) ? item.promotionalPrice : item.price;
     }
 
+    function formatPriceForMessage(item) {
+        const effectivePrice = getEffectivePrice(item);
+        if (effectivePrice === 0) {
+            return 'Grátis!';
+        }
+
+        return `R$ ${effectivePrice.toFixed(2).replace('.', ',')}`;
+    }
+
     function renderItems(items) {
         itemsContainer.innerHTML = '';
         if (items.length === 0) {
@@ -271,7 +280,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const item = allItems.find(i => i.id === itemId);
 
         if (e.target.classList.contains('btn-whatsapp')) {
-            const message = encodeURIComponent(`Olá! Tenho interesse no item: ${item.name}.`);
+            const message = encodeURIComponent(`Olá! Tenho interesse no item: ${item.name} (${formatPriceForMessage(item)}).`);
             window.open(`https://wa.me/${whatsappNumber}?text=${message}`, '_blank');
             return;
         }

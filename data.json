@@ -220,18 +220,6 @@
       ]
     },
     {
-      "id": 62,
-      "name": "Kit com 2 Tesouras Decorativas para Papel",
-      "description": "Kit com 2 tesouras decorativas para papel, ideal para trabalhos manuais e artesanato.",
-      "price": 10,
-      "promotionalPrice": 5,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/kit-com-2-tesouras-decorativas-para-papel1-10.jpg"
-      ]
-    },
-    {
       "id": 63,
       "name": "Kit com 3 Potes de Cerâmica Raposa Coloridos",
       "description": "Kit com 3 potes de cerâmica em formato de raposa, coloridos e ideais para decoração.",
@@ -450,19 +438,6 @@
       "photos": [
         "images/chaleira-eletrica-cadence-vermelha-220v-35-1.jpg",
         "images/chaleira-eletrica-cadence-vermelha-220v-35-2.jpg"
-      ]
-    },
-    {
-      "id": 83,
-      "name": "Chaleira Elétrica Branca com Interior em Inox 110V",
-      "description": "Chaleira elétrica branca com interior em inox, jarra sem fio e base destacável para facilitar o uso. Voltagem 110V.",
-      "price": 40,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/chaleira-eletrica-interior-inoxbranca-110v-40-1.jpg",
-        "images/chaleira-eletrica-interior-inoxbranca-110v-40-2.jpg",
-        "images/chaleira-eletrica-interior-inoxbranca-110v-40-3.jpg"
       ]
     },
     {
@@ -841,17 +816,6 @@
       ]
     },
     {
-      "id": 120,
-      "name": "Vela Eletrônica Média a Pilha",
-      "description": "Vela eletrônica média a pilha, ideal para decorar com luz suave.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/vela-eletronica-media-a-pilha-5.jpg"
-      ]
-    },
-    {
       "id": 121,
       "name": "Ventilador Portátil USB-C com 5 Velocidades",
       "description": "Ventilador portátil com recarga USB-C e 5 velocidades.",
@@ -1040,28 +1004,6 @@
       ]
     },
     {
-      "id": 137,
-      "name": "Assadeira Retangular de Alumínio",
-      "description": "Assadeira retangular de alumínio, útil para bolos, carnes, massas e preparos do dia a dia.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/assadeira-de-aluminio-0.jpg"
-      ]
-    },
-    {
-      "id": 138,
-      "name": "Copo Shot de Vidro Caveira",
-      "description": "Copo shot de vidro com formato de caveira, ideal para bar, coleção ou decoração.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/copo-shot-caveira-0.jpg"
-      ]
-    },
-    {
       "id": 139,
       "name": "Par de Copos Shot Decorativos em Cerâmica",
       "description": "Par de copos shot em cerâmica com visual de mini caneca e estampas decorativas.",
@@ -1106,17 +1048,6 @@
       ]
     },
     {
-      "id": 143,
-      "name": "Forma de Bolo com Furo em Alumínio",
-      "description": "Forma de bolo com furo central em alumínio, prática para bolos caseiros e pudins.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/forma-de-bolo-furada-em-aluminio-0.jpg"
-      ]
-    },
-    {
       "id": 144,
       "name": "Jarra em Vidro",
       "description": "Jarra transparente em vidro com alça e bico, útil para água, suco ou outras bebidas.",
@@ -1125,31 +1056,6 @@
       "category": "Outros",
       "photos": [
         "images/jarra-em-vidro-0.jpg"
-      ]
-    },
-    {
-      "id": 145,
-      "name": "Panela de Pressão Convencional",
-      "description": "Panela de pressão convencional em alumínio, boa para preparos do dia a dia.",
-      "price": 20,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/panela-de-pressao-convencional-20-1.jpg",
-        "images/panela-de-pressao-convencional-20-2.jpg"
-      ]
-    },
-    {
-      "id": 146,
-      "name": "Panela Pipoqueira Tramontina",
-      "description": "Panela pipoqueira Tramontina com manivela e tampa de vidro, ideal para fazer pipoca no fogão.",
-      "price": 45,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/panela-pipoqueira-tramontina-45-1.jpg",
-        "images/panela-pipoqueira-tramontina-45-2.jpg",
-        "images/panela-pipoqueira-tramontina-45-3.jpg"
       ]
     },
     {
