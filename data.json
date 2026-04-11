@@ -5,6 +5,7 @@
     "Móveis",
     "Vestuário",
     "Livros",
+    "Brinquedos",
     "Decoração",
     "Outros"
   ],
@@ -236,13 +237,13 @@
       "id": 52,
       "name": "Carteira Rosa Grande",
       "description": "Carteira grande na cor rosa, com alça e acabamento em material PU.",
-      "price": 25,
+      "price": 15,
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
-        "images/carteira-rosa-grande1-25.jpeg",
-        "images/carteira-rosa-grande2-25.jpeg",
-        "images/carteira-rosa-grande3-25.jpeg"
+        "images/carteira-rosa-grande1-15.jpeg",
+        "images/carteira-rosa-grande2-15.jpeg",
+        "images/carteira-rosa-grande3-15.jpeg"
       ]
     },
     {
@@ -516,13 +517,13 @@
       "id": 77,
       "name": "Teclado Logitech com Receptor Unifying",
       "description": "Teclado Logitech sem fio com receptor Unifying, layout compacto com teclado numérico e teclas de atalho para uso diário.",
-      "price": 30,
+      "price": 25,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/teclado-logitech-com-receptor-unifying1-30.jpg",
-        "images/teclado-logitech-com-receptor-unifying2-30.jpg",
-        "images/teclado-logitech-com-receptor-unifying3-30.jpg"
+        "images/teclado-logitech-com-receptor-unifying1-25.jpg",
+        "images/teclado-logitech-com-receptor-unifying2-25.jpg",
+        "images/teclado-logitech-com-receptor-unifying3-25.jpg"
       ]
     },
     {
@@ -603,7 +604,7 @@
     {
       "id": 84,
       "name": "Cômoda Branca com Corrediça Telescópica 105 x 90 cm",
-      "description": "Cômoda branca com 8 gavetas e corrediças telescópicas, oferecendo abertura mais suave e bom espaço para organização. Medidas aproximadas de 105 x 90 cm.",
+      "description": "Cômoda branca com 8 gavetas e corrediças telescópicas, oferecendo abertura mais suave e bom espaço para organização. Medidas de 105 x 90 cm.",
       "price": 120,
       "condition": "bom estado",
       "category": "Móveis",
@@ -628,7 +629,7 @@
     {
       "id": 86,
       "name": "Moldura de Madeira com Vidro Grande Preta 75 x 55 cm (2 Unidades)",
-      "description": "Moldura grande em madeira preta com vidro, ideal para pôsteres, frases ou fotos. Medidas aproximadas de 75 x 55 cm. Preço unitário de R$200, com desconto levando as duas.",
+      "description": "Moldura grande em madeira preta com vidro, ideal para pôsteres, frases ou fotos. Medidas de 75 x 55 cm. Preço unitário de R$200, com desconto levando as duas.",
       "price": 200,
       "condition": "bom estado",
       "category": "Decoração",
@@ -653,7 +654,7 @@
       "description": "Pelúcia média do Lotso, personagem de Toy Story, macia e ideal para decorar ou presentear.",
       "price": 5,
       "condition": "bom estado",
-      "category": "Outros",
+      "category": "Brinquedos",
       "photos": [
         "images/pelucia-lotso-media-5.jpg"
       ]
@@ -664,7 +665,7 @@
       "description": "Pelúcia média do Stitch, personagem da Disney, macia e ótima para decorar ou presentear.",
       "price": 5,
       "condition": "bom estado",
-      "category": "Outros",
+      "category": "Brinquedos",
       "photos": [
         "images/pelucia-stitch-media-5.jpg"
       ]
@@ -688,8 +689,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/selim-banco-de-bicicleta-san-marino-core-25-1.jpg",
-        "images/selim-banco-de-bicicleta-san-marino-core-25-2.jpg"
+        "images/selim-banco-de-bicicleta-san-marino-core-25-2.jpg",
+        "images/selim-banco-de-bicicleta-san-marino-core-25-1.jpg"
       ]
     },
     {
@@ -701,19 +702,6 @@
       "category": "Eletrônicos",
       "photos": [
         "images/suporte-tv-elg-15.jpg"
-      ]
-    },
-    {
-      "id": 93,
-      "name": "TV CCE 32\" HD Preta com Suporte",
-      "description": "Televisão CCE de 32 polegadas com resolução HD, design slim e suporte incluído para instalação.",
-      "price": 190,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/tv-cce-32-hd-preta-com-suporte-190-1.jpg",
-        "images/tv-cce-32-hd-preta-com-suporte-190-2.jpg",
-        "images/tv-cce-32-hd-preta-com-suporte-190-3.jpg"
       ]
     },
     {
@@ -739,6 +727,432 @@
         "images/ventilador-arno-silence-force-preto-110v-120-2.jpg",
         "images/ventilador-arno-silence-force-preto-110v-120-3.jpg",
         "images/ventilador-arno-silence-force-preto-110v-120-4.jpg"
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Amazon Fire TV Stick HD com Adaptador",
+      "description": "Dispositivo de streaming Amazon Fire TV Stick HD com adaptador de tomada e acessórios para uso na TV.",
+      "price": 180,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/amazon-fire-tv-stick-hd-com-adaptador-180-1.webp",
+        "images/amazon-fire-tv-stick-hd-com-adaptador-180-2.webp"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Antena de TV Digital Intelbras",
+      "description": "Antena interna Intelbras para TV digital, compacta e fácil de instalar.",
+      "price": 25,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/antena-tv-digital-intelbras-25-1.jpg",
+        "images/antena-tv-digital-intelbras-25-2.jpg"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Bandeja Tramontina em Madeira",
+      "description": "Bandeja Tramontina em madeira, útil para servir ou organizar itens na bancada.",
+      "price": 30,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/bandeja-tramontina-madeira-30-1.jpg",
+        "images/bandeja-tramontina-madeira-30-2.jpg",
+        "images/bandeja-tramontina-madeira-30-3.jpg"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Cabideiro de Parede Branco com 4 Ganchos",
+      "description": "Cabideiro de parede branco com 4 ganchos, ideal para casacos, bolsas e acessórios.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Móveis",
+      "photos": [
+        "images/cabideiro-de-parede-branco-4-ganchos-20.webp"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Cabo HDMI para DVI Reforçado com Pontas Gold",
+      "description": "Cabo reforçado com conexão HDMI para DVI e pontas douradas para melhor encaixe.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/cabo-hdmi-para-dvi-reforcado-pontas-gold-15.jpg"
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Caixa de Madeira Pequena",
+      "description": "Caixa pequena em madeira, útil para organização ou decoração.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/caixa-madeira-pequena-5.jpg"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Kit com 2 Bonecos Decorativos de Natal Casal",
+      "description": "Kit com 2 bonecos decorativos de Natal em formato de casal, eles adoram ficar juntos, jamais separe-os.",
+      "price": 50,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-1.jpg",
+        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-2.jpg",
+        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-3.jpg",
+        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-4.jpg",
+        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-5.jpg",
+        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-6.jpg",
+        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-7.jpg"
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Enfeite Cacto \"Lembrei de Você\" em Madeira",
+      "description": "Enfeite em madeira com tema de cacto e frase decorativa \"Lembrei de você\".",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/enfeite-cacto-lembrei-de-voce-em-madeira-10.jpg"
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Fone de Ouvido Bluetooth Skullcandy Jib True 2",
+      "description": "Fone de ouvido bluetooth Skullcandy Jib True 2 com estojo de carregamento.",
+      "price": 70,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-70-1.jpg",
+        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-70-2.jpg",
+        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-70-3.jpg",
+        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-70-4.jpg"
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Lixeira de Escritório em Metal Preta",
+      "description": "Lixeira de escritório em metal preto, compacta e resistente.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/lixeira-escritorio-metal-preto-20-1.webp",
+        "images/lixeira-escritorio-metal-preto-20-2.webp"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Lixeira em Metal Prata",
+      "description": "Lixeira em metal prata, ideal para escritório, banheiro ou lavanderia.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/lixeira-metal-prata-20-1.jpg",
+        "images/lixeira-metal-prata-20-2.jpg"
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Miniatura de Fórmula 1 Red Bull Racing 2025",
+      "description": "Miniatura de Fórmula 1 Red Bull Racing com acabamento detalhado, ótima para coleção ou decoração.",
+      "price": 90,
+      "condition": "bom estado",
+      "category": "Brinquedos",
+      "photos": [
+        "images/miniatura-formula-1-red-bull-racing-2025-90-1.jpg",
+        "images/miniatura-formula-1-red-bull-racing-2025-90-2.jpg",
+        "images/miniatura-formula-1-red-bull-racing-2025-90-3.jpg",
+        "images/miniatura-formula-1-red-bull-racing-2025-90-4.jpg"
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Miniatura Yoshi Mario Kart McDonald's",
+      "description": "Miniatura do Yoshi da linha Mario Kart McDonald's, ideal para colecionadores.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Brinquedos",
+      "photos": [
+        "images/miniatura-yoshi-mario-kart-mcdonalds-10-2.jpg",
+        "images/miniatura-yoshi-mario-kart-mcdonalds-10-1.jpg"
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Monitor LG 24\" Full HD 75Hz com 2 HDMI",
+      "description": "Monitor LG de 24 polegadas com resolução Full HD, 75 Hz e duas entradas HDMI.",
+      "price": 400,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/monitor-24-lg-full-hd-75hz-duas-hdmi-400-4.jpg",
+        "images/monitor-24-lg-full-hd-75hz-duas-hdmi-400-3.jpg",
+        "images/monitor-24-lg-full-hd-75hz-duas-hdmi-400-2.jpg",
+        "images/monitor-24-lg-full-hd-75hz-duas-hdmi-400-1.jpg"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Monitor ASUS 24\" Full HD 75Hz com HDMI DVI e VGA",
+      "description": "Monitor ASUS de 24 polegadas com resolução Full HD, 75 Hz e entradas HDMI, DVI e VGA.",
+      "price": 380,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-1.jpg",
+        "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-2.jpg",
+        "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-3.jpg",
+        "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-4.jpg",
+        "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-5.jpg"
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Persiana Branca 120 x 160 cm com Detalhes",
+      "description": "Persiana branca de 120 x 160 cm, com detalhes de uso visíveis.",
+      "price": 30,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/persiana-branca-120x160-com-detalhes-30.webp"
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Persiana Preta 160 x 160 cm",
+      "description": "Persiana preta de 160 x 160 cm, ideal para controle de luz em quarto ou escritório.",
+      "price": 50,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/persiana-preta-160x160-50-1.webp",
+        "images/persiana-preta-160x160-50-2.webp"
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Kit com 2 Prateleiras Brancas 60 x 15 cm",
+      "description": "Kit com 2 prateleiras brancas de 60 x 15 cm, boas para livros, decoração ou apoio leve.",
+      "price": 40,
+      "condition": "bom estado",
+      "category": "Móveis",
+      "photos": [
+        "images/kit-duas-prateleiras-brancas-60x15-40-1.jpg",
+        "images/kit-duas-prateleiras-brancas-60x15-40-2.jpg",
+        "images/kit-duas-prateleiras-brancas-60x15-40-3.jpg"
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Prateleira Preta para Livros 120 x 25 x 4 cm",
+      "description": "Prateleira preta para livros com 120 cm de largura, 25 cm de profundidade e 4 cm de espessura.",
+      "price": 50,
+      "condition": "bom estado",
+      "category": "Móveis",
+      "photos": [
+        "images/prateleira-preta-para-livros-120x25x4cm-50-1.webp",
+        "images/prateleira-preta-para-livros-120x25x4cm-50-2.webp"
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Quadro com Arte de Artista Curitibano (Panda)",
+      "description": "Quadro com arte de artista curitibano em estilo panda, ótimo para decorar o ambiente.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/quadro-com-arte-de-artista-curitibano-panda-0.jpg"
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Saboneteira de Plástico Transparente Nova",
+      "description": "Saboneteira de plástico transparente, nova e pronta para uso.",
+      "price": 0,
+      "condition": "novo",
+      "category": "Outros",
+      "photos": [
+        "images/saboneteira-de-plastico-transparente-nova-0.jpg"
+      ]
+    },
+    {
+      "id": 118,
+      "name": "Suporte para Livros em Metal Preto",
+      "description": "Suporte para livros em metal preto, útil para organizar estante ou mesa.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/suporte-para-livros-metal-preto-10-1.webp",
+        "images/suporte-para-livros-metal-preto-10-2.webp",
+        "images/suporte-para-livros-metal-preto-10-3.webp"
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Tripé para Celular e Câmera em Alumínio",
+      "description": "Tripé em alumínio para celular e câmera, leve e fácil de transportar.",
+      "price": 25,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/tripe-celular-e-camera-em-aluminio-25-1.jpg",
+        "images/tripe-celular-e-camera-em-aluminio-25-2.jpg"
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Vela Eletrônica Média a Pilha",
+      "description": "Vela eletrônica média a pilha, ideal para decorar com luz suave.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/vela-eletronica-media-a-pilha-5.jpg"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Ventilador Portátil USB-C com 5 Velocidades",
+      "description": "Ventilador portátil com recarga USB-C e 5 velocidades.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/ventilador-portatil-usb-c-5-velocidades-15-1.jpg",
+        "images/ventilador-portatil-usb-c-5-velocidades-15-2.jpg",
+        "images/ventilador-portatil-usb-c-5-velocidades-15-3.jpg"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Webcam Papalook Full HD USB",
+      "description": "Webcam Papalook Full HD com conexão USB, ideal para videochamadas.",
+      "price": 40,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/webcam-papalook-full-hd-usb-40-1.jpg",
+        "images/webcam-papalook-full-hd-usb-40-2.jpg"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Mesa de Jantar com Tampo de Vidro e 6 Cadeiras em Suede",
+      "description": "Conjunto de mesa de jantar com tampo de vidro e 6 cadeiras estofadas em suede bege, com base em madeira.",
+      "price": 900,
+      "condition": "bom estado",
+      "category": "Móveis",
+      "photos": [
+        "images/mesa-com-tampo-de-vidro-e-6-cadeiras-em-suede-900-4.jpg",
+        "images/mesa-com-tampo-de-vidro-e-6-cadeiras-em-suede-900-3.jpg",
+        "images/mesa-com-tampo-de-vidro-e-6-cadeiras-em-suede-900-2.jpg",
+        "images/mesa-com-tampo-de-vidro-e-6-cadeiras-em-suede-900-1.jpg"
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Porta-Retrato Branco 12 x 8 cm",
+      "description": "Porta-retrato branco com moldura lisa, ideal para fotos pequenas em mesa, rack ou aparador.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/porta-retrato-branco-12x8-5.jpg"
+      ]
+    },
+    {
+      "id": 125,
+      "name": "Porta-Retrato Branco e Dourado 14 x 9 cm",
+      "description": "Porta-retrato com moldura branca e detalhe dourado, ótimo para decorar mesa, estante ou aparador.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/porta-retrato-branco-e-dourado-14x9-5.jpg"
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Porta-Retrato Branco 25 x 18 cm",
+      "description": "Porta-retrato branco para foto maior, com visual clean que combina com diferentes ambientes.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/porta-retrato-branco-25x18-5.jpg"
+      ]
+    },
+    {
+      "id": 127,
+      "name": "Moldura Preta 28 x 20 cm",
+      "description": "Moldura preta de 28 x 20 cm, ideal para fotos, artes ou impressos decorativos.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/moldura-preta-28x20-10.jpg"
+      ]
+    },
+    {
+      "id": 128,
+      "name": "Brinquedo Carrinho Betoneira com Chave para Desmontar",
+      "description": "Carrinho betoneira de brinquedo com chave para desmontar partes, ótimo para brincadeiras e para estimular a coordenação.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Brinquedos",
+      "photos": [
+        "images/brinquedo-carrinho-betoneira-vem-com-chave-para-desmontar-5-1.webp",
+        "images/brinquedo-carrinho-betoneira-vem-com-chave-para-desmontar-5-2.webp"
+      ]
+    },
+    {
+      "id": 129,
+      "name": "Carrinho Picape Preta",
+      "description": "Carrinho de brinquedo em formato de picape preta, com visual esportivo e acabamento fosco.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Brinquedos",
+      "photos": [
+        "images/carrinho-picape-preta-5-1.jpg",
+        "images/carrinho-picape-preta-5-2.jpg"
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Extensão com 3 Tomadas de 2 Pinos",
+      "description": "Extensão elétrica branca com 3 tomadas de 2 pinos e cabo longo, útil para ligar aparelhos simples no dia a dia.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/extensao-3-tomadas-2-pinos-5.jpg"
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Jogo Uno na Caixa",
+      "description": "Jogo de cartas Uno na caixa, pronto para brincar em família ou com amigos.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Brinquedos",
+      "photos": [
+        "images/jogo-uno-na-caixa-0.jpg"
       ]
     }
   ]
