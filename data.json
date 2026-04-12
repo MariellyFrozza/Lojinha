@@ -234,8 +234,8 @@
     {
       "id": 68,
       "name": "Roteador Xiaomi Mesh System AC1200",
-      "description": "Sistema mesh Xiaomi AC1200 dual band com Wi-Fi 2.4 e 5 GHz, portas Gigabit WAN/LAN auto-sensing e expansão de cobertura para a casa.",
-      "price": 160,
+      "description": "Sistema mesh Xiaomi AC1200 dual band com Wi-Fi 2.4 e 5 GHz, portas Gigabit WAN/LAN auto-sensing e expansão de cobertura para a casa. Duas unidades inclusas para rede mesh. Preço unitário.",
+      "price": 140,
       "condition": "novo",
       "category": "Eletrônicos",
       "photos": [
@@ -769,8 +769,7 @@
         "images/mesa-com-tampo-de-vidro-e-6-cadeiras-em-suede-900-3.jpg",
         "images/mesa-com-tampo-de-vidro-e-6-cadeiras-em-suede-900-2.jpg",
         "images/mesa-com-tampo-de-vidro-e-6-cadeiras-em-suede-900-1.jpg"
-      ],
-      "hidden": true
+      ]
     },
     {
       "id": 124,
@@ -963,17 +962,6 @@
       "photos": [
         "images/porta-papel-higienico-de-piso-em-aluminio-15-1.jpg",
         "images/porta-papel-higienico-de-piso-em-aluminio-15-2.jpg"
-      ]
-    },
-    {
-      "id": 148,
-      "name": "Prateleira de Vidro",
-      "description": "Prateleira de vidro de canto para banheiro, boa para organizar sabonete, shampoo e acessórios.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Móveis",
-      "photos": [
-        "images/prateleiras-de-vidro-para-banheiro-tipo-canto-5-2.jpg"
       ]
     },
     {
