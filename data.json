@@ -26,13 +26,13 @@
     {
       "id": 21,
       "name": "NERF Sidestrike",
-      "description": "Dispara dardos Nerf. Duas unidades e dardos de três tipos diferentes",
-      "price": 40,
+      "description": "Lançador Nerf Sidestrike com coldre. Duas unidades disponíveis; preço por unidade.",
+      "price": 15,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/nerf-sidestrike1-20.jpg",
-        "images/nerf-sidestrike2-20.jpg"
+        "images/nerf-sidestrike1-15.jpg",
+        "images/nerf-sidestrike2-15.jpg"
       ]
     },
     {
@@ -51,13 +51,13 @@
       "id": 46,
       "name": "Kit de Churrasco com Maleta (4 Peças)",
       "description": "Kit de churrasco com maleta contendo faca, garfo, pegador e amolador. Nunca usado.",
-      "price": 50,
+      "price": 40,
       "condition": "novo",
       "category": "Decoração",
       "photos": [
-        "images/kit-de-churrasco-com-maleta1-50.jpg",
-        "images/kit-de-churrasco-com-maleta2-50.jpg",
-        "images/kit-de-churrasco-com-maleta3-50.jpg"
+        "images/kit-de-churrasco-com-maleta1-40.jpg",
+        "images/kit-de-churrasco-com-maleta2-40.jpg",
+        "images/kit-de-churrasco-com-maleta3-40.jpg"
       ]
     },
     {
@@ -80,6 +80,7 @@
       "price": 30,
       "condition": "bom estado",
       "category": "Eletrônicos",
+      "reserved": true,
       "photos": [
         "images/controle-ps4-dualshock-blue-camouflage1-30.jpeg",
         "images/controle-ps4-dualshock-blue-camouflage2-30.jpeg",
@@ -261,6 +262,7 @@
       "price": 35,
       "condition": "bom estado",
       "category": "Decoração",
+      "reserved": true,
       "photos": [
         "images/varinha-de-dumbledore-em-resina1-35.jpg",
         "images/varinha-de-dumbledore-em-resina2-35.jpg"
@@ -332,17 +334,6 @@
       ]
     },
     {
-      "id": 78,
-      "name": "Baralho com Estojo Transparente",
-      "description": "Baralho completo com estojo plástico transparente, prático para guardar e levar em viagens.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/baralho-0.jpg"
-      ]
-    },
-    {
       "id": 79,
       "name": "Cafeteira Nescafé Dolce Gusto Genio S Touch Prata",
       "description": "Cafeteira de cápsulas Genio S Touch com painel touch, até 15 bar de pressão, ajuste de temperatura e função XL para bebidas quentes ou frias.",
@@ -353,18 +344,6 @@
         "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-430-1.jpg",
         "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-430-2.jpg",
         "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-430-3.jpg"
-      ]
-    },
-    {
-      "id": 80,
-      "name": "Caixa de Chá em Bambu com Acrílico",
-      "description": "Caixa organizadora em bambu com tampa em acrílico transparente e divisórias para sachês de chá.",
-      "price": 20,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/caixa-de-cha-em-bamboo-acrilico-20-1.jpg",
-        "images/caixa-de-cha-em-bamboo-acrilico-20-2.jpg"
       ]
     },
     {
@@ -434,6 +413,7 @@
       "price": 5,
       "condition": "bom estado",
       "category": "Brinquedos",
+      "reserved": true,
       "photos": [
         "images/pelucia-lotso-media-5.jpg"
       ]
@@ -445,6 +425,7 @@
       "price": 5,
       "condition": "bom estado",
       "category": "Brinquedos",
+      "reserved": true,
       "photos": [
         "images/pelucia-stitch-media-5.jpg"
       ]
@@ -487,23 +468,11 @@
       "id": 94,
       "name": "Umidificador Frozen Iluminado 110V",
       "description": "Umidificador com estampa Frozen e iluminação suave, ideal para quarto infantil. Funciona em 110V.",
-      "price": 60,
+      "price": 40,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/umidificador-frozen-iluminado-110v-60.jpg"
-      ]
-    },
-    {
-      "id": 97,
-      "name": "Antena de TV Digital Intelbras",
-      "description": "Antena interna Intelbras para TV digital, compacta e fácil de instalar.",
-      "price": 25,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/antena-tv-digital-intelbras-25-1.jpg",
-        "images/antena-tv-digital-intelbras-25-2.jpg"
+        "images/umidificador-frozen-iluminado-110v-40.jpg"
       ]
     },
     {
@@ -721,24 +690,13 @@
       ]
     },
     {
-      "id": 119,
-      "name": "Tripé para Celular e Câmera em Alumínio",
-      "description": "Tripé em alumínio para celular e câmera, leve e fácil de transportar.",
-      "price": 25,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/tripe-celular-e-camera-em-aluminio-25-1.jpg",
-        "images/tripe-celular-e-camera-em-aluminio-25-2.jpg"
-      ]
-    },
-    {
       "id": 121,
       "name": "Ventilador Portátil USB-C com 5 Velocidades",
       "description": "Ventilador portátil com recarga USB-C e 5 velocidades.",
       "price": 15,
       "condition": "bom estado",
       "category": "Eletrônicos",
+      "reserved": true,
       "photos": [
         "images/ventilador-portatil-usb-c-5-velocidades-15-1.jpg",
         "images/ventilador-portatil-usb-c-5-velocidades-15-2.jpg",
@@ -959,6 +917,7 @@
       "price": 15,
       "condition": "bom estado",
       "category": "Decoração",
+      "reserved": true,
       "photos": [
         "images/porta-papel-higienico-de-piso-em-aluminio-15-1.jpg",
         "images/porta-papel-higienico-de-piso-em-aluminio-15-2.jpg"
@@ -1027,6 +986,7 @@
       "price": 7,
       "condition": "bom estado",
       "category": "Outros",
+      "reserved": true,
       "photos": [
         "images/ramekin-ceramica-cada-um-7.jpg"
       ]
@@ -1118,6 +1078,7 @@
       "price": 30,
       "condition": "bom estado",
       "category": "Outros",
+      "reserved": true,
       "photos": [
         "images/panela-wok-brinox-cinza-30-1.jpg",
         "images/panela-wok-brinox-cinza-30-2.jpg"
@@ -1165,9 +1126,91 @@
       "price": 10,
       "condition": "bom estado",
       "category": "Outros",
+      "reserved": true,
       "photos": [
         "images/tramontina-faca-de-queijos-10-1.jpg",
         "images/tramontina-faca-de-queijos-10-2.jpg"
+      ]
+    },
+    {
+      "id": 168,
+      "name": "Caneca Oktoberfest Blumenau em Alumínio com Tirante",
+      "description": "Caneca de alumínio da Oktoberfest Blumenau com tirante, boa para coleção, fantasia ou decoração.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/caneca-oktoberfest-blumenau-aluminio-com-tirante-0-1.jpg",
+        "images/caneca-oktoberfest-blumenau-aluminio-com-tirante-0-2.jpg"
+      ]
+    },
+    {
+      "id": 169,
+      "name": "Chaveiro de Pelúcia Stitch",
+      "description": "Chaveiro de pelúcia do Stitch, ótimo para mochila, bolsa ou chaves.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Brinquedos",
+      "photos": [
+        "images/chaveiro-pelucia-stitch-0.jpg"
+      ]
+    },
+    {
+      "id": 170,
+      "name": "Grade para Fotos em Ferro com Ímãs",
+      "description": "Grade metálica para fotos e lembretes, acompanha ímãs e funciona bem como painel decorativo de parede.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/grade-para-fotos-em-ferro-com-imas-15-1.jpg",
+        "images/grade-para-fotos-em-ferro-com-imas-15-2.jpg"
+      ]
+    },
+    {
+      "id": 171,
+      "name": "Cordão de Luzes de Natal 3 m",
+      "description": "Cordão de luzes de Natal com 3 metros, bom para decorar árvore, janela ou cabeceira.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/lampadas-de-natal-3m-5.jpg"
+      ]
+    },
+    {
+      "id": 172,
+      "name": "Mouse Gamer Redragon Cobra 10000 DPI",
+      "description": "Mouse gamer Redragon Cobra com ajuste de DPI até 10000. O plástico externo está descascando, mas segue útil para uso.",
+      "price": 0,
+      "condition": "usado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/mouse-redragon-cobra-10000dpi-plastico-descascando-0.jpg"
+      ]
+    },
+    {
+      "id": 173,
+      "name": "Plantas Artificiais para Decoração",
+      "description": "Conjunto de plantas artificiais para decoração, boas para mesa, estante, rack ou lavabo.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/plantas-de-plastico-para-decoracao-0-1.jpg",
+        "images/plantas-de-plastico-para-decoracao-0-2.jpg"
+      ]
+    },
+    {
+      "id": 174,
+      "name": "Varal Grande em Alumínio com Abas",
+      "description": "Varal grande em alumínio com abas laterais, leve, dobrável e em ótimo estado para o dia a dia.",
+      "price": 40,
+      "condition": "bom estado",
+      "category": "Móveis",
+      "photos": [
+        "images/varal-grande-em-aluminio-com-abas-40-2.jpg",
+        "images/varal-grande-em-aluminio-com-abas-40-1.jpg"
       ]
     }
   ]

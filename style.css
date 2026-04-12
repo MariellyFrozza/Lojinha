@@ -9,6 +9,8 @@
     --accent-primary: #66CDAA; /* Verde-água claro para botões e destaques */
     --accent-primary-hover: #5aa992; /* Tom mais escuro para hover */
     --promo-color: #34d399;
+    --reserved-color: #f97316;
+    --reserved-shadow-color: rgba(249, 115, 22, 0.28);
     --border-color: #e5e5e5;
     --shadow-color: rgba(0, 0, 0, 0.08);
     
@@ -131,9 +133,18 @@ main {
     flex-direction: column;
 }
 
+.item-card.reserved-item {
+    opacity: 0.72;
+}
+
 .item-card:hover {
     transform: translateY(-8px);
     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
+}
+
+.item-card.reserved-item:hover {
+    transform: none;
+    box-shadow: 0 8px 16px var(--shadow-color);
 }
 
 .item-photo {
@@ -199,6 +210,7 @@ main {
 }
 
 .item-photo-placeholder {
+    position: relative;
     width: 100%;
     height: 220px;
     background-color: var(--secondary-bg);
@@ -220,6 +232,29 @@ main {
     align-items: center;
     justify-content: center;
     background-color: #f0f0f0;
+}
+
+.reserved-badge {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    right: 12px;
+    z-index: 4;
+    padding: 8px 12px;
+    border-radius: 999px;
+    background-color: var(--reserved-color);
+    color: #fff;
+    text-align: center;
+    font-family: var(--font-heading);
+    font-size: 0.95rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    box-shadow: 0 8px 18px var(--reserved-shadow-color);
+}
+
+.item-card.reserved-item .item-photo,
+.item-card.reserved-item .image-blur {
+    filter: saturate(0.55) brightness(0.9);
 }
 
 .image-open-btn {

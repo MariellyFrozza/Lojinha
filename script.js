@@ -66,8 +66,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         items.forEach(item => {
             const card = document.createElement('div');
-            card.className = 'item-card';
+            card.className = `item-card${item.reserved ? ' reserved-item' : ''}`;
             card.dataset.id = item.id;
+            const reservedBadge = item.reserved ? '<div class="reserved-badge">Reservado</div>' : '';
 
             let photoHtml = '';
             if (item.photos && item.photos.length > 0) {
@@ -88,6 +89,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 photoHtml = `
                     <div class="image-container">
+                        ${reservedBadge}
                         <div class="image-blur" style="background-image: url('${item.photos[0]}')"></div>
                         ${images}
                         <button class="image-open-btn" type="button" aria-label="Ampliar imagem do produto"></button>
@@ -96,7 +98,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                 `;
             } else {
-                photoHtml = '<div class="item-photo-placeholder"><span>Sem imagem</span></div>';
+                photoHtml = `<div class="item-photo-placeholder">${reservedBadge}<span>Sem imagem</span></div>`;
             }
 
             // Converter "bom estado" para "bom-estado" para a classe CSS
@@ -228,37 +230,46 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function filterItems() {
-        let filteredItems = allItems.filter(item => !item.hidden);
-
-        // Name filter
+        const visibleItems = allItems.filter(item => !item.hidden);
         const nameQuery = nameFilter.value.toLowerCase();
-        if (nameQuery) {
-            filteredItems = filteredItems.filter(item => item.name.toLowerCase().includes(nameQuery));
-        }
-
-        // Category filter
         const categoryQuery = categoryFilter.value;
-        if (categoryQuery) {
-            filteredItems = filteredItems.filter(item => item.category === categoryQuery);
+        const priceQuery = priceFilter.value;
+        const hasActiveFilters = Boolean(nameQuery || categoryQuery || priceQuery);
+
+        const matchesName = item => item.name.toLowerCase().includes(nameQuery);
+        const matchesCategory = item => !categoryQuery || item.category === categoryQuery;
+        const matchesPrice = item => {
+            if (!priceQuery) {
+                return true;
+            }
+
+            const price = getEffectivePrice(item);
+            switch (priceQuery) {
+                case '-50': return price <= 50;
+                case '50-100': return price > 50 && price <= 100;
+                case '100-300': return price > 100 && price <= 300;
+                case '300+': return price > 300;
+                default: return true;
+            }
+        };
+
+        let availableItems = visibleItems.filter(item => !item.reserved);
+        let reservedItems = hasActiveFilters ? [] : visibleItems.filter(item => item.reserved);
+
+        if (nameQuery) {
+            availableItems = availableItems.filter(matchesName);
         }
 
-        // Price filter
-        const priceQuery = priceFilter.value;
-        if (priceQuery) {
-            filteredItems = filteredItems.filter(item => {
-                const price = getEffectivePrice(item);
-                switch (priceQuery) {
-                    case '-50': return price <= 50;
-                    case '50-100': return price > 50 && price <= 100;
-                    case '100-300': return price > 100 && price <= 300;
-                    case '300+': return price > 300;
-                    default: return true;
-                }
-            });
-        }
+        availableItems = availableItems
+            .filter(matchesCategory)
+            .filter(matchesPrice);
+
+        reservedItems = reservedItems
+            .filter(matchesCategory)
+            .filter(matchesPrice);
 
         const sortQuery = sortFilter.value || 'desc';
-        filteredItems.sort((a, b) => {
+        const sortItemsByPrice = (a, b) => {
             const priceA = getEffectivePrice(a);
             const priceB = getEffectivePrice(b);
 
@@ -267,9 +278,12 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             return priceB - priceA;
-        });
+        };
 
-        renderItems(filteredItems);
+        availableItems.sort(sortItemsByPrice);
+        reservedItems.sort(sortItemsByPrice);
+
+        renderItems([...availableItems, ...reservedItems]);
     }
 
     itemsContainer.addEventListener('click', (e) => {
