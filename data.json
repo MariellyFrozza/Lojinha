@@ -267,18 +267,6 @@
       ]
     },
     {
-      "id": 71,
-      "name": "Calendário de Mesa Preto e Madeira",
-      "description": "Calendário de mesa permanente com estrutura preta e blocos de madeira para dia e mês, ótimo para home office ou decoração.",
-      "price": 20,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/calendario-de-mesa-preto-e-madeira1-20.jpg",
-        "images/calendario-de-mesa-preto-e-madeira2-20.jpg"
-      ]
-    },
-    {
       "id": 72,
       "name": "Guarda-Roupa Branco Grande com 4 Portas",
       "description": "Guarda-roupa branco grande com 4 portas, nichos internos, cabideiro e bom espaço para roupas dobradas e penduradas.",
@@ -604,18 +592,6 @@
         "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-70-2.jpg",
         "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-70-3.jpg",
         "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-70-4.jpg"
-      ]
-    },
-    {
-      "id": 105,
-      "name": "Lixeira de Escritório em Metal Preta",
-      "description": "Lixeira de escritório em metal preto, compacta e resistente.",
-      "price": 20,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/lixeira-escritorio-metal-preto-20-1.webp",
-        "images/lixeira-escritorio-metal-preto-20-2.webp"
       ]
     },
     {
@@ -991,13 +967,12 @@
     },
     {
       "id": 148,
-      "name": "Kit com 2 Prateleiras de Vidro de Canto para Banheiro",
-      "description": "Kit com 2 prateleiras de vidro de canto para banheiro, boas para organizar sabonete, shampoo e acessórios.",
+      "name": "Prateleira de Vidro",
+      "description": "Prateleira de vidro de canto para banheiro, boa para organizar sabonete, shampoo e acessórios.",
       "price": 5,
       "condition": "bom estado",
       "category": "Móveis",
       "photos": [
-        "images/prateleiras-de-vidro-para-banheiro-tipo-canto-5.jpg",
         "images/prateleiras-de-vidro-para-banheiro-tipo-canto-5-2.jpg"
       ]
     },
@@ -1100,6 +1075,111 @@
       "photos": [
         "images/xicaras-nescafe-dolce-gusto-unidade-15-1.jpg",
         "images/xicaras-nescafe-dolce-gusto-unidade-15-2.jpg"
+      ]
+    },
+    {
+      "id": 159,
+      "name": "Batedor de Claras Grande em Inox",
+      "description": "Batedor de claras grande em inox, bom para massas leves, ovos, cremes e preparo do dia a dia.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/batedor-de-claras-grande-inox-10.jpg"
+      ]
+    },
+    {
+      "id": 160,
+      "name": "Utensílio de Nylon (unidade)",
+      "description": "Utensílio de cozinha em nylon. Há peças variadas na foto; preço por unidade.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/colheres-de-nylon-unidade-5.jpg"
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Forma de Sorvete Ursinho Pooh",
+      "description": "Forma plástica para sorvete ou picolé caseiro com tema Ursinho Pooh, simples de usar e fácil de lavar.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/forma-de-sorvete-ursinho-pooh-5.jpg"
+      ]
+    },
+    {
+      "id": 162,
+      "name": "Kit com 2 Xícaras de Gato",
+      "description": "Kit com 2 xícaras em cerâmica com alças pretas e detalhe de gatinho em relevo, ótimo para café ou decoração.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/kit-duas-xicaras-de-gato-20.jpg",
+        "images/kit-duas-xicaras-de-gato-20-2.jpg",
+        "images/kit-duas-xicaras-de-gato-20-3.jpg"
+      ]
+    },
+    {
+      "id": 163,
+      "name": "Panela Wok Brinox Cinza",
+      "description": "Panela wok Brinox na cor cinza, boa para refogados, legumes e preparos rápidos.",
+      "price": 30,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/panela-wok-brinox-cinza-30-1.jpg",
+        "images/panela-wok-brinox-cinza-30-2.jpg"
+      ]
+    },
+    {
+      "id": 164,
+      "name": "Pegador de Pizza com Faca",
+      "description": "Utensílio para servir pizza com base em aço e fio serrilhado para cortar e levantar a fatia.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/pegador-de-pizza-com-faca-10-1.jpg",
+        "images/pegador-de-pizza-com-faca-10-2.jpg"
+      ]
+    },
+    {
+      "id": 165,
+      "name": "Pegador Inox",
+      "description": "Pegador simples em inox, útil para servir alimentos, saladas ou churrasco.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/pegador-inox-5.jpg"
+      ]
+    },
+    {
+      "id": 166,
+      "name": "Ralador e Picador de Alimentos Rosa",
+      "description": "Utensílio rosa com lâmina para ralar ou fatiar alimentos, acompanhado de apoio coletor.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/ralador-e-picador-de-alimentos-rosa-7-1.jpg",
+        "images/ralador-e-picador-de-alimentos-rosa-7-2.jpg"
+      ]
+    },
+    {
+      "id": 167,
+      "name": "Faca de Queijos Tramontina",
+      "description": "Faca de queijos Tramontina com lâmina vazada e ponta bifurcada, boa para cortar e servir.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/tramontina-faca-de-queijos-10-1.jpg",
+        "images/tramontina-faca-de-queijos-10-2.jpg"
       ]
     }
   ]
