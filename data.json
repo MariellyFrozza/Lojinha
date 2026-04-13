@@ -63,13 +63,13 @@
       "id": 48,
       "name": "Headset Sem Fio Prata",
       "description": "Headset sem fio na cor prata, com suporte para cartão de memória de até 32 GB.",
-      "price": 30,
+      "price": 15,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/headset-sem-fio-prata1-30.jpeg",
-        "images/headset-sem-fio-prata2-30.jpeg",
-        "images/headset-sem-fio-prata3-30.jpeg"
+        "images/headset-sem-fio-prata1-15.jpeg",
+        "images/headset-sem-fio-prata2-15.jpeg",
+        "images/headset-sem-fio-prata3-15.jpeg"
       ]
     },
     {
@@ -296,14 +296,14 @@
     },
     {
       "id": 76,
-      "name": "Saco Impermeável para Esportes Aquáticos",
-      "description": "Saco impermeável com fecho dobrável e presilhas, ideal para proteger celular, carteira e itens pessoais em praia, piscina ou caiaque.",
-      "price": 40,
+      "name": "Saco Impermeável Decathlon Tribord para Esportes Aquáticos",
+      "description": "Saco impermeável Decathlon Tribord com fecho dobrável e presilhas, ideal para proteger celular, carteira e itens pessoais em praia, piscina ou caiaque.",
+      "price": 35,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/saco-impermeavel-para-esportes-aquaticos1-40.jpg",
-        "images/saco-impermeavel-para-esportes-aquaticos2-40.jpg"
+        "images/saco-impermeavel-decathlon-tribord-para-esportes-aquaticos1-35.jpg",
+        "images/saco-impermeavel-decathlon-tribord-para-esportes-aquaticos2-35.jpg"
       ]
     },
     {
@@ -841,8 +841,8 @@
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/aquecedor-eletrico-cadence-110v-35-1.jpg",
-        "images/aquecedor-eletrico-cadence-110v-35-2.jpg"
+        "images/aquecedor-eletrico-cadence-110v-35-2.jpg",
+        "images/aquecedor-eletrico-cadence-110v-35-1.jpg"
       ]
     },
     {
@@ -1414,6 +1414,32 @@
         "images/vaso-para-planta-ecologico-marrom-cada-um-5-1.jpg",
         "images/vaso-para-planta-ecologico-marrom-cada-um-5-2.jpg",
         "images/vaso-para-planta-ecologico-marrom-cada-um-5-3.jpg"
+      ]
+    },
+    {
+      "id": 193,
+      "name": "Máquina de Lavar Midea MA500 13 kg 110V",
+      "description": "Máquina de lavar Midea MA500 13 kg, 110V, com boa capacidade para roupas do dia a dia e peças maiores.",
+      "price": 1000,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/maquina-de-lavar-midea-110v-ma500-13kg-1000-3.jpeg",
+        "images/maquina-de-lavar-midea-110v-ma500-13kg-1000-2.jpeg",
+        "images/maquina-de-lavar-midea-110v-ma500-13kg-1000-1.jpeg"
+      ]
+    },
+    {
+      "id": 194,
+      "name": "Secadora Eletrolux a Tambor 10 kg 220V",
+      "description": "Secadora Eletrolux a tambor 10 kg, 220V, prática para secar roupas com mais agilidade em dias frios ou chuvosos.",
+      "price": 650,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/secadora-eletrolux-a-tambor-10kg-220v-650-3.jpeg",
+        "images/secadora-eletrolux-a-tambor-10kg-220v-650-2.jpeg",
+        "images/secadora-eletrolux-a-tambor-10kg-220v-650.jpeg"
       ]
     }
   ]
