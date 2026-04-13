@@ -73,7 +73,8 @@
         "images/headset-sem-fio-prata1-15.jpeg",
         "images/headset-sem-fio-prata2-15.jpeg",
         "images/headset-sem-fio-prata3-15.jpeg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 51,
@@ -417,7 +418,8 @@
       "category": "Decoração",
       "photos": [
         "images/porta-lapis-turquesa-0.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 91,
@@ -827,6 +829,7 @@
       "price": 20,
       "condition": "bom estado",
       "category": "Móveis",
+      "reserved": true,
       "photos": [
         "images/prateleira-branca-madeira-100x20-20.jpg"
       ]
@@ -1086,7 +1089,8 @@
       "photos": [
         "images/pegador-de-pizza-com-faca-10-2.jpg",
         "images/pegador-de-pizza-com-faca-10-1.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 165,
@@ -1298,7 +1302,8 @@
         "images/adaptadores-3-pinos-diversos-0-3.jpg",
         "images/adaptadores-3-pinos-diversos-0-4.jpg",
         "images/adaptadores-3-pinos-diversos-0-5.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 182,
@@ -1346,7 +1351,8 @@
       "category": "Eletrônicos",
       "photos": [
         "images/extensao-preta-3-pinos-3-entradas-7.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 186,
