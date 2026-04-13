@@ -342,12 +342,12 @@
       "id": 82,
       "name": "Chaleira Elétrica Cadence Vermelha 220V",
       "description": "Chaleira elétrica Cadence Thermo One de 1,7 L com desligamento automático, base com porta-fio e tampa com abertura automática. Voltagem 220V.",
-      "price": 35,
+      "price": 30,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/chaleira-eletrica-cadence-vermelha-220v-35-1.jpg",
-        "images/chaleira-eletrica-cadence-vermelha-220v-35-2.jpg"
+        "images/chaleira-eletrica-cadence-vermelha-220v-30-1.jpg",
+        "images/chaleira-eletrica-cadence-vermelha-220v-30-2.jpg"
       ]
     },
     {
@@ -459,24 +459,24 @@
       "id": 98,
       "name": "Bandeja Tramontina em Madeira",
       "description": "Bandeja Tramontina em madeira, útil para servir ou organizar itens na bancada.",
-      "price": 30,
+      "price": 25,
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/bandeja-tramontina-madeira-30-1.jpg",
-        "images/bandeja-tramontina-madeira-30-2.jpg",
-        "images/bandeja-tramontina-madeira-30-3.jpg"
+        "images/bandeja-tramontina-madeira-25-1.jpg",
+        "images/bandeja-tramontina-madeira-25-2.jpg",
+        "images/bandeja-tramontina-madeira-25-3.jpg"
       ]
     },
     {
       "id": 99,
       "name": "Cabideiro de Parede Branco com 4 Ganchos",
       "description": "Cabideiro de parede branco com 4 ganchos, ideal para casacos, bolsas e acessórios.",
-      "price": 20,
+      "price": 15,
       "condition": "bom estado",
       "category": "Móveis",
       "photos": [
-        "images/cabideiro-de-parede-branco-4-ganchos-20.webp"
+        "images/cabideiro-de-parede-branco-4-ganchos-15.webp"
       ]
     },
     {
@@ -547,12 +547,12 @@
       "id": 106,
       "name": "Lixeira em Metal Prata",
       "description": "Lixeira em metal prata, ideal para escritório, banheiro ou lavanderia.",
-      "price": 20,
+      "price": 15,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/lixeira-metal-prata-20-1.jpg",
-        "images/lixeira-metal-prata-20-2.jpg"
+        "images/lixeira-metal-prata-15-1.jpg",
+        "images/lixeira-metal-prata-15-2.jpg"
       ]
     },
     {
@@ -896,11 +896,11 @@
       "id": 142,
       "name": "Filtro de Linha Coibeu com 4 Tomadas, 1 Universal e 3 USB",
       "description": "Filtro de linha Coibeu com plugue de 3 pinos, cabo de 130 cm, 4 tomadas padrão, 1 tomada universal e 3 portas USB.",
-      "price": 30,
+      "price": 25,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/filtro-de-linha-coibeu-3-pinos-130cm-de-cabo-4-tomadas-1-universal-3-usb-30.jpg"
+        "images/filtro-de-linha-coibeu-3-pinos-130cm-de-cabo-4-tomadas-1-universal-3-usb-25.jpg"
       ]
     },
     {
@@ -1466,6 +1466,44 @@
         "images/secadora-eletrolux-a-tambor-10kg-220v-650-3.jpeg",
         "images/secadora-eletrolux-a-tambor-10kg-220v-650-2.jpeg",
         "images/secadora-eletrolux-a-tambor-10kg-220v-650.jpeg"
+      ]
+    },
+    {
+      "id": 195,
+      "name": "Cabo HDMI",
+      "description": "Cabo HDMI preto para ligar TV, monitor, notebook ou videogame.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/cabo-hdmi-5-1.jpg",
+        "images/cabo-hdmi-5-2.jpg"
+      ]
+    },
+    {
+      "id": 196,
+      "name": "Case Exbom Transparente para HD Externo USB-A e USB-C",
+      "description": "Case Exbom transparente para HD ou SSD 2,5\", com cabos USB-A e USB-C inclusos.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/case-exbom-transparente-hd-externo-usb-a-usb-c-20-1.jpg",
+        "images/case-exbom-transparente-hd-externo-usb-a-usb-c-20-2.jpg"
+      ]
+    },
+    {
+      "id": 197,
+      "name": "Suporte Dobrável para Notebook em Inox Cinza",
+      "description": "Suporte dobrável para notebook em inox cinza, bom para elevar a tela e melhorar a ventilação.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/suporte-dobravel-para-notebook-inox-cinza-20-1.jpg",
+        "images/suporte-dobravel-para-notebook-inox-cinza-20-2.jpg",
+        "images/suporte-dobravel-para-notebook-inox-cinza-20-3.jpg",
+        "images/suporte-dobravel-para-notebook-inox-cinza-20-4.jpg"
       ]
     }
   ]
