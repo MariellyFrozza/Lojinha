@@ -14,13 +14,13 @@
       "id": 20,
       "name": "Headset Fifine",
       "description": "Headset com fio para computador. Com microfone embutido. Ideal para reuniões.",
-      "price": 35,
+      "price": 25,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/headset-fifine1-40.jpg",
-        "images/headset-fifine2-40.jpg.jpg",
-        "images/headset-fifine3-40.jpg"
+        "images/headset-fifine1-25.jpg",
+        "images/headset-fifine2-25.jpg",
+        "images/headset-fifine3-25.jpg"
       ]
     },
     {
@@ -90,13 +90,13 @@
       "id": 52,
       "name": "Carteira Rosa Grande",
       "description": "Carteira grande na cor rosa, com alça e acabamento em material PU.",
-      "price": 15,
+      "price": 10,
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
-        "images/carteira-rosa-grande1-15.jpeg",
-        "images/carteira-rosa-grande2-15.jpeg",
-        "images/carteira-rosa-grande3-15.jpeg"
+        "images/carteira-rosa-grande1-10.jpeg",
+        "images/carteira-rosa-grande2-10.jpeg",
+        "images/carteira-rosa-grande3-10.jpeg"
       ]
     },
     {
@@ -162,24 +162,24 @@
       "id": 58,
       "name": "Carregador USB H'Maston com Duas Saídas",
       "description": "Carregador de tomada H'Maston com duas saídas USB.",
-      "price": 15,
+      "price": 10,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/carregador-usb-hmaston-com-duas-saidas1-15.jpg",
-        "images/carregador-usb-hmaston-com-duas-saidas2-15.jpg"
+        "images/carregador-usb-hmaston-com-duas-saidas1-10.jpg",
+        "images/carregador-usb-hmaston-com-duas-saidas2-10.jpg"
       ]
     },
     {
       "id": 59,
       "name": "Carregador Wireless com Entrada USB-C",
       "description": "Base de carregamento wireless redonda com entrada USB-C.",
-      "price": 15,
+      "price": 5,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/carregador-wireless-com-entrada-usb-c1-15.jpg",
-        "images/carregador-wireless-com-entrada-usb-c2-15.jpg"
+        "images/carregador-wireless-com-entrada-usb-c1-5.jpg",
+        "images/carregador-wireless-com-entrada-usb-c2-5.jpg"
       ]
     },
     {
@@ -273,13 +273,13 @@
       "id": 73,
       "name": "Hub USB FTX para MacBook com Ethernet",
       "description": "Hub USB-C FTX para MacBook com Ethernet, HDMI, portas USB e leitor de cartão em corpo compacto de alumínio.",
-      "price": 150,
+      "price": 140,
       "condition": "novo",
       "category": "Eletrônicos",
       "photos": [
-        "images/hub-usb-ftx-para-macbook-com-ethernet1-150.jpg",
-        "images/hub-usb-ftx-para-macbook-com-ethernet2-150.jpg",
-        "images/hub-usb-ftx-para-macbook-com-ethernet3-150.jpg"
+        "images/hub-usb-ftx-para-macbook-com-ethernet1-140.jpg",
+        "images/hub-usb-ftx-para-macbook-com-ethernet2-140.jpg",
+        "images/hub-usb-ftx-para-macbook-com-ethernet3-140.jpg"
       ]
     },
     {
@@ -475,11 +475,11 @@
       "id": 100,
       "name": "Cabo HDMI para DVI Reforçado com Pontas Gold",
       "description": "Cabo reforçado com conexão HDMI para DVI e pontas douradas para melhor encaixe.",
-      "price": 15,
+      "price": 5,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/cabo-hdmi-para-dvi-reforcado-pontas-gold-15.jpg"
+        "images/cabo-hdmi-para-dvi-reforcado-pontas-gold-5.jpg"
       ]
     },
     {
@@ -525,14 +525,14 @@
       "id": 104,
       "name": "Fone de Ouvido Bluetooth Skullcandy Jib True 2",
       "description": "Fone de ouvido bluetooth Skullcandy Jib True 2 com estojo de carregamento.",
-      "price": 70,
+      "price": 60,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-70-1.jpg",
-        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-70-2.jpg",
-        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-70-3.jpg",
-        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-70-4.jpg"
+        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-60-1.jpg",
+        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-60-2.jpg",
+        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-60-3.jpg",
+        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-60-4.jpg"
       ]
     },
     {
@@ -568,6 +568,7 @@
       "price": 5,
       "condition": "bom estado",
       "category": "Brinquedos",
+      "reserved": true,
       "photos": [
         "images/miniatura-yoshi-mario-kart-mcdonalds-5-2.jpg",
         "images/miniatura-yoshi-mario-kart-mcdonalds-5-1.jpg"
@@ -620,6 +621,7 @@
       "price": 50,
       "condition": "bom estado",
       "category": "Decoração",
+      "reserved": true,
       "photos": [
         "images/persiana-preta-160x160-50-1.webp",
         "images/persiana-preta-160x160-50-2.webp"
@@ -731,6 +733,7 @@
       "price": 5,
       "condition": "bom estado",
       "category": "Decoração",
+      "reserved": true,
       "photos": [
         "images/porta-retrato-branco-25x18-5.jpg"
       ]
@@ -742,6 +745,7 @@
       "price": 10,
       "condition": "bom estado",
       "category": "Decoração",
+      "reserved": true,
       "photos": [
         "images/moldura-preta-28x20-10.jpg"
       ]
@@ -801,6 +805,7 @@
       "price": 60,
       "condition": "bom estado",
       "category": "Decoração",
+      "reserved": true,
       "photos": [
         "images/cortina-para-sala-240x220-60-2.jpg",
         "images/cortina-para-sala-240x220-60-1.jpg"
@@ -1039,6 +1044,7 @@
       "price": 20,
       "condition": "bom estado",
       "category": "Outros",
+      "reserved": true,
       "photos": [
         "images/kit-duas-xicaras-de-gato-20.jpg",
         "images/kit-duas-xicaras-de-gato-20-2.jpg",
@@ -1260,6 +1266,154 @@
       "photos": [
         "images/travesseiro-de-pescoco-inflavel-portatil-5-1.jpg",
         "images/travesseiro-de-pescoco-inflavel-portatil-5-2.jpg"
+      ]
+    },
+    {
+      "id": 181,
+      "name": "Adaptadores 3 Pinos Diversos",
+      "description": "Adaptadores 3 pinos variados para tomadas e extensões. Há modelos diferentes nas fotos.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/adaptadores-3-pinos-diversos-0-1.jpg",
+        "images/adaptadores-3-pinos-diversos-0-2.jpg",
+        "images/adaptadores-3-pinos-diversos-0-3.jpg",
+        "images/adaptadores-3-pinos-diversos-0-4.jpg",
+        "images/adaptadores-3-pinos-diversos-0-5.jpg"
+      ]
+    },
+    {
+      "id": 182,
+      "name": "Cabos de Rede Ethernet Cat5e 60 cm",
+      "description": "Cabos de rede Ethernet Cat5e com 60 cm, bons para modem, roteador, TV ou computador.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/cabos-de-rede-ethernet-cat5e-60cm-0.jpg"
+      ]
+    },
+    {
+      "id": 183,
+      "name": "Cadeira de Praia BTF Rosa",
+      "description": "Cadeira de praia dobrável BTF na cor rosa, leve e prática para praia, parque ou camping.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/cadeira-de-praia-btf-rosa-20-1.jpg",
+        "images/cadeira-de-praia-btf-rosa-20-2.jpg",
+        "images/cadeira-de-praia-btf-rosa-20-3.jpg"
+      ]
+    },
+    {
+      "id": 184,
+      "name": "Extensão 3 Pinos 20A Fêmea e 10A Macho 40 cm",
+      "description": "Extensão curta com entrada fêmea 20A e plugue macho 10A, útil para adaptar equipamentos com tomada mais robusta.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/extensao-3-pinos-20a-femea-10a-macho-40cm-5-1.jpg",
+        "images/extensao-3-pinos-20a-femea-10a-macho-40cm-5-2.jpg"
+      ]
+    },
+    {
+      "id": 185,
+      "name": "Extensão Preta 3 Pinos com 3 Entradas",
+      "description": "Extensão preta com 3 entradas e plugue de 3 pinos, boa para ligar aparelhos simples no dia a dia.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/extensao-preta-3-pinos-3-entradas-7.jpg"
+      ]
+    },
+    {
+      "id": 186,
+      "name": "Moedor de Sal e Pimenta",
+      "description": "Moedor manual simples para sal, pimenta ou outros temperos secos.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/moedor-de-sal-e-pimenta-5-1.jpg",
+        "images/moedor-de-sal-e-pimenta-5-2.jpg"
+      ]
+    },
+    {
+      "id": 187,
+      "name": "Porta-Sabonete em Cerâmica Branco",
+      "description": "Porta-sabonete em cerâmica branca, com visual clean para pia, banheiro ou lavabo.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/porta-sabonete-ceramica-branco-7-1.jpg",
+        "images/porta-sabonete-ceramica-branco-7-2.jpg"
+      ]
+    },
+    {
+      "id": 188,
+      "name": "Prendedor Magnético para Cortina Cinza (cada um)",
+      "description": "Prendedor magnético cinza para cortina. Há 2 unidades disponíveis; preço por unidade.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/prendedor-cortina-magnetico-cinza-cada-um-5-1.jpg",
+        "images/prendedor-cortina-magnetico-cinza-cada-um-5-2.jpg"
+      ]
+    },
+    {
+      "id": 189,
+      "name": "Tiara de Rena de Natal",
+      "description": "Tiara temática de rena de Natal, boa para festas, fotos e fantasias.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/tiara-de-rena-natal-0.jpg"
+      ]
+    },
+    {
+      "id": 190,
+      "name": "Tomada Inteligente 20A Wi-Fi JWCOM",
+      "description": "Tomada inteligente Wi-Fi JWCOM 20A, lê consumo e permite desligamento à distância pelo app.",
+      "price": 35,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/tomada-inteligente-20a-wifi-leconsumo-35-1.jpg",
+        "images/tomada-inteligente-20a-wifi-leconsumo-35-2.jpg",
+        "images/tomada-inteligente-20a-wifi-leconsumo-35-3.jpg"
+      ]
+    },
+    {
+      "id": 191,
+      "name": "Varão de Cortina Duplo Branco e Madeira 190 cm",
+      "description": "Varão duplo de cortina com acabamento branco e madeira, medindo 190 cm.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/varao-cortina-duplo-branco-madeira-190cm-0-1.jpg",
+        "images/varao-cortina-duplo-branco-madeira-190cm-0-2.jpg",
+        "images/varao-cortina-duplo-branco-madeira-190cm-0-3.jpg"
+      ]
+    },
+    {
+      "id": 192,
+      "name": "Vaso para Planta Ecológico Marrom (cada um)",
+      "description": "Vaso para planta em plástico reciclado na cor marrom. Há 3 unidades disponíveis; preço por unidade.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/vaso-para-planta-ecologico-marrom-cada-um-5-1.jpg",
+        "images/vaso-para-planta-ecologico-marrom-cada-um-5-2.jpg",
+        "images/vaso-para-planta-ecologico-marrom-cada-um-5-3.jpg"
       ]
     }
   ]
