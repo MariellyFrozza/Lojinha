@@ -374,6 +374,7 @@
       "price": 0,
       "condition": "novo",
       "category": "Outros",
+      "reserved": true,
       "photos": [
         "images/organizador-de-fios-velcro-duas-unidades-0.jpg"
       ]
@@ -829,6 +830,7 @@
       "price": 0,
       "condition": "novo",
       "category": "Outros",
+      "reserved": true,
       "photos": [
         "images/agua-desmineralizada-lacrada-0.jpg"
       ]
@@ -1072,8 +1074,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/pegador-de-pizza-com-faca-10-1.jpg",
-        "images/pegador-de-pizza-com-faca-10-2.jpg"
+        "images/pegador-de-pizza-com-faca-10-2.jpg",
+        "images/pegador-de-pizza-com-faca-10-1.jpg"
       ]
     },
     {
