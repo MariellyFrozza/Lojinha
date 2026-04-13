@@ -21,7 +21,8 @@
         "images/headset-fifine1-25.jpg",
         "images/headset-fifine2-25.jpg",
         "images/headset-fifine3-25.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 21,
@@ -30,6 +31,7 @@
       "price": 15,
       "condition": "bom estado",
       "category": "Outros",
+      "reserved": true,
       "photos": [
         "images/nerf-sidestrike1-15.jpg",
         "images/nerf-sidestrike2-15.jpg"
@@ -57,7 +59,8 @@
         "images/kit-de-churrasco-com-maleta1-40.jpg",
         "images/kit-de-churrasco-com-maleta2-40.jpg",
         "images/kit-de-churrasco-com-maleta3-40.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 48,
@@ -180,7 +183,8 @@
       "photos": [
         "images/carregador-wireless-com-entrada-usb-c1-5.jpg",
         "images/carregador-wireless-com-entrada-usb-c2-5.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 60,
@@ -228,7 +232,8 @@
       "photos": [
         "images/roteador-xiaomi-mesh-system-ac12001-160.jpg",
         "images/roteador-xiaomi-mesh-system-ac12002-160.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 69,
@@ -560,7 +565,8 @@
         "images/miniatura-formula-1-red-bull-racing-2025-90-2.jpg",
         "images/miniatura-formula-1-red-bull-racing-2025-90-3.jpg",
         "images/miniatura-formula-1-red-bull-racing-2025-90-4.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 108,
@@ -587,7 +593,8 @@
         "images/monitor-24-lg-full-hd-75hz-duas-hdmi-400-3.jpg",
         "images/monitor-24-lg-full-hd-75hz-duas-hdmi-400-2.jpg",
         "images/monitor-24-lg-full-hd-75hz-duas-hdmi-400-1.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 110,
@@ -688,7 +695,8 @@
       "photos": [
         "images/webcam-papalook-full-hd-usb-40-1.jpg",
         "images/webcam-papalook-full-hd-usb-40-2.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 123,
@@ -845,7 +853,8 @@
       "photos": [
         "images/aquecedor-eletrico-cadence-110v-35-2.jpg",
         "images/aquecedor-eletrico-cadence-110v-35-1.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 139,
@@ -947,7 +956,8 @@
       "category": "Outros",
       "photos": [
         "images/bowl-grande-veggie-10.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 154,
@@ -1158,7 +1168,8 @@
       "category": "Decoração",
       "photos": [
         "images/lampadas-de-natal-3m-5.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 172,
@@ -1169,7 +1180,8 @@
       "category": "Eletrônicos",
       "photos": [
         "images/mouse-redragon-cobra-10000dpi-plastico-descascando-0.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 173,
@@ -1231,7 +1243,8 @@
       "photos": [
         "images/luminaria-disney-minnie-branca-com-laco-30-1.jpg",
         "images/luminaria-disney-minnie-branca-com-laco-30-2.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 178,
@@ -1243,7 +1256,8 @@
       "photos": [
         "images/munhequeira-hidrolight-esquerda-0-1.jpg",
         "images/munhequeira-hidrolight-esquerda-0-2.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 179,
@@ -1256,7 +1270,8 @@
         "images/oculos-de-sol-feminino-hexagonal-7-1.jpg",
         "images/oculos-de-sol-feminino-hexagonal-7-2.jpg",
         "images/oculos-de-sol-feminino-hexagonal-7-3.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 180,
@@ -1303,6 +1318,7 @@
       "price": 20,
       "condition": "bom estado",
       "category": "Outros",
+      "reserved": true,
       "photos": [
         "images/cadeira-de-praia-btf-rosa-20-1.jpg",
         "images/cadeira-de-praia-btf-rosa-20-2.jpg",
@@ -1342,7 +1358,8 @@
       "photos": [
         "images/moedor-de-sal-e-pimenta-5-1.jpg",
         "images/moedor-de-sal-e-pimenta-5-2.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 187,
@@ -1403,7 +1420,8 @@
         "images/varao-cortina-duplo-branco-madeira-190cm-0-1.jpg",
         "images/varao-cortina-duplo-branco-madeira-190cm-0-2.jpg",
         "images/varao-cortina-duplo-branco-madeira-190cm-0-3.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 192,

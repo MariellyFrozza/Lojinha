@@ -1,3 +1,35 @@
+function hasPromotionalPrice(item) {
+    return typeof item.promotionalPrice === 'number';
+}
+
+function getEffectivePrice(item) {
+    return hasPromotionalPrice(item) ? item.promotionalPrice : item.price;
+}
+
+function formatPriceForMessage(item) {
+    const effectivePrice = getEffectivePrice(item);
+    if (effectivePrice === 0) {
+        return 'Grátis!';
+    }
+
+    return `R$ ${effectivePrice.toFixed(2).replace('.', ',')}`;
+}
+
+function buildWhatsappMessage(item) {
+    const reservedPrefix = item.reserved ? 'RESERVADO ' : '';
+    return `Olá! Tenho interesse no item: ${reservedPrefix}${item.name} (${formatPriceForMessage(item)}).`;
+}
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = {
+        buildWhatsappMessage,
+        formatPriceForMessage,
+        getEffectivePrice,
+        hasPromotionalPrice
+    };
+}
+
+if (typeof document !== 'undefined') {
 document.addEventListener('DOMContentLoaded', () => {
     const itemsContainer = document.getElementById('items-container');
     const nameFilter = document.getElementById('name-filter');
@@ -38,23 +70,6 @@ document.addEventListener('DOMContentLoaded', () => {
             option.textContent = category;
             categoryFilter.appendChild(option);
         });
-    }
-
-    function hasPromotionalPrice(item) {
-        return typeof item.promotionalPrice === 'number';
-    }
-
-    function getEffectivePrice(item) {
-        return hasPromotionalPrice(item) ? item.promotionalPrice : item.price;
-    }
-
-    function formatPriceForMessage(item) {
-        const effectivePrice = getEffectivePrice(item);
-        if (effectivePrice === 0) {
-            return 'Grátis!';
-        }
-
-        return `R$ ${effectivePrice.toFixed(2).replace('.', ',')}`;
     }
 
     function renderItems(items) {
@@ -294,7 +309,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const item = allItems.find(i => i.id === itemId);
 
         if (e.target.classList.contains('btn-whatsapp')) {
-            const message = encodeURIComponent(`Olá! Tenho interesse no item: ${item.name} (${formatPriceForMessage(item)}).`);
+            const message = encodeURIComponent(buildWhatsappMessage(item));
             window.open(`https://wa.me/${whatsappNumber}?text=${message}`, '_blank');
             return;
         }
@@ -369,3 +384,4 @@ document.addEventListener('DOMContentLoaded', () => {
         el.addEventListener('change', filterItems);
     });
 });
+}
