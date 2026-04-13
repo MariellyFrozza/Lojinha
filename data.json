@@ -26,7 +26,7 @@
     {
       "id": 21,
       "name": "NERF Sidestrike",
-      "description": "Lançador Nerf Sidestrike com coldre. Duas unidades disponíveis; preço por unidade.",
+      "description": "Lançador Nerf Sidestrike com coldre. Restou 1 unidade; Inclui kit de dardos!",
       "price": 15,
       "condition": "bom estado",
       "category": "Outros",
@@ -37,13 +37,12 @@
     },
     {
       "id": 24,
-      "name": "Bolsa Impermeável com alça",
-      "description": "Cabem 3 celulares e uma carteira. Nunca utilizados. 2 unidades disponíveis",
+      "name": "Bolsa Impermeável com Alça Cinza",
+      "description": "Bolsa impermeável cinza com alça; cabe até 3 celulares e uma carteira.",
       "price": 15,
       "condition": "novo",
       "category": "Outros",
       "photos": [
-        "images/bolsa-impermeavel-com-alca2-15.jpg",
         "images/bolsa-impermeavel-com-alca1-15.jpg"
       ]
     },
@@ -71,20 +70,6 @@
         "images/headset-sem-fio-prata1-30.jpeg",
         "images/headset-sem-fio-prata2-30.jpeg",
         "images/headset-sem-fio-prata3-30.jpeg"
-      ]
-    },
-    {
-      "id": 49,
-      "name": "Controle PS4 DualShock Blue Camouflage",
-      "description": "Controle paralelo para PlayStation 4 na cor Blue Camouflage.",
-      "price": 30,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "reserved": true,
-      "photos": [
-        "images/controle-ps4-dualshock-blue-camouflage1-30.jpeg",
-        "images/controle-ps4-dualshock-blue-camouflage2-30.jpeg",
-        "images/controle-ps4-dualshock-blue-camouflage3-30.jpeg"
       ]
     },
     {
@@ -228,6 +213,7 @@
       "price": 10,
       "condition": "novo",
       "category": "Outros",
+      "reserved": true,
       "photos": [
         "images/restaurador-de-palheta-baseus-em-inox1-10.jpg"
       ]
@@ -593,12 +579,12 @@
       "id": 108,
       "name": "Miniatura Yoshi Mario Kart McDonald's",
       "description": "Miniatura do Yoshi da linha Mario Kart McDonald's, ideal para colecionadores.",
-      "price": 10,
+      "price": 5,
       "condition": "bom estado",
       "category": "Brinquedos",
       "photos": [
-        "images/miniatura-yoshi-mario-kart-mcdonalds-10-2.jpg",
-        "images/miniatura-yoshi-mario-kart-mcdonalds-10-1.jpg"
+        "images/miniatura-yoshi-mario-kart-mcdonalds-5-2.jpg",
+        "images/miniatura-yoshi-mario-kart-mcdonalds-5-1.jpg"
       ]
     },
     {
@@ -805,6 +791,7 @@
       "price": 5,
       "condition": "bom estado",
       "category": "Eletrônicos",
+      "reserved": true,
       "photos": [
         "images/extensao-3-tomadas-2-pinos-5.jpg"
       ]
@@ -972,7 +959,7 @@
     {
       "id": 154,
       "name": "Bowl Vegetais",
-      "description": "Bowl pequeno em cerâmica branca com detalhes amarelos de vegetais, bom para sobremesas, frutas ou petiscos.",
+      "description": "Bowl pequeno em cerâmica branca com detalhes amarelos de vegetais, bom para sobremesas, frutas ou petiscos. Há 2 unidades disponíveis, por R$7 cada.",
       "price": 7,
       "condition": "bom estado",
       "category": "Outros",
@@ -1171,7 +1158,7 @@
     {
       "id": 171,
       "name": "Cordão de Luzes de Natal 3 m",
-      "description": "Cordão de luzes de Natal com 3 metros, bom para decorar árvore, janela ou cabeceira.",
+      "description": "Cordão de luzes de Natal em LED com 3 metros, bom para decorar árvore, janela ou cabeceira.",
       "price": 5,
       "condition": "bom estado",
       "category": "Decoração",
@@ -1209,9 +1196,72 @@
       "price": 40,
       "condition": "bom estado",
       "category": "Móveis",
+      "reserved": true,
       "photos": [
         "images/varal-grande-em-aluminio-com-abas-40-2.jpg",
         "images/varal-grande-em-aluminio-com-abas-40-1.jpg"
+      ]
+    },
+    {
+      "id": 175,
+      "name": "Adaptador Difusor Universal para Secador em Silicone",
+      "description": "Adaptador difusor em silicone para encaixar em diferentes secadores de cabelo, dobrável e fácil de guardar.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/adaptador-difusor-universal-para-secador-em-silicone-5-1.jpg",
+        "images/adaptador-difusor-universal-para-secador-em-silicone-5-2.jpg",
+        "images/adaptador-difusor-universal-para-secador-em-silicone-5-3.jpg"
+      ]
+    },
+    {
+      "id": 176,
+      "name": "Amigurumi Panda Artesanal",
+      "description": "Amigurumi artesanal em formato de panda, feito em crochê, ótimo para presentear ou decorar.",
+      "price": 60,
+      "condition": "bom estado",
+      "category": "Brinquedos",
+      "photos": [
+        "images/amigurumi-panda-artesanal-60-1.jpg",
+        "images/amigurumi-panda-artesanal-60-2.jpg"
+      ]
+    },
+    {
+      "id": 177,
+      "name": "Luminária Disney Minnie Branca com Laço",
+      "description": "Luminária da Minnie na cor branca com laço, liga na tomada e fica ótima em quarto infantil ou cantinho decorado.",
+      "price": 30,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/luminaria-disney-minnie-branca-com-laco-30-1.jpg",
+        "images/luminaria-disney-minnie-branca-com-laco-30-2.jpg"
+      ]
+    },
+    {
+      "id": 178,
+      "name": "Munhequeira Hidrolight Esquerda",
+      "description": "Munhequeira Hidrolight para o lado esquerdo, boa para dar suporte e compressão no dia a dia.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/munhequeira-hidrolight-esquerda-0-1.jpg",
+        "images/munhequeira-hidrolight-esquerda-0-2.jpg"
+      ]
+    },
+    {
+      "id": 179,
+      "name": "Óculos de Sol Feminino Hexagonal",
+      "description": "Óculos de sol feminino com armação hexagonal, modelo novo e estiloso para o dia a dia.",
+      "price": 0,
+      "condition": "novo",
+      "category": "Vestuário",
+      "photos": [
+        "images/oculos-de-sol-feminino-hexagonal-0-1.jpg",
+        "images/oculos-de-sol-feminino-hexagonal-0-2.jpg",
+        "images/oculos-de-sol-feminino-hexagonal-0-3.jpg"
       ]
     }
   ]
