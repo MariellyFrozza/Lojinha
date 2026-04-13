@@ -1249,6 +1249,18 @@
         "images/oculos-de-sol-feminino-hexagonal-0-2.jpg",
         "images/oculos-de-sol-feminino-hexagonal-0-3.jpg"
       ]
+    },
+    {
+      "id": 180,
+      "name": "Travesseiro de Pescoço Inflável Portátil",
+      "description": "Travesseiro de pescoço inflável portátil, bom para viagens, carro ou descanso no dia a dia.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/travesseiro-de-pescoco-inflavel-portatil-5-1.jpg",
+        "images/travesseiro-de-pescoco-inflavel-portatil-5-2.jpg"
+      ]
     }
   ]
 }
