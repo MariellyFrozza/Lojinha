@@ -1247,13 +1247,13 @@
       "id": 179,
       "name": "Óculos de Sol Feminino Hexagonal",
       "description": "Óculos de sol feminino com armação hexagonal, modelo novo e estiloso para o dia a dia.",
-      "price": 0,
+      "price": 7,
       "condition": "novo",
       "category": "Vestuário",
       "photos": [
-        "images/oculos-de-sol-feminino-hexagonal-0-1.jpg",
-        "images/oculos-de-sol-feminino-hexagonal-0-2.jpg",
-        "images/oculos-de-sol-feminino-hexagonal-0-3.jpg"
+        "images/oculos-de-sol-feminino-hexagonal-7-1.jpg",
+        "images/oculos-de-sol-feminino-hexagonal-7-2.jpg",
+        "images/oculos-de-sol-feminino-hexagonal-7-3.jpg"
       ]
     },
     {
@@ -1264,8 +1264,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/travesseiro-de-pescoco-inflavel-portatil-5-1.jpg",
-        "images/travesseiro-de-pescoco-inflavel-portatil-5-2.jpg"
+        "images/travesseiro-de-pescoco-inflavel-portatil-5-2.jpg",
+        "images/travesseiro-de-pescoco-inflavel-portatil-5-1.jpg"
       ]
     },
     {
