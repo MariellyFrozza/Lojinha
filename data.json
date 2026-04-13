@@ -466,7 +466,8 @@
         "images/bandeja-tramontina-madeira-25-1.jpg",
         "images/bandeja-tramontina-madeira-25-2.jpg",
         "images/bandeja-tramontina-madeira-25-3.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 99,
@@ -866,6 +867,7 @@
       "price": 0,
       "condition": "bom estado",
       "category": "Outros",
+      "reserved": true,
       "photos": [
         "images/copos-shot-ceramica-decorativo-0.jpg"
       ]
@@ -1149,7 +1151,8 @@
       "category": "Brinquedos",
       "photos": [
         "images/chaveiro-pelucia-stitch-0.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 170,
@@ -1223,7 +1226,8 @@
         "images/adaptador-difusor-universal-para-secador-em-silicone-5-1.jpg",
         "images/adaptador-difusor-universal-para-secador-em-silicone-5-2.jpg",
         "images/adaptador-difusor-universal-para-secador-em-silicone-5-3.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 176,
@@ -1323,7 +1327,6 @@
       "price": 20,
       "condition": "bom estado",
       "category": "Outros",
-      "reserved": true,
       "photos": [
         "images/cadeira-de-praia-btf-rosa-20-1.jpg",
         "images/cadeira-de-praia-btf-rosa-20-2.jpg",
@@ -1377,7 +1380,8 @@
       "photos": [
         "images/porta-sabonete-ceramica-branco-7-2.jpg",
         "images/porta-sabonete-ceramica-branco-7-1.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 188,
@@ -1386,6 +1390,7 @@
       "price": 5,
       "condition": "bom estado",
       "category": "Decoração",
+      "reserved": true,
       "photos": [
         "images/prendedor-cortina-magnetico-cinza-cada-um-5-1.jpg",
         "images/prendedor-cortina-magnetico-cinza-cada-um-5-2.jpg"
