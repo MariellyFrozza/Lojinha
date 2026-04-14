@@ -22,20 +22,6 @@
       ]
     },
     {
-      "id": 46,
-      "name": "Kit de Churrasco com Maleta (4 Peças)",
-      "description": "Kit de churrasco com maleta contendo faca, garfo, pegador e amolador. Nunca usado.",
-      "price": 40,
-      "condition": "novo",
-      "category": "Decoração",
-      "photos": [
-        "images/kit-de-churrasco-com-maleta1-40.jpg",
-        "images/kit-de-churrasco-com-maleta2-40.jpg",
-        "images/kit-de-churrasco-com-maleta3-40.jpg"
-      ],
-      "reserved": true
-    },
-    {
       "id": 51,
       "name": "Caneta Crown Dourada e Azul",
       "description": "Caneta esferográfica Crown nas cores dourada e azul, com carga lacrada e caixa original.",
@@ -203,7 +189,6 @@
       "price": 140,
       "condition": "novo",
       "category": "Eletrônicos",
-      "reserved": true,
       "photos": [
         "images/hub-usb-ftx-para-macbook-com-ethernet1-140.jpg",
         "images/hub-usb-ftx-para-macbook-com-ethernet2-140.jpg",
@@ -784,18 +769,6 @@
       ]
     },
     {
-      "id": 169,
-      "name": "Chaveiro de Pelúcia Stitch",
-      "description": "Chaveiro de pelúcia do Stitch, ótimo para mochila, bolsa ou chaves.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Brinquedos",
-      "photos": [
-        "images/chaveiro-pelucia-stitch-0.jpg"
-      ],
-      "reserved": true
-    },
-    {
       "id": 170,
       "name": "Grade para Fotos em Ferro com Ímãs",
       "description": "Grade metálica para fotos e lembretes, acompanha ímãs e funciona bem como painel decorativo de parede.",
@@ -855,19 +828,6 @@
         "images/amigurumi-panda-artesanal-60-1.jpg",
         "images/amigurumi-panda-artesanal-60-2.jpg"
       ]
-    },
-    {
-      "id": 177,
-      "name": "Luminária Disney Minnie Branca com Laço",
-      "description": "Luminária da Minnie na cor branca com laço, liga na tomada e fica ótima em quarto infantil ou cantinho decorado.",
-      "price": 30,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/luminaria-disney-minnie-branca-com-laco-30-1.jpg",
-        "images/luminaria-disney-minnie-branca-com-laco-30-2.jpg"
-      ],
-      "reserved": true
     },
     {
       "id": 180,
@@ -948,7 +908,6 @@
       "price": 35,
       "condition": "bom estado",
       "category": "Eletrônicos",
-      "reserved": true,
       "photos": [
         "images/tomada-inteligente-20a-wifi-leconsumo-35-1.jpg",
         "images/tomada-inteligente-20a-wifi-leconsumo-35-2.jpg",
@@ -1049,3 +1008,4 @@
     }
   ]
 }
+
