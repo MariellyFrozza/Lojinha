@@ -11,33 +11,6 @@
   ],
   "items": [
     {
-      "id": 20,
-      "name": "Headset Fifine",
-      "description": "Headset com fio para computador. Com microfone embutido. Ideal para reuniões.",
-      "price": 25,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/headset-fifine1-25.jpg",
-        "images/headset-fifine2-25.jpg",
-        "images/headset-fifine3-25.jpg"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 21,
-      "name": "NERF Sidestrike",
-      "description": "Lançador Nerf Sidestrike com coldre. Restou 1 unidade; Inclui kit de dardos!",
-      "price": 15,
-      "condition": "bom estado",
-      "category": "Outros",
-      "reserved": true,
-      "photos": [
-        "images/nerf-sidestrike1-15.jpg",
-        "images/nerf-sidestrike2-15.jpg"
-      ]
-    },
-    {
       "id": 24,
       "name": "Bolsa Impermeável com Alça Cinza",
       "description": "Bolsa impermeável cinza com alça; cabe até 3 celulares e uma carteira.",
@@ -59,20 +32,6 @@
         "images/kit-de-churrasco-com-maleta1-40.jpg",
         "images/kit-de-churrasco-com-maleta2-40.jpg",
         "images/kit-de-churrasco-com-maleta3-40.jpg"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 48,
-      "name": "Headset Sem Fio Prata",
-      "description": "Headset sem fio na cor prata, com suporte para cartão de memória de até 32 GB.",
-      "price": 15,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/headset-sem-fio-prata1-15.jpeg",
-        "images/headset-sem-fio-prata2-15.jpeg",
-        "images/headset-sem-fio-prata3-15.jpeg"
       ],
       "reserved": true
     },
@@ -175,19 +134,6 @@
       ]
     },
     {
-      "id": 59,
-      "name": "Carregador Wireless com Entrada USB-C",
-      "description": "Base de carregamento wireless redonda com entrada USB-C.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/carregador-wireless-com-entrada-usb-c1-5.jpg",
-        "images/carregador-wireless-com-entrada-usb-c2-5.jpg"
-      ],
-      "reserved": true
-    },
-    {
       "id": 60,
       "name": "Coleira Rosa com Guia para Gato ou Cachorro Médio",
       "description": "Coleira rosa com guia, indicada para gatos ou cães de porte médio.",
@@ -210,31 +156,6 @@
         "images/receptor-usb-de-tv-digital-pieno-com-antena1-10.jpg",
         "images/receptor-usb-de-tv-digital-pieno-com-antena2-10.jpg"
       ]
-    },
-    {
-      "id": 67,
-      "name": "Restaurador de Palheta Baseus em Inox",
-      "description": "Ferramenta Baseus em inox para restaurar o corte da borracha da palheta e melhorar a limpeza do para-brisa.",
-      "price": 10,
-      "condition": "novo",
-      "category": "Outros",
-      "reserved": true,
-      "photos": [
-        "images/restaurador-de-palheta-baseus-em-inox1-10.jpg"
-      ]
-    },
-    {
-      "id": 68,
-      "name": "Roteador Xiaomi Mesh System AC1200",
-      "description": "Sistema mesh Xiaomi AC1200 dual band com Wi-Fi 2.4 e 5 GHz, portas Gigabit WAN/LAN auto-sensing e expansão de cobertura para a casa. Duas unidades inclusas para rede mesh. Preço unitário.",
-      "price": 140,
-      "condition": "novo",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/roteador-xiaomi-mesh-system-ac12001-160.jpg",
-        "images/roteador-xiaomi-mesh-system-ac12002-160.jpg"
-      ],
-      "reserved": true
     },
     {
       "id": 69,
@@ -282,6 +203,7 @@
       "price": 140,
       "condition": "novo",
       "category": "Eletrônicos",
+      "reserved": true,
       "photos": [
         "images/hub-usb-ftx-para-macbook-com-ethernet1-140.jpg",
         "images/hub-usb-ftx-para-macbook-com-ethernet2-140.jpg",
@@ -374,54 +296,6 @@
       ]
     },
     {
-      "id": 87,
-      "name": "Organizador de Fios em Velcro (2 Unidades)",
-      "description": "Kit com 2 tiras organizadoras de velcro para prender e agrupar cabos de carregadores, informática ou TV.",
-      "price": 0,
-      "condition": "novo",
-      "category": "Outros",
-      "reserved": true,
-      "photos": [
-        "images/organizador-de-fios-velcro-duas-unidades-0.jpg"
-      ]
-    },
-    {
-      "id": 88,
-      "name": "Pelúcia Lotso Média",
-      "description": "Pelúcia média do Lotso, personagem de Toy Story, macia e ideal para decorar ou presentear.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Brinquedos",
-      "reserved": true,
-      "photos": [
-        "images/pelucia-lotso-media-5.jpg"
-      ]
-    },
-    {
-      "id": 89,
-      "name": "Pelúcia Stitch Média",
-      "description": "Pelúcia média do Stitch, personagem da Disney, macia e ótima para decorar ou presentear.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Brinquedos",
-      "reserved": true,
-      "photos": [
-        "images/pelucia-stitch-media-5.jpg"
-      ]
-    },
-    {
-      "id": 90,
-      "name": "Porta-Lápis Turquesa",
-      "description": "Porta-lápis plástico na cor turquesa, com dois compartimentos e bandeja central para organizar itens de mesa.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/porta-lapis-turquesa-0.jpg"
-      ],
-      "reserved": true
-    },
-    {
       "id": 91,
       "name": "Selim Banco de Bicicleta San Marino Core",
       "description": "Selim para bicicleta San Marino Core, com formato ergonômico e trilhos de fixação para reposição ou upgrade.",
@@ -454,20 +328,6 @@
       "photos": [
         "images/umidificador-frozen-iluminado-110v-40.jpg"
       ]
-    },
-    {
-      "id": 98,
-      "name": "Bandeja Tramontina em Madeira",
-      "description": "Bandeja Tramontina em madeira, útil para servir ou organizar itens na bancada.",
-      "price": 25,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/bandeja-tramontina-madeira-25-1.jpg",
-        "images/bandeja-tramontina-madeira-25-2.jpg",
-        "images/bandeja-tramontina-madeira-25-3.jpg"
-      ],
-      "reserved": true
     },
     {
       "id": 99,
@@ -535,6 +395,7 @@
       "name": "Fone de Ouvido Bluetooth Skullcandy Jib True 2",
       "description": "Fone de ouvido bluetooth Skullcandy Jib True 2 com estojo de carregamento.",
       "price": 60,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -557,54 +418,12 @@
       ]
     },
     {
-      "id": 107,
-      "name": "Miniatura de Fórmula 1 Red Bull Racing 2025",
-      "description": "Miniatura de Fórmula 1 Red Bull Racing com acabamento detalhado, ótima para coleção ou decoração.",
-      "price": 90,
-      "condition": "bom estado",
-      "category": "Brinquedos",
-      "photos": [
-        "images/miniatura-formula-1-red-bull-racing-2025-90-1.jpg",
-        "images/miniatura-formula-1-red-bull-racing-2025-90-2.jpg",
-        "images/miniatura-formula-1-red-bull-racing-2025-90-3.jpg",
-        "images/miniatura-formula-1-red-bull-racing-2025-90-4.jpg"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 108,
-      "name": "Miniatura Yoshi Mario Kart McDonald's",
-      "description": "Miniatura do Yoshi da linha Mario Kart McDonald's, ideal para colecionadores.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Brinquedos",
-      "reserved": true,
-      "photos": [
-        "images/miniatura-yoshi-mario-kart-mcdonalds-5-2.jpg",
-        "images/miniatura-yoshi-mario-kart-mcdonalds-5-1.jpg"
-      ]
-    },
-    {
-      "id": 109,
-      "name": "Monitor LG 24\" Full HD 100Hz com 2 HDMI",
-      "description": "Monitor LG de 24 polegadas com resolução Full HD, 100 Hz e duas entradas HDMI.",
-      "price": 400,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/monitor-24-lg-full-hd-75hz-duas-hdmi-400-4.jpg",
-        "images/monitor-24-lg-full-hd-75hz-duas-hdmi-400-3.jpg",
-        "images/monitor-24-lg-full-hd-75hz-duas-hdmi-400-2.jpg",
-        "images/monitor-24-lg-full-hd-75hz-duas-hdmi-400-1.jpg"
-      ],
-      "reserved": true
-    },
-    {
       "id": 110,
       "name": "Monitor ASUS 24\" Full HD 75Hz com HDMI DVI e VGA",
       "description": "Monitor ASUS de 24 polegadas com resolução Full HD, 75 Hz e entradas HDMI, DVI e VGA.",
       "price": 380,
       "condition": "bom estado",
+      "reserved": true,
       "category": "Eletrônicos",
       "photos": [
         "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-1.jpg",
@@ -623,19 +442,6 @@
       "category": "Decoração",
       "photos": [
         "images/persiana-branca-120x160-com-detalhes-30.webp"
-      ]
-    },
-    {
-      "id": 112,
-      "name": "Persiana Preta 160 x 160 cm",
-      "description": "Persiana preta de 160 x 160 cm, ideal para controle de luz em quarto ou escritório.",
-      "price": 50,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "reserved": true,
-      "photos": [
-        "images/persiana-preta-160x160-50-1.webp",
-        "images/persiana-preta-160x160-50-2.webp"
       ]
     },
     {
@@ -689,34 +495,6 @@
       ]
     },
     {
-      "id": 122,
-      "name": "Webcam Papalook Full HD USB",
-      "description": "Webcam Papalook Full HD com conexão USB, ideal para videochamadas.",
-      "price": 40,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/webcam-papalook-full-hd-usb-40-1.jpg",
-        "images/webcam-papalook-full-hd-usb-40-2.jpg"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 123,
-      "name": "Mesa de Jantar com Tampo de Vidro e 6 Cadeiras em Suede",
-      "description": "Conjunto de mesa de jantar com tampo de vidro e 6 cadeiras estofadas em suede bege, com base em madeira.",
-      "price": 900,
-      "condition": "bom estado",
-      "reserved": true,
-      "category": "Móveis",
-      "photos": [
-        "images/mesa-com-tampo-de-vidro-e-6-cadeiras-em-suede-900-4.jpg",
-        "images/mesa-com-tampo-de-vidro-e-6-cadeiras-em-suede-900-3.jpg",
-        "images/mesa-com-tampo-de-vidro-e-6-cadeiras-em-suede-900-2.jpg",
-        "images/mesa-com-tampo-de-vidro-e-6-cadeiras-em-suede-900-1.jpg"
-      ]
-    },
-    {
       "id": 124,
       "name": "Porta-Retrato Branco 12 x 8 cm",
       "description": "Porta-retrato branco com moldura lisa, ideal para fotos pequenas em mesa, rack ou aparador.",
@@ -736,30 +514,6 @@
       "category": "Decoração",
       "photos": [
         "images/porta-retrato-branco-e-dourado-14x9-5.jpg"
-      ]
-    },
-    {
-      "id": 126,
-      "name": "Porta-Retrato Branco 25 x 18 cm",
-      "description": "Porta-retrato branco para foto maior, com visual clean que combina com diferentes ambientes.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "reserved": true,
-      "photos": [
-        "images/porta-retrato-branco-25x18-5.jpg"
-      ]
-    },
-    {
-      "id": 127,
-      "name": "Moldura Preta 28 x 20 cm",
-      "description": "Moldura preta de 28 x 20 cm, ideal para fotos, artes ou impressos decorativos.",
-      "price": 10,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "reserved": true,
-      "photos": [
-        "images/moldura-preta-28x20-10.jpg"
       ]
     },
     {
@@ -811,19 +565,6 @@
       ]
     },
     {
-      "id": 133,
-      "name": "Cortina para Sala 240 x 220 cm",
-      "description": "Cortina clara com ilhós para sala, medindo 240 x 220 cm, leve e fácil de combinar com diferentes ambientes.",
-      "price": 60,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "reserved": true,
-      "photos": [
-        "images/cortina-para-sala-240x220-60-2.jpg",
-        "images/cortina-para-sala-240x220-60-1.jpg"
-      ]
-    },
-    {
       "id": 134,
       "name": "Prateleira Branca de Madeira 100 x 20 cm",
       "description": "Prateleira branca de madeira com 100 x 20 cm, boa para livros, objetos decorativos ou apoio leve.",
@@ -833,43 +574,6 @@
       "reserved": true,
       "photos": [
         "images/prateleira-branca-madeira-100x20-20.jpg"
-      ]
-    },
-    {
-      "id": 135,
-      "name": "Água Desmineralizada Cockpit 1L Lacrada",
-      "description": "Água desmineralizada Cockpit de 1 litro, lacrada, indicada para diluição de líquidos arrefecedores e baterias.",
-      "price": 0,
-      "condition": "novo",
-      "category": "Outros",
-      "reserved": true,
-      "photos": [
-        "images/agua-desmineralizada-lacrada-0.jpg"
-      ]
-    },
-    {
-      "id": 136,
-      "name": "Aquecedor Elétrico Cadence 110V",
-      "description": "Aquecedor elétrico Cadence branco, compacto e prático para uso em ambientes pequenos. Voltagem 110V.",
-      "price": 35,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/aquecedor-eletrico-cadence-110v-35-2.jpg",
-        "images/aquecedor-eletrico-cadence-110v-35-1.jpg"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 139,
-      "name": "Par de Copos Shot Decorativos em Cerâmica",
-      "description": "Par de copos shot em cerâmica com visual de mini caneca e estampas decorativas.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Outros",
-      "reserved": true,
-      "photos": [
-        "images/copos-shot-ceramica-decorativo-0.jpg"
       ]
     },
     {
@@ -924,6 +628,7 @@
       "description": "Produto Vonixx Prizm para restauração de vidros automotivos, com menos de um terço utilizado e bastante conteúdo restante.",
       "price": 10,
       "condition": "bom estado",
+      "reserved": true,
       "category": "Outros",
       "photos": [
         "images/produto-para-vidros-automotivos-vonixx-prizm-menos-de-um-terco-utilizado-10.jpg"
@@ -953,18 +658,6 @@
       ]
     },
     {
-      "id": 153,
-      "name": "Bowl Grande Veggie",
-      "description": "Bowl grande em cerâmica na cor preta, com estampa \"Tasty\", ótimo para sopa, cereal ou caldos.",
-      "price": 10,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/bowl-grande-veggie-10.jpg"
-      ],
-      "reserved": true
-    },
-    {
       "id": 154,
       "name": "Bowl Vegetais",
       "description": "Bowl pequeno em cerâmica branca com detalhes amarelos de vegetais, bom para sobremesas, frutas ou petiscos. Há 2 unidades disponíveis, por R$7 cada.",
@@ -973,18 +666,6 @@
       "category": "Outros",
       "photos": [
         "images/bowl-vegetais-7.jpg"
-      ]
-    },
-    {
-      "id": 155,
-      "name": "Ramekin de Cerâmica Branco (cada um)",
-      "description": "Ramekin de cerâmica branca com laterais caneladas, ideal para sobremesas, molhos ou pequenas porções. Preço por unidade.",
-      "price": 7,
-      "condition": "bom estado",
-      "category": "Outros",
-      "reserved": true,
-      "photos": [
-        "images/ramekin-ceramica-cada-um-7.jpg"
       ]
     },
     {
@@ -1055,20 +736,6 @@
       ]
     },
     {
-      "id": 162,
-      "name": "Kit com 2 Xícaras de Gato",
-      "description": "Kit com 2 xícaras em cerâmica com alças pretas e detalhe de gatinho em relevo, ótimo para café ou decoração.",
-      "price": 20,
-      "condition": "bom estado",
-      "category": "Outros",
-      "reserved": true,
-      "photos": [
-        "images/kit-duas-xicaras-de-gato-20.jpg",
-        "images/kit-duas-xicaras-de-gato-20-2.jpg",
-        "images/kit-duas-xicaras-de-gato-20-3.jpg"
-      ]
-    },
-    {
       "id": 163,
       "name": "Panela Wok Brinox Cinza",
       "description": "Panela wok Brinox na cor cinza, boa para refogados, legumes e preparos rápidos.",
@@ -1080,19 +747,6 @@
         "images/panela-wok-brinox-cinza-30-1.jpg",
         "images/panela-wok-brinox-cinza-30-2.jpg"
       ]
-    },
-    {
-      "id": 164,
-      "name": "Pegador de Pizza com Faca",
-      "description": "Utensílio para servir pizza com base em aço e fio serrilhado para cortar e levantar a fatia.",
-      "price": 10,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/pegador-de-pizza-com-faca-10-2.jpg",
-        "images/pegador-de-pizza-com-faca-10-1.jpg"
-      ],
-      "reserved": true
     },
     {
       "id": 165,
@@ -1115,19 +769,6 @@
       "photos": [
         "images/ralador-e-picador-de-alimentos-rosa-7-1.jpg",
         "images/ralador-e-picador-de-alimentos-rosa-7-2.jpg"
-      ]
-    },
-    {
-      "id": 167,
-      "name": "Faca de Queijos Tramontina",
-      "description": "Faca de queijos Tramontina com lâmina vazada e ponta bifurcada, boa para cortar e servir.",
-      "price": 10,
-      "condition": "bom estado",
-      "category": "Outros",
-      "reserved": true,
-      "photos": [
-        "images/tramontina-faca-de-queijos-10-1.jpg",
-        "images/tramontina-faca-de-queijos-10-2.jpg"
       ]
     },
     {
@@ -1179,18 +820,6 @@
       "reserved": true
     },
     {
-      "id": 172,
-      "name": "Mouse Gamer Redragon Cobra 10000 DPI",
-      "description": "Mouse gamer Redragon Cobra com ajuste de DPI até 10000. O plástico externo está descascando, mas segue útil para uso.",
-      "price": 0,
-      "condition": "usado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/mouse-redragon-cobra-10000dpi-plastico-descascando-0.jpg"
-      ],
-      "reserved": true
-    },
-    {
       "id": 173,
       "name": "Plantas Artificiais para Decoração",
       "description": "Conjunto de plantas artificiais para decoração, boas para mesa, estante, rack ou lavabo.",
@@ -1214,20 +843,6 @@
         "images/varal-grande-em-aluminio-com-abas-40-2.jpg",
         "images/varal-grande-em-aluminio-com-abas-40-1.jpg"
       ]
-    },
-    {
-      "id": 175,
-      "name": "Adaptador Difusor Universal para Secador em Silicone",
-      "description": "Adaptador difusor em silicone para encaixar em diferentes secadores de cabelo, dobrável e fácil de guardar.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/adaptador-difusor-universal-para-secador-em-silicone-5-1.jpg",
-        "images/adaptador-difusor-universal-para-secador-em-silicone-5-2.jpg",
-        "images/adaptador-difusor-universal-para-secador-em-silicone-5-3.jpg"
-      ],
-      "reserved": true
     },
     {
       "id": 176,
@@ -1255,33 +870,6 @@
       "reserved": true
     },
     {
-      "id": 178,
-      "name": "Munhequeira Hidrolight Esquerda",
-      "description": "Munhequeira Hidrolight para o lado esquerdo, boa para dar suporte e compressão no dia a dia.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/munhequeira-hidrolight-esquerda-0-1.jpg",
-        "images/munhequeira-hidrolight-esquerda-0-2.jpg"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 179,
-      "name": "Óculos de Sol Feminino Hexagonal",
-      "description": "Óculos de sol feminino com armação hexagonal, modelo novo e estiloso para o dia a dia.",
-      "price": 7,
-      "condition": "novo",
-      "category": "Vestuário",
-      "photos": [
-        "images/oculos-de-sol-feminino-hexagonal-7-1.jpg",
-        "images/oculos-de-sol-feminino-hexagonal-7-2.jpg",
-        "images/oculos-de-sol-feminino-hexagonal-7-3.jpg"
-      ],
-      "reserved": true
-    },
-    {
       "id": 180,
       "name": "Travesseiro de Pescoço Inflável Portátil",
       "description": "Travesseiro de pescoço inflável portátil, bom para viagens, carro ou descanso no dia a dia.",
@@ -1292,22 +880,6 @@
         "images/travesseiro-de-pescoco-inflavel-portatil-5-2.jpg",
         "images/travesseiro-de-pescoco-inflavel-portatil-5-1.jpg"
       ]
-    },
-    {
-      "id": 181,
-      "name": "Adaptadores 3 Pinos Diversos",
-      "description": "Adaptadores 3 pinos variados para tomadas e extensões. Há modelos diferentes nas fotos.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/adaptadores-3-pinos-diversos-0-1.jpg",
-        "images/adaptadores-3-pinos-diversos-0-2.jpg",
-        "images/adaptadores-3-pinos-diversos-0-3.jpg",
-        "images/adaptadores-3-pinos-diversos-0-4.jpg",
-        "images/adaptadores-3-pinos-diversos-0-5.jpg"
-      ],
-      "reserved": true
     },
     {
       "id": 182,
@@ -1327,6 +899,7 @@
       "price": 20,
       "condition": "bom estado",
       "category": "Outros",
+      "reserved": true,
       "photos": [
         "images/cadeira-de-praia-btf-rosa-20-1.jpg",
         "images/cadeira-de-praia-btf-rosa-20-2.jpg",
@@ -1358,45 +931,6 @@
       "reserved": true
     },
     {
-      "id": 186,
-      "name": "Moedor de Sal e Pimenta",
-      "description": "Moedor manual simples para sal, pimenta ou outros temperos secos.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/moedor-de-sal-e-pimenta-5-1.jpg",
-        "images/moedor-de-sal-e-pimenta-5-2.jpg"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 187,
-      "name": "Porta-Sabonete em Cerâmica Branco",
-      "description": "Porta-sabonete em cerâmica branca, com visual clean para pia, banheiro ou lavabo.",
-      "price": 7,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/porta-sabonete-ceramica-branco-7-2.jpg",
-        "images/porta-sabonete-ceramica-branco-7-1.jpg"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 188,
-      "name": "Prendedor Magnético para Cortina Cinza (cada um)",
-      "description": "Prendedor magnético cinza para cortina. Há 2 unidades disponíveis; preço por unidade.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "reserved": true,
-      "photos": [
-        "images/prendedor-cortina-magnetico-cinza-cada-um-5-1.jpg",
-        "images/prendedor-cortina-magnetico-cinza-cada-um-5-2.jpg"
-      ]
-    },
-    {
       "id": 189,
       "name": "Tiara de Rena de Natal",
       "description": "Tiara temática de rena de Natal, boa para festas, fotos e fantasias.",
@@ -1414,6 +948,7 @@
       "price": 35,
       "condition": "bom estado",
       "category": "Eletrônicos",
+      "reserved": true,
       "photos": [
         "images/tomada-inteligente-20a-wifi-leconsumo-35-1.jpg",
         "images/tomada-inteligente-20a-wifi-leconsumo-35-2.jpg",
@@ -1468,9 +1003,10 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/secadora-eletrolux-a-tambor-10kg-220v-650-3.jpeg",
         "images/secadora-eletrolux-a-tambor-10kg-220v-650-2.jpeg",
-        "images/secadora-eletrolux-a-tambor-10kg-220v-650.jpeg"
+        "images/secadora-eletrolux-a-tambor-10kg-220v-650.jpeg",
+        "images/secadora-eletrolux-a-tambor-10kg-220v-650-3.jpeg"
+
       ]
     },
     {
