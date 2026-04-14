@@ -939,13 +939,39 @@
       "id": 198,
       "name": "Casaco cinza G lã batida",
       "description": "Casaco da marca Byz, lã batida, bem quentinho",
-      "price": 20,
+      "price": 120,
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
         "images/casaco1.jpeg",
         "images/casaco2.jpeg",
         "images/casaco3.jpeg"
+      ]
+    },
+    {
+      "id": 199,
+      "name": "Casaco cinza e preto dupla face com fleece - Barruchi Outwear",
+      "description": "Casaco da marca Barruchi Outwear GG masculino",
+      "price": 150,
+      "condition": "bom estado",
+      "category": "Vestuário",
+      "photos": [
+        "images/casacoduplaface.jpeg",
+        "images/casacoduplaface1.jpeg",
+        "images/casacoduplaface2.jpeg"
+      ]
+    },
+    {
+      "id": 200,
+      "name": "Casaco branco impermeavel",
+      "description": "Casaco da marca Cruise Wear & Co - etiqueta M mas veste um G",
+      "price": 120,
+      "condition": "bom estado",
+      "category": "Vestuário",
+      "photos": [
+        "images/jaqbranca.jpeg",
+        "images/jaqbranca1.jpeg",
+        "images/jaqbranca2.jpeg"
       ]
     }
   ]
