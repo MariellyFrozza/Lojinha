@@ -818,7 +818,7 @@
       "category": "Eletrônicos",
       "photos": [
         "images/extensao-preta-3-pinos-3-entradas-7.jpg"
-      ],
+      ]
     },
     {
       "id": 189,
@@ -895,7 +895,6 @@
         "images/secadora-eletrolux-a-tambor-10kg-220v-650-2.jpeg",
         "images/secadora-eletrolux-a-tambor-10kg-220v-650.jpeg",
         "images/secadora-eletrolux-a-tambor-10kg-220v-650-3.jpeg"
-
       ]
     },
     {
@@ -935,7 +934,19 @@
         "images/suporte-dobravel-para-notebook-inox-cinza-20-3.jpg",
         "images/suporte-dobravel-para-notebook-inox-cinza-20-4.jpg"
       ]
+    },
+    {
+      "id": 198,
+      "name": "Casaco cinza G lã batida",
+      "description": "Casaco da marca Byz, lã batida, bem quentinho",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Vestuário",
+      "photos": [
+        "images/casaco1.jpg",
+        "images/casaco2.jpg",
+        "images/casaco3.jpg"
+      ]
     }
   ]
 }
-
