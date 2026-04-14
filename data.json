@@ -11,13 +11,26 @@
   ],
   "items": [
     {
+      "id": 21,
+      "name": "NERF Sidestrike",
+      "description": "Lançador Nerf Sidestrike com coldre. Restou 1 unidade; Inclui kit de dardos!",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/nerf-sidestrike1-15.jpg",
+        "images/nerf-sidestrike2-15.jpg"
+      ]
+    },
+    {
       "id": 24,
-      "name": "Bolsa Impermeável com Alça Cinza",
-      "description": "Bolsa impermeável cinza com alça; cabe até 3 celulares e uma carteira.",
+      "name": "Bolsa Impermeável com alça",
+      "description": "Cabem 3 celulares e uma carteira. Nunca utilizados. 2 unidades disponíveis",
       "price": 15,
       "condition": "novo",
       "category": "Outros",
       "photos": [
+        "images/bolsa-impermeavel-com-alca2-15.jpg",
         "images/bolsa-impermeavel-com-alca1-15.jpg"
       ]
     },
@@ -141,6 +154,17 @@
       "photos": [
         "images/receptor-usb-de-tv-digital-pieno-com-antena1-10.jpg",
         "images/receptor-usb-de-tv-digital-pieno-com-antena2-10.jpg"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Restaurador de Palheta Baseus em Inox",
+      "description": "Ferramenta Baseus em inox para restaurar o corte da borracha da palheta e melhorar a limpeza do para-brisa.",
+      "price": 10,
+      "condition": "novo",
+      "category": "Outros",
+      "photos": [
+        "images/restaurador-de-palheta-baseus-em-inox1-10.jpg"
       ]
     },
     {
@@ -944,9 +968,10 @@
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
-        "images/casaco3.jpeg",
-        "images/casaco1.jpeg",
-        "images/casaco2.jpeg"
+                "images/casaco-cinza-g-la-batida-120-3.jpeg",
+
+        "images/casaco-cinza-g-la-batida-120-1.jpeg",
+        "images/casaco-cinza-g-la-batida-120-2.jpeg"
       ]
     },
     {
@@ -956,10 +981,10 @@
       "price": 150,
       "condition": "bom estado",
       "category": "Vestuário",
-      "photos": [
-        "images/casacoduplaface2.jpeg",
-        "images/casacoduplaface.jpeg",
-        "images/casacoduplaface1.jpeg"
+      "photos": [        "images/casaco-cinza-preto-dupla-face-fleece-barruchi-outwear-150-2.jpeg",
+        "images/casaco-cinza-preto-dupla-face-fleece-barruchi-outwear-150-3.jpeg",
+        "images/casaco-cinza-preto-dupla-face-fleece-barruchi-outwear-150-1.jpeg"
+
       ]
     },
     {
@@ -969,10 +994,10 @@
       "price": 120,
       "condition": "bom estado",
       "category": "Vestuário",
-      "photos": [
-        "images/jaqbranca2.jpeg",
-        "images/jaqbranca.jpeg",
-        "images/jaqbranca1.jpeg"
+      "photos": [        "images/casaco-branco-impermeavel-120-2.jpeg",
+
+        "images/casaco-branco-impermeavel-120-1.jpeg",
+        "images/casaco-branco-impermeavel-120-3.jpeg"
       ]
     },
     {
@@ -983,9 +1008,9 @@
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
-        "images/coberta-preta.jpeg",
-        "images/coberta-preta1.jpeg",
-        "images/coberta-preta2.jpeg"
+        "images/coberta-preta-210x180-50-1.jpeg",
+        "images/coberta-preta-210x180-50-2.jpeg",
+        "images/coberta-preta-210x180-50-3.jpeg"
       ]
     },
     {
@@ -996,9 +1021,9 @@
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
-        "images/coberta-jolitex.jpeg",
-        "images/coberta-jolitex1.jpeg",
-        "images/coberta-jolitex2.jpeg"
+        "images/coberta-marrom-jolitex-dupla-face-220x240-100-1.jpeg",
+        "images/coberta-marrom-jolitex-dupla-face-220x240-100-2.jpeg",
+        "images/coberta-marrom-jolitex-dupla-face-220x240-100-3.jpeg"
       ]
     },
     {
@@ -1009,9 +1034,9 @@
       "condition": "bom estado",
       "category": "Móveis",
       "photos": [
-        "images/armarinho-preto.jpeg",
-        "images/armarinho-preto1.jpeg",
-        "images/armarinho-preto2.jpeg"
+        "images/armario-mdf-preto-120-1.jpeg",
+        "images/armario-mdf-preto-120-2.jpeg",
+        "images/armario-mdf-preto-120-3.jpeg"
       ]
     }
   ]
