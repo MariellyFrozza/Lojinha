@@ -155,19 +155,6 @@
       ]
     },
     {
-      "id": 70,
-      "name": "Varinha de Dumbledore em Resina",
-      "description": "Varinha decorativa de Dumbledore em resina, com acabamento detalhado, ideal para colecionadores e fãs de Harry Potter.",
-      "price": 35,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "reserved": true,
-      "photos": [
-        "images/varinha-de-dumbledore-em-resina1-35.jpg",
-        "images/varinha-de-dumbledore-em-resina2-35.jpg"
-      ]
-    },
-    {
       "id": 72,
       "name": "Guarda-Roupa Branco Grande com 4 Portas",
       "description": "Guarda-roupa branco grande com 4 portas, nichos internos, cabideiro e bom espaço para roupas dobradas e penduradas.",
@@ -408,7 +395,6 @@
       "description": "Monitor ASUS de 24 polegadas com resolução Full HD, 75 Hz e entradas HDMI, DVI e VGA.",
       "price": 380,
       "condition": "bom estado",
-      "reserved": true,
       "category": "Eletrônicos",
       "photos": [
         "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-1.jpg",
@@ -466,20 +452,6 @@
       ]
     },
     {
-      "id": 121,
-      "name": "Ventilador Portátil USB-C com 5 Velocidades",
-      "description": "Ventilador portátil com recarga USB-C e 5 velocidades.",
-      "price": 15,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "reserved": true,
-      "photos": [
-        "images/ventilador-portatil-usb-c-5-velocidades-15-1.jpg",
-        "images/ventilador-portatil-usb-c-5-velocidades-15-2.jpg",
-        "images/ventilador-portatil-usb-c-5-velocidades-15-3.jpg"
-      ]
-    },
-    {
       "id": 124,
       "name": "Porta-Retrato Branco 12 x 8 cm",
       "description": "Porta-retrato branco com moldura lisa, ideal para fotos pequenas em mesa, rack ou aparador.",
@@ -532,7 +504,6 @@
       "price": 5,
       "condition": "bom estado",
       "category": "Eletrônicos",
-      "reserved": true,
       "photos": [
         "images/extensao-3-tomadas-2-pinos-5.jpg"
       ]
@@ -595,25 +566,11 @@
       ]
     },
     {
-      "id": 147,
-      "name": "Porta-Papel Higiênico de Piso em Alumínio",
-      "description": "Porta-papel higiênico de piso em alumínio, leve e prático para banheiro.",
-      "price": 15,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "reserved": true,
-      "photos": [
-        "images/porta-papel-higienico-de-piso-em-aluminio-15-1.jpg",
-        "images/porta-papel-higienico-de-piso-em-aluminio-15-2.jpg"
-      ]
-    },
-    {
       "id": 149,
       "name": "Restaurador de Vidros Automotivos Vonixx Prizm",
       "description": "Produto Vonixx Prizm para restauração de vidros automotivos, com menos de um terço utilizado e bastante conteúdo restante.",
       "price": 10,
       "condition": "bom estado",
-      "reserved": true,
       "category": "Outros",
       "photos": [
         "images/produto-para-vidros-automotivos-vonixx-prizm-menos-de-um-terco-utilizado-10.jpg"
@@ -721,19 +678,6 @@
       ]
     },
     {
-      "id": 163,
-      "name": "Panela Wok Brinox Cinza",
-      "description": "Panela wok Brinox na cor cinza, boa para refogados, legumes e preparos rápidos.",
-      "price": 30,
-      "condition": "bom estado",
-      "category": "Outros",
-      "reserved": true,
-      "photos": [
-        "images/panela-wok-brinox-cinza-30-1.jpg",
-        "images/panela-wok-brinox-cinza-30-2.jpg"
-      ]
-    },
-    {
       "id": 165,
       "name": "Pegador Inox",
       "description": "Pegador simples em inox, útil para servir alimentos, saladas ou churrasco.",
@@ -802,19 +746,6 @@
       "photos": [
         "images/plantas-de-plastico-para-decoracao-0-1.jpg",
         "images/plantas-de-plastico-para-decoracao-0-2.jpg"
-      ]
-    },
-    {
-      "id": 174,
-      "name": "Varal Grande em Alumínio com Abas",
-      "description": "Varal grande em alumínio com abas laterais, leve, dobrável e em ótimo estado para o dia a dia.",
-      "price": 40,
-      "condition": "bom estado",
-      "category": "Móveis",
-      "reserved": true,
-      "photos": [
-        "images/varal-grande-em-aluminio-com-abas-40-2.jpg",
-        "images/varal-grande-em-aluminio-com-abas-40-1.jpg"
       ]
     },
     {
@@ -888,7 +819,6 @@
       "photos": [
         "images/extensao-preta-3-pinos-3-entradas-7.jpg"
       ],
-      "reserved": true
     },
     {
       "id": 189,
