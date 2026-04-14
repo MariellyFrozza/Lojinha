@@ -890,6 +890,7 @@
       "description": "Secadora Eletrolux a tambor 10 kg, 220V, prática para secar roupas com mais agilidade em dias frios ou chuvosos.",
       "price": 650,
       "condition": "bom estado",
+      "reserved": true,
       "category": "Outros",
       "photos": [
         "images/secadora-eletrolux-a-tambor-10kg-220v-650-2.jpeg",
@@ -998,7 +999,19 @@
         "images/coberta-jolitex.jpeg",
         "images/coberta-jolitex1.jpeg",
         "images/coberta-jolitex2.jpeg"
-        
+      ]
+    },
+    {
+      "id": 203,
+      "name": "Armário em MDF 100% - preto",
+      "description": "Armário 100% MDF - 35x99x46 (LxAxP)",
+      "price": 120,
+      "condition": "bom estado",
+      "category": "Móveis",
+      "photos": [
+        "images/armarinho-preto.jpeg",
+        "images/armarinho-preto1.jpeg",
+        "images/armarinho-preto2.jpeg"
       ]
     }
   ]
