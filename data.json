@@ -973,6 +973,33 @@
         "images/jaqbranca1.jpeg",
         "images/jaqbranca2.jpeg"
       ]
+    },
+    {
+      "id": 201,
+      "name": "Coberta preta 210 x 180",
+      "description": "Cobertor de lã, bem pesado para o inverno. Leve detalhe apresentado em foto!",
+      "price": 50,
+      "condition": "bom estado",
+      "category": "Vestuário",
+      "photos": [
+        "images/coberta-preta.jpeg",
+        "images/coberta-preta1.jpeg",
+        "images/coberta-preta2.jpeg"
+      ]
+    },
+    {
+      "id": 202,
+      "name": "Coberta marrom Jolitex dupla face 220x240",
+      "description": "Cobertor de lã, bem pesado para o inverno, face lisa e face em lã",
+      "price": 100,
+      "condition": "bom estado",
+      "category": "Vestuário",
+      "photos": [
+        "images/coberta-jolitex.jpeg",
+        "images/coberta-jolitex1.jpeg",
+        "images/coberta-jolitex2.jpeg"
+        
+      ]
     }
   ]
 }
