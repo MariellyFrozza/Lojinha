@@ -944,9 +944,9 @@
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
+        "images/casaco3.jpeg",
         "images/casaco1.jpeg",
-        "images/casaco2.jpeg",
-        "images/casaco3.jpeg"
+        "images/casaco2.jpeg"
       ]
     },
     {
@@ -957,9 +957,9 @@
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
+        "images/casacoduplaface2.jpeg",
         "images/casacoduplaface.jpeg",
-        "images/casacoduplaface1.jpeg",
-        "images/casacoduplaface2.jpeg"
+        "images/casacoduplaface1.jpeg"
       ]
     },
     {
@@ -970,9 +970,9 @@
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
+        "images/jaqbranca2.jpeg",
         "images/jaqbranca.jpeg",
-        "images/jaqbranca1.jpeg",
-        "images/jaqbranca2.jpeg"
+        "images/jaqbranca1.jpeg"
       ]
     },
     {
