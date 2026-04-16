@@ -592,6 +592,7 @@
       "name": "Filtro de Linha Coibeu com 4 Tomadas, 1 Universal e 3 USB",
       "description": "Filtro de linha Coibeu com plugue de 3 pinos, cabo de 130 cm, 4 tomadas padrão, 1 tomada universal e 3 portas USB.",
       "price": 25,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
