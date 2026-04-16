@@ -770,18 +770,6 @@
       ]
     },
     {
-      "id": 173,
-      "name": "Plantas Artificiais para Decoração",
-      "description": "Conjunto de plantas artificiais para decoração, boas para mesa, estante, rack ou lavabo.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/plantas-de-plastico-para-decoracao-0-1.jpg",
-        "images/plantas-de-plastico-para-decoracao-0-2.jpg"
-      ]
-    },
-    {
       "id": 176,
       "name": "Amigurumi Panda Artesanal",
       "description": "Amigurumi artesanal em formato de panda, feito em crochê, ótimo para presentear ou decorar.",
@@ -938,20 +926,6 @@
       "photos": [
         "images/case-exbom-transparente-hd-externo-usb-a-usb-c-20-1.jpg",
         "images/case-exbom-transparente-hd-externo-usb-a-usb-c-20-2.jpg"
-      ]
-    },
-    {
-      "id": 197,
-      "name": "Suporte Dobrável para Notebook em Inox Cinza",
-      "description": "Suporte dobrável para notebook em inox cinza, bom para elevar a tela e melhorar a ventilação.",
-      "price": 20,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/suporte-dobravel-para-notebook-inox-cinza-20-1.jpg",
-        "images/suporte-dobravel-para-notebook-inox-cinza-20-2.jpg",
-        "images/suporte-dobravel-para-notebook-inox-cinza-20-3.jpg",
-        "images/suporte-dobravel-para-notebook-inox-cinza-20-4.jpg"
       ]
     },
     {
