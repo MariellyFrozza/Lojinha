@@ -995,6 +995,116 @@
         "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-5.jpg",
         "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-6.jpg"
       ]
+    },
+    {
+      "id": 205,
+      "name": "4 Pratos de Bolo Colorex Marrom",
+      "description": "Kit com 4 pratos de bolo Colorex na cor marrom.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/4-pratos-de-bolo-colorex-marrom-10.jpeg"
+      ]
+    },
+    {
+      "id": 206,
+      "name": "Abridor de Rolha de Vinho Elétrico Luatek",
+      "description": "Abridor elétrico de rolha para vinho, com dosador e abridor de lacre.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/abridor-de-rolha-de-vinho-eletrico-a-pilha-com-dosador-e-abridor-de-lacre-LUATEK-20-1.jpg",
+        "images/abridor-de-rolha-de-vinho-eletrico-a-pilha-com-dosador-e-abridor-de-lacre-LUATEK-20-2.jpg"
+      ]
+    },
+    {
+      "id": 207,
+      "name": "Bolsa Térmica Preta com Zíper",
+      "description": "Bolsa térmica preta com revestimento térmico interno e fechamento em zíper.",
+      "price": 25,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/bolsa-termica-preta-com-revestimento-termico-interno-e-ziper-25-1.jpg",
+        "images/bolsa-termica-preta-com-revestimento-termico-interno-e-ziper-25-2.jpg",
+        "images/bolsa-termica-preta-com-revestimento-termico-interno-e-ziper-25-3.jpg"
+      ]
+    },
+    {
+      "id": 208,
+      "name": "Kit 1 Prato + 3 Pires Oxford Today",
+      "description": "Kit com 1 prato e 3 pires da linha Oxford Today.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/kit-1-prato-3-pires-oxford-today-10-1.jpeg",
+        "images/kit-1-prato-3-pires-oxford-today-10-2.jpeg"
+      ]
+    },
+    {
+      "id": 209,
+      "name": "Kit 5 Copos Médios 180 ml Colorex",
+      "description": "Kit com 5 copos médios Colorex com capacidade de 180 ml.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/kit-5-copos-medios-180ml-colorex-10.jpeg"
+      ]
+    },
+    {
+      "id": 210,
+      "name": "Kit de Pratos de Cerâmica Nadir (3 Rasos e 3 Fundos)",
+      "description": "Kit de pratos de cerâmica Nadir com 3 pratos rasos e 3 pratos fundos.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/kit-pratos-ceramica-3-rasos-3-fundos-nadir-151.jpeg",
+        "images/kit-pratos-ceramica-3-rasos-3-fundos-nadir-152.jpeg"
+      ]
+    },
+    {
+      "id": 211,
+      "name": "Micro-ondas Electrolux 23 Litros 220V",
+      "description": "Micro-ondas Electrolux com capacidade de 23 litros e voltagem 220V.",
+      "price": 150,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/microondas-electrolux-23-litros-220v-150-1.jpeg",
+        "images/microondas-electrolux-23-litros-220v-150-2.jpeg"
+      ]
+    },
+    {
+      "id": 212,
+      "name": "Moedor de Café Manual em Vidro",
+      "description": "Moedor de café manual com corpo em vidro.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/moedor-de-cafe-em-vidro-manual-15-1.jpg",
+        "images/moedor-de-cafe-em-vidro-manual-15-2.jpg"
+      ]
+    },
+    {
+      "id": 213,
+      "name": "Refrigerador Duplex Electrolux Celebrate 430L 110V Branco",
+      "description": "Refrigerador duplex Electrolux Celebrate branco, 430 litros, 110V.",
+      "price": 700,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/refrigerador-duplex-electrolux-celebrate-430L-110v-branco-700-1.jpeg",
+        "images/refrigerador-duplex-electrolux-celebrate-430L-110v-branco-700-2.jpeg",
+        "images/refrigerador-duplex-electrolux-celebrate-430L-110v-branco-700-3.jpeg",
+        "images/refrigerador-duplex-electrolux-celebrate-430L-110v-branco-700-4.jpeg",
+        "images/refrigerador-duplex-electrolux-celebrate-430L-110v-branco-700-5.jpeg"
+      ]
     }
   ]
 }
