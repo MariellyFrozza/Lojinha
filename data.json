@@ -39,7 +39,7 @@
       "name": "Caneta Crown Dourada e Azul",
       "description": "Caneta esferográfica Crown nas cores dourada e azul, com carga lacrada e caixa original.",
       "price": 50,
-      "promotionalPrice": 40,
+      "promotionalPrice": 30,
       "condition": "novo",
       "category": "Outros",
       "photos": [
@@ -53,6 +53,7 @@
       "name": "Carteira Rosa Grande",
       "description": "Carteira grande na cor rosa, com alça e acabamento em material PU.",
       "price": 10,
+      "promotionalPrice": 5,
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
@@ -77,6 +78,7 @@
       "name": "Ampulheta de Vidro e Madeira Verde",
       "description": "Ampulheta decorativa com estrutura de madeira e vidro com areia verde.",
       "price": 15,
+      "promotionalPrice": 10,
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -100,6 +102,7 @@
       "name": "Caixa Decorativa de Madeira Florida",
       "description": "Caixa decorativa de madeira maciça com acabamento branco rústico e pintura floral em laranja.",
       "price": 40,
+      "promotionalPrice": 20,
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -137,6 +140,7 @@
       "name": "Coleira Rosa com Guia para Gato ou Cachorro Médio",
       "description": "Coleira rosa com guia, indicada para gatos ou cães de porte médio.",
       "price": 20,
+      "promotionalPrice": 10,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -183,6 +187,7 @@
       "name": "Guarda-Roupa Branco Grande com 4 Portas",
       "description": "Guarda-roupa branco grande com 4 portas, nichos internos, cabideiro e bom espaço para roupas dobradas e penduradas.",
       "price": 600,
+      "promotionalPrice": 500,
       "condition": "bom estado",
       "category": "Móveis",
       "photos": [
@@ -248,6 +253,7 @@
       "name": "Cafeteira Nescafé Dolce Gusto Genio S Touch Prata",
       "description": "Cafeteira de cápsulas Genio S Touch com painel touch, até 15 bar de pressão, ajuste de temperatura e função XL para bebidas quentes ou frias.",
       "price": 430,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -261,6 +267,7 @@
       "name": "Chaleira Elétrica Cadence Vermelha 220V",
       "description": "Chaleira elétrica Cadence Thermo One de 1,7 L com desligamento automático, base com porta-fio e tampa com abertura automática. Voltagem 220V.",
       "price": 30,
+      "promotionalPrice": 20,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -319,6 +326,7 @@
       "name": "Umidificador Frozen Iluminado 110V",
       "description": "Umidificador com estampa Frozen e iluminação suave, ideal para quarto infantil. Funciona em 110V.",
       "price": 40,
+      "promotionalPrice": 30,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -363,6 +371,7 @@
       "name": "Kit com 2 Bonecos Decorativos de Natal Casal",
       "description": "Kit com 2 bonecos decorativos de Natal em formato de casal, eles adoram ficar juntos, jamais separe-os.",
       "price": 50,
+      "promotionalPrice": 30,
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -457,6 +466,7 @@
       "name": "Prateleira Preta para Livros 120 x 25 x 4 cm",
       "description": "Prateleira preta para livros com 120 cm de largura, 25 cm de profundidade e 4 cm de espessura.",
       "price": 50,
+      "promotionalPrice": 40,
       "condition": "bom estado",
       "category": "Móveis",
       "photos": [
@@ -551,7 +561,6 @@
       "price": 20,
       "condition": "bom estado",
       "category": "Móveis",
-      "reserved": true,
       "photos": [
         "images/prateleira-branca-madeira-100x20-20.jpg"
       ]
@@ -757,8 +766,7 @@
       "category": "Decoração",
       "photos": [
         "images/lampadas-de-natal-3m-5.jpg"
-      ],
-      "reserved": true
+      ]
     },
     {
       "id": 173,
@@ -805,20 +813,6 @@
       "category": "Eletrônicos",
       "photos": [
         "images/cabos-de-rede-ethernet-cat5e-60cm-0.jpg"
-      ]
-    },
-    {
-      "id": 183,
-      "name": "Cadeira de Praia BTF Rosa",
-      "description": "Cadeira de praia dobrável BTF na cor rosa, leve e prática para praia, parque ou camping.",
-      "price": 20,
-      "condition": "bom estado",
-      "category": "Outros",
-      "reserved": true,
-      "photos": [
-        "images/cadeira-de-praia-btf-rosa-20-1.jpg",
-        "images/cadeira-de-praia-btf-rosa-20-2.jpg",
-        "images/cadeira-de-praia-btf-rosa-20-3.jpg"
       ]
     },
     {
@@ -879,8 +873,7 @@
         "images/varao-cortina-duplo-branco-madeira-190cm-0-1.jpg",
         "images/varao-cortina-duplo-branco-madeira-190cm-0-2.jpg",
         "images/varao-cortina-duplo-branco-madeira-190cm-0-3.jpg"
-      ],
-      "reserved": true
+      ]
     },
     {
       "id": 192,
@@ -968,36 +961,9 @@
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
-                "images/casaco-cinza-g-la-batida-120-3.jpeg",
-
+        "images/casaco-cinza-g-la-batida-120-3.jpeg",
         "images/casaco-cinza-g-la-batida-120-1.jpeg",
         "images/casaco-cinza-g-la-batida-120-2.jpeg"
-      ]
-    },
-    {
-      "id": 199,
-      "name": "Casaco cinza e preto dupla face com fleece - Barruchi Outwear",
-      "description": "Casaco da marca Barruchi Outwear GG masculino",
-      "price": 150,
-      "condition": "bom estado",
-      "category": "Vestuário",
-      "photos": [        "images/casaco-cinza-preto-dupla-face-fleece-barruchi-outwear-150-2.jpeg",
-        "images/casaco-cinza-preto-dupla-face-fleece-barruchi-outwear-150-3.jpeg",
-        "images/casaco-cinza-preto-dupla-face-fleece-barruchi-outwear-150-1.jpeg"
-
-      ]
-    },
-    {
-      "id": 200,
-      "name": "Casaco branco impermeavel",
-      "description": "Casaco da marca Cruise Wear & Co - etiqueta M mas veste um G",
-      "price": 120,
-      "condition": "bom estado",
-      "category": "Vestuário",
-      "photos": [        "images/casaco-branco-impermeavel-120-2.jpeg",
-
-        "images/casaco-branco-impermeavel-120-1.jpeg",
-        "images/casaco-branco-impermeavel-120-3.jpeg"
       ]
     },
     {
