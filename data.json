@@ -1038,6 +1038,22 @@
         "images/armario-mdf-preto-120-2.jpeg",
         "images/armario-mdf-preto-120-3.jpeg"
       ]
+    },
+    {
+      "id": 204,
+      "name": "Volante Logitech G923 TrueForce com Pedais para PC, PS4 e PS5",
+      "description": "Volante Logitech G923 TrueForce com conjunto de pedais, compatível com PC, PS4 e PS5, bom para jogos de corrida com mais imersão.",
+      "price": 2000,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-1.jpg",
+        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-2.jpg",
+        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-3.jpg",
+        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-4.jpg",
+        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-5.jpg",
+        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-6.jpg"
+      ]
     }
   ]
 }
