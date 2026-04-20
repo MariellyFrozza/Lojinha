@@ -1,0 +1,129 @@
+:root {
+    --bg: #edf3f9;
+    --surface: #ffffff;
+    --text: #12202f;
+    --muted: #57708a;
+    --price: #136f56;
+    --border: #deebf5;
+    --headless-viewport-height: 1263px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    width: 1080px;
+    height: var(--headless-viewport-height);
+    font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    overflow: hidden;
+}
+
+.carousel-canvas {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
+
+.carousel-grid {
+    display: grid;
+    width: 100%;
+    height: 100%;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-rows: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+}
+
+.carousel-item {
+    background: var(--surface);
+    border-radius: 14px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+    display: grid;
+    grid-template-rows: minmax(0, 1fr) auto;
+    min-height: 0;
+}
+
+.carousel-photo {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    background-color: #eef4fa;
+    padding: 8px 8px 4px;
+    min-height: 0;
+}
+
+.carousel-no-photo {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    place-items: center;
+    background-color: #eef4fa;
+    color: var(--muted);
+    font-size: 18px;
+    min-height: 0;
+}
+
+.carousel-content {
+    display: flex;
+    flex-direction: column;
+    padding: 7px 9px 9px;
+    gap: 2px;
+}
+
+.carousel-name {
+    font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.15;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.carousel-description {
+    margin: 0;
+    color: #3a5066;
+    font-size: 11.5px;
+    line-height: 1.12;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.carousel-meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 1px;
+}
+
+.carousel-price {
+    font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    color: var(--price);
+    font-size: 18px;
+    line-height: 1.05;
+    margin-top: 1px;
+}
+
+.original-price {
+    color: #7b8794;
+    text-decoration: line-through;
+    margin-right: 6px;
+    font-size: 13px;
+}
+
+.promo-price {
+    color: var(--price);
+}
+
+.free-price {
+    color: #0d8f4e;
+}

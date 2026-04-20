@@ -188,6 +188,7 @@
       "description": "Guarda-roupa branco grande com 4 portas, nichos internos, cabideiro e bom espaço para roupas dobradas e penduradas.",
       "price": 600,
       "promotionalPrice": 500,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Móveis",
       "photos": [
@@ -240,6 +241,7 @@
       "name": "Teclado Logitech com Receptor Unifying",
       "description": "Teclado Logitech sem fio com receptor Unifying, layout compacto com teclado numérico e teclas de atalho para uso diário.",
       "price": 25,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -303,6 +305,7 @@
       "name": "Selim Banco de Bicicleta San Marino Core",
       "description": "Selim para bicicleta San Marino Core, com formato ergonômico e trilhos de fixação para reposição ou upgrade.",
       "price": 15,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -415,6 +418,7 @@
       "name": "Lixeira em Metal Prata",
       "description": "Lixeira em metal prata, ideal para escritório, banheiro ou lavanderia.",
       "price": 15,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -747,18 +751,6 @@
       ]
     },
     {
-      "id": 170,
-      "name": "Grade para Fotos em Ferro com Ímãs",
-      "description": "Grade metálica para fotos e lembretes, acompanha ímãs e funciona bem como painel decorativo de parede.",
-      "price": 10,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/grade-para-fotos-em-ferro-com-imas-10-1.jpg",
-        "images/grade-para-fotos-em-ferro-com-imas-10-2.jpg"
-      ]
-    },
-    {
       "id": 171,
       "name": "Cordão de Luzes de Natal 3 m",
       "description": "Cordão de luzes de Natal em LED com 3 metros, bom para decorar árvore, janela ou cabeceira.",
@@ -959,6 +951,7 @@
       "name": "Coberta marrom Jolitex dupla face 220x240",
       "description": "Cobertor de lã, bem pesado para o inverno, face lisa e face em lã",
       "price": 100,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
@@ -1060,23 +1053,12 @@
       "name": "Kit de Pratos de Cerâmica Nadir (3 Rasos e 3 Fundos)",
       "description": "Kit de pratos de cerâmica Nadir com 3 pratos rasos e 3 pratos fundos.",
       "price": 15,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
         "images/kit-pratos-ceramica-3-rasos-3-fundos-nadir-151.jpeg",
         "images/kit-pratos-ceramica-3-rasos-3-fundos-nadir-152.jpeg"
-      ]
-    },
-    {
-      "id": 211,
-      "name": "Micro-ondas Electrolux 23 Litros 220V",
-      "description": "Micro-ondas Electrolux com capacidade de 23 litros e voltagem 220V.",
-      "price": 150,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/microondas-electrolux-23-litros-220v-150-1.jpeg",
-        "images/microondas-electrolux-23-litros-220v-150-2.jpeg"
       ]
     },
     {
@@ -1096,6 +1078,7 @@
       "name": "Refrigerador Duplex Electrolux Celebrate 430L 110V Branco",
       "description": "Refrigerador duplex Electrolux Celebrate branco, 430 litros, 110V.",
       "price": 700,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
