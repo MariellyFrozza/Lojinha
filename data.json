@@ -18,8 +18,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/nerf-sidestrike1-15.jpg",
-        "images/nerf-sidestrike2-15.jpg"
+        "images/nerf-sidestrike1-15.webp",
+        "images/nerf-sidestrike2-15.webp"
       ],
       "reserved": true
     },
@@ -28,11 +28,12 @@
       "name": "Bolsa Impermeável com alça",
       "description": "Cabem 3 celulares e uma carteira. Nunca utilizados. 2 unidades disponíveis",
       "price": 15,
+      "promotionalPrice": 10,
       "condition": "novo",
       "category": "Outros",
       "photos": [
-        "images/bolsa-impermeavel-com-alca2-15.jpg",
-        "images/bolsa-impermeavel-com-alca1-15.jpg"
+        "images/bolsa-impermeavel-com-alca2-15.webp",
+        "images/bolsa-impermeavel-com-alca1-15.webp"
       ]
     },
     {
@@ -40,13 +41,13 @@
       "name": "Caneta Crown Dourada e Azul",
       "description": "Caneta esferográfica Crown nas cores dourada e azul, com carga lacrada e caixa original.",
       "price": 50,
-      "promotionalPrice": 30,
+      "promotionalPrice": 25,
       "condition": "novo",
       "category": "Outros",
       "photos": [
-        "images/caneta-crown-dourada-e-azul1-50.jpeg",
-        "images/caneta-crown-dourada-e-azul2-50.jpeg",
-        "images/caneta-crown-dourada-e-azul3-50.jpeg"
+        "images/caneta-crown-dourada-e-azul1-50.webp",
+        "images/caneta-crown-dourada-e-azul2-50.webp",
+        "images/caneta-crown-dourada-e-azul3-50.webp"
       ]
     },
     {
@@ -58,9 +59,9 @@
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
-        "images/carteira-rosa-grande1-10.jpeg",
-        "images/carteira-rosa-grande2-10.jpeg",
-        "images/carteira-rosa-grande3-10.jpeg"
+        "images/carteira-rosa-grande1-10.webp",
+        "images/carteira-rosa-grande2-10.webp",
+        "images/carteira-rosa-grande3-10.webp"
       ]
     },
     {
@@ -68,10 +69,11 @@
       "name": "Adaptador Bluetooth USB CSR para PC",
       "description": "Adaptador Bluetooth USB para PC, ideal para conectar periféricos sem fio com praticidade.",
       "price": 10,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/adaptador-bluetooth-usb-para-pc-csr1-10.jpg"
+        "images/adaptador-bluetooth-usb-para-pc-csr1-10.webp"
       ]
     },
     {
@@ -84,7 +86,7 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/ampulheta-de-vidro-e-madeira-verde1-15.jpg"
+        "images/ampulheta-de-vidro-e-madeira-verde1-15.webp"
       ]
     },
     {
@@ -92,11 +94,12 @@
       "name": "Caixa de Acrílico para Cápsulas de Café",
       "description": "Caixa organizadora de acrílico para cápsulas de café Nescafé, Nespresso e Três Corações.",
       "price": 10,
+      "promotionalPrice": 5,
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/caixa-de-acrilico-para-capsulas-de-cafe1-10.jpg",
-        "images/caixa-de-acrilico-para-capsulas-de-cafe2-10.jpg"
+        "images/caixa-de-acrilico-para-capsulas-de-cafe1-10.webp",
+        "images/caixa-de-acrilico-para-capsulas-de-cafe2-10.webp"
       ]
     },
     {
@@ -108,9 +111,9 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/caixa-decorativa-de-madeira-florida1-40.jpg",
-        "images/caixa-decorativa-de-madeira-florida2-40.jpg",
-        "images/caixa-decorativa-de-madeira-florida3-40.jpg"
+        "images/caixa-decorativa-de-madeira-florida1-40.webp",
+        "images/caixa-decorativa-de-madeira-florida2-40.webp",
+        "images/caixa-decorativa-de-madeira-florida3-40.webp"
       ],
       "reserved": true
     },
@@ -122,8 +125,8 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/caneca-decorativa-verde-com-bromelia-artificial1-15.jpg",
-        "images/caneca-decorativa-verde-com-bromelia-artificial2-15.jpg"
+        "images/caneca-decorativa-verde-com-bromelia-artificial1-15.webp",
+        "images/caneca-decorativa-verde-com-bromelia-artificial2-15.webp"
       ],
       "reserved": true
     },
@@ -135,8 +138,8 @@
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/carregador-usb-hmaston-com-duas-saidas1-10.jpg",
-        "images/carregador-usb-hmaston-com-duas-saidas2-10.jpg"
+        "images/carregador-usb-hmaston-com-duas-saidas1-10.webp",
+        "images/carregador-usb-hmaston-com-duas-saidas2-10.webp"
       ],
       "reserved": true
     },
@@ -149,8 +152,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/coleira-rosa-com-guia-para-gato-ou-cachorro-medio1-20.jpg",
-        "images/coleira-rosa-com-guia-para-gato-ou-cachorro-medio2-20.jpg"
+        "images/coleira-rosa-com-guia-para-gato-ou-cachorro-medio1-20.webp",
+        "images/coleira-rosa-com-guia-para-gato-ou-cachorro-medio2-20.webp"
       ]
     },
     {
@@ -158,11 +161,12 @@
       "name": "Receptor USB de TV Digital Pieno com Antena",
       "description": "Receptor USB TV.De+ da Pieno para assistir TV digital no computador, com entrada para antena e instalação simples via USB.",
       "price": 10,
+      "promotionalPrice": 5,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/receptor-usb-de-tv-digital-pieno-com-antena1-10.jpg",
-        "images/receptor-usb-de-tv-digital-pieno-com-antena2-10.jpg"
+        "images/receptor-usb-de-tv-digital-pieno-com-antena1-10.webp",
+        "images/receptor-usb-de-tv-digital-pieno-com-antena2-10.webp"
       ]
     },
     {
@@ -173,7 +177,7 @@
       "condition": "novo",
       "category": "Outros",
       "photos": [
-        "images/restaurador-de-palheta-baseus-em-inox1-10.jpg"
+        "images/restaurador-de-palheta-baseus-em-inox1-10.webp"
       ]
     },
     {
@@ -184,24 +188,7 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/super-trunfo-grow-edicao-gatos1-5.jpg"
-      ]
-    },
-    {
-      "id": 72,
-      "name": "Guarda-Roupa Branco Grande com 4 Portas",
-      "description": "Guarda-roupa branco grande com 4 portas, nichos internos, cabideiro e bom espaço para roupas dobradas e penduradas.",
-      "price": 600,
-      "promotionalPrice": 500,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Móveis",
-      "photos": [
-        "images/guarda-roupa-branco-grande-com-4-portas1-600.jpg",
-        "images/guarda-roupa-branco-grande-com-4-portas2-600.jpg",
-        "images/guarda-roupa-branco-grande-com-4-portas3-600.jpg",
-        "images/guarda-roupa-branco-grande-com-4-portas4-600.jpg",
-        "images/guarda-roupa-branco-grande-com-4-portas5-600.jpg"
+        "images/super-trunfo-grow-edicao-gatos1-5.webp"
       ]
     },
     {
@@ -212,9 +199,9 @@
       "condition": "novo",
       "category": "Eletrônicos",
       "photos": [
-        "images/hub-usb-ftx-para-macbook-com-ethernet1-140.jpg",
-        "images/hub-usb-ftx-para-macbook-com-ethernet2-140.jpg",
-        "images/hub-usb-ftx-para-macbook-com-ethernet3-140.jpg"
+        "images/hub-usb-ftx-para-macbook-com-ethernet1-140.webp",
+        "images/hub-usb-ftx-para-macbook-com-ethernet2-140.webp",
+        "images/hub-usb-ftx-para-macbook-com-ethernet3-140.webp"
       ]
     },
     {
@@ -225,8 +212,8 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/porta-retrato-com-brilho1-5.jpg",
-        "images/porta-retrato-com-brilho2-5.jpg"
+        "images/porta-retrato-com-brilho1-5.webp",
+        "images/porta-retrato-com-brilho2-5.webp"
       ],
       "reserved": true
     },
@@ -234,12 +221,13 @@
       "id": 76,
       "name": "Saco Impermeável Decathlon Tribord para Esportes Aquáticos",
       "description": "Saco impermeável Decathlon Tribord com fecho dobrável e presilhas, ideal para proteger celular, carteira e itens pessoais em praia, piscina ou caiaque.",
-      "price": 35,
+      "price": 50,
+      "promotionalPrice": 30,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/saco-impermeavel-decathlon-tribord-para-esportes-aquaticos1-35.jpg",
-        "images/saco-impermeavel-decathlon-tribord-para-esportes-aquaticos2-35.jpg"
+        "images/saco-impermeavel-decathlon-tribord-para-esportes-aquaticos1-50.webp",
+        "images/saco-impermeavel-decathlon-tribord-para-esportes-aquaticos2-50.webp"
       ]
     },
     {
@@ -251,9 +239,9 @@
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/teclado-logitech-com-receptor-unifying1-25.jpg",
-        "images/teclado-logitech-com-receptor-unifying2-25.jpg",
-        "images/teclado-logitech-com-receptor-unifying3-25.jpg"
+        "images/teclado-logitech-com-receptor-unifying1-25.webp",
+        "images/teclado-logitech-com-receptor-unifying2-25.webp",
+        "images/teclado-logitech-com-receptor-unifying3-25.webp"
       ]
     },
     {
@@ -265,9 +253,9 @@
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-430-1.jpg",
-        "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-430-2.jpg",
-        "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-430-3.jpg"
+        "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-430-1.webp",
+        "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-430-2.webp",
+        "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-430-3.webp"
       ]
     },
     {
@@ -279,8 +267,8 @@
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/chaleira-eletrica-cadence-vermelha-220v-30-1.jpg",
-        "images/chaleira-eletrica-cadence-vermelha-220v-30-2.jpg"
+        "images/chaleira-eletrica-cadence-vermelha-220v-30-1.webp",
+        "images/chaleira-eletrica-cadence-vermelha-220v-30-2.webp"
       ],
       "reserved": true
     },
@@ -292,8 +280,8 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/luminaria-escritorio-vermelha-tipo-pixar-com-lampada-smart-40-1.jpg",
-        "images/luminaria-escritorio-vermelha-tipo-pixar-com-lampada-smart-40-2.jpg"
+        "images/luminaria-escritorio-vermelha-tipo-pixar-com-lampada-smart-40-1.webp",
+        "images/luminaria-escritorio-vermelha-tipo-pixar-com-lampada-smart-40-2.webp"
       ]
     },
     {
@@ -304,7 +292,7 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/moldura-madeira-com-vidro-grande-preta-75x55-duas-unidades-desconto-levando-as-duas-200.jpg"
+        "images/moldura-madeira-com-vidro-grande-preta-75x55-duas-unidades-desconto-levando-as-duas-200.webp"
       ]
     },
     {
@@ -316,8 +304,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/selim-banco-de-bicicleta-san-marino-core-15-2.jpg",
-        "images/selim-banco-de-bicicleta-san-marino-core-15-1.jpg"
+        "images/selim-banco-de-bicicleta-san-marino-core-15-2.webp",
+        "images/selim-banco-de-bicicleta-san-marino-core-15-1.webp"
       ]
     },
     {
@@ -325,10 +313,11 @@
       "name": "Suporte de TV ELG",
       "description": "Suporte de parede ELG com peças metálicas, parafusos e espaçadores para instalação de TV ou monitor compatível.",
       "price": 15,
+      "promotionalPrice": 10,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/suporte-tv-elg-15.jpg"
+        "images/suporte-tv-elg-15.webp"
       ]
     },
     {
@@ -340,7 +329,7 @@
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/umidificador-frozen-iluminado-110v-40.jpg"
+        "images/umidificador-frozen-iluminado-110v-40.webp"
       ]
     },
     {
@@ -363,7 +352,7 @@
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/cabo-hdmi-para-dvi-reforcado-pontas-gold-5.jpg"
+        "images/cabo-hdmi-para-dvi-reforcado-pontas-gold-5.webp"
       ]
     },
     {
@@ -374,7 +363,7 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/caixa-madeira-pequena-5.jpg"
+        "images/caixa-madeira-pequena-5.webp"
       ],
       "reserved": true
     },
@@ -387,13 +376,13 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-1.jpg",
-        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-2.jpg",
-        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-3.jpg",
-        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-4.jpg",
-        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-5.jpg",
-        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-6.jpg",
-        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-7.jpg"
+        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-1.webp",
+        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-2.webp",
+        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-3.webp",
+        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-4.webp",
+        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-5.webp",
+        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-6.webp",
+        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-7.webp"
       ],
       "reserved": true
     },
@@ -405,7 +394,7 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/enfeite-cacto-lembrei-de-voce-em-madeira-10.jpg"
+        "images/enfeite-cacto-lembrei-de-voce-em-madeira-10.webp"
       ]
     },
     {
@@ -417,10 +406,10 @@
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-60-1.jpg",
-        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-60-2.jpg",
-        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-60-3.jpg",
-        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-60-4.jpg"
+        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-60-1.webp",
+        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-60-2.webp",
+        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-60-3.webp",
+        "images/fone-de-ouvido-bluetooth-skullcandy-jib-true-2-60-4.webp"
       ]
     },
     {
@@ -432,8 +421,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/lixeira-metal-prata-15-1.jpg",
-        "images/lixeira-metal-prata-15-2.jpg"
+        "images/lixeira-metal-prata-15-1.webp",
+        "images/lixeira-metal-prata-15-2.webp"
       ]
     },
     {
@@ -441,25 +430,15 @@
       "name": "Monitor ASUS 24\" Full HD 75Hz com HDMI DVI e VGA",
       "description": "Monitor ASUS de 24 polegadas com resolução Full HD, 75 Hz e entradas HDMI, DVI e VGA.",
       "price": 380,
+      "hidden": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-1.jpg",
-        "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-2.jpg",
-        "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-3.jpg",
-        "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-4.jpg",
-        "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-5.jpg"
-      ]
-    },
-    {
-      "id": 111,
-      "name": "Persiana Branca 120 x 160 cm com Detalhes",
-      "description": "Persiana branca de 120 x 160 cm, com detalhes de uso visíveis.",
-      "price": 30,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/persiana-branca-120x160-com-detalhes-30.webp"
+        "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-1.webp",
+        "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-2.webp",
+        "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-3.webp",
+        "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-4.webp",
+        "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-5.webp"
       ]
     },
     {
@@ -470,9 +449,9 @@
       "condition": "bom estado",
       "category": "Móveis",
       "photos": [
-        "images/kit-duas-prateleiras-brancas-60x15-40-1.jpg",
-        "images/kit-duas-prateleiras-brancas-60x15-40-2.jpg",
-        "images/kit-duas-prateleiras-brancas-60x15-40-3.jpg"
+        "images/kit-duas-prateleiras-brancas-60x15-40-1.webp",
+        "images/kit-duas-prateleiras-brancas-60x15-40-2.webp",
+        "images/kit-duas-prateleiras-brancas-60x15-40-3.webp"
       ],
       "reserved": true
     },
@@ -498,7 +477,7 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/quadro-com-arte-de-artista-curitibano-panda-0.jpg"
+        "images/quadro-com-arte-de-artista-curitibano-panda-0.webp"
       ],
       "reserved": true
     },
@@ -510,7 +489,7 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/porta-retrato-branco-12x8-5.jpg"
+        "images/porta-retrato-branco-12x8-5.webp"
       ]
     },
     {
@@ -521,7 +500,7 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/porta-retrato-branco-e-dourado-14x9-5.jpg"
+        "images/porta-retrato-branco-e-dourado-14x9-5.webp"
       ]
     },
     {
@@ -544,8 +523,8 @@
       "condition": "bom estado",
       "category": "Brinquedos",
       "photos": [
-        "images/carrinho-picape-preta-5-1.jpg",
-        "images/carrinho-picape-preta-5-2.jpg"
+        "images/carrinho-picape-preta-5-1.webp",
+        "images/carrinho-picape-preta-5-2.webp"
       ]
     },
     {
@@ -556,7 +535,7 @@
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/extensao-3-tomadas-2-pinos-5.jpg"
+        "images/extensao-3-tomadas-2-pinos-5.webp"
       ],
       "reserved": true
     },
@@ -568,8 +547,8 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/cortina-blackout-pano-bellajanela-300x150-com-fios-puxados-40-2.jpg",
-        "images/cortina-blackout-pano-bellajanela-300x150-com-fios-puxados-40.jpg"
+        "images/cortina-blackout-pano-bellajanela-300x150-com-fios-puxados-40-2.webp",
+        "images/cortina-blackout-pano-bellajanela-300x150-com-fios-puxados-40.webp"
       ],
       "reserved": true
     },
@@ -581,7 +560,7 @@
       "condition": "bom estado",
       "category": "Móveis",
       "photos": [
-        "images/prateleira-branca-madeira-100x20-20.jpg"
+        "images/prateleira-branca-madeira-100x20-20.webp"
       ],
       "reserved": true
     },
@@ -594,7 +573,7 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/copos-shot-vidro-tequila-0.jpg"
+        "images/copos-shot-vidro-tequila-0.webp"
       ]
     },
     {
@@ -606,19 +585,7 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/copos-tipo-caldereta-chopp-brahma-5.jpg"
-      ]
-    },
-    {
-      "id": 142,
-      "name": "Filtro de Linha Coibeu com 4 Tomadas, 1 Universal e 3 USB",
-      "description": "Filtro de linha Coibeu com plugue de 3 pinos, cabo de 130 cm, 4 tomadas padrão, 1 tomada universal e 3 portas USB.",
-      "price": 25,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/filtro-de-linha-coibeu-3-pinos-130cm-de-cabo-4-tomadas-1-universal-3-usb-25.jpg"
+        "images/copos-tipo-caldereta-chopp-brahma-5.webp"
       ]
     },
     {
@@ -629,7 +596,7 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/produto-para-vidros-automotivos-vonixx-prizm-menos-de-um-terco-utilizado-10.jpg"
+        "images/produto-para-vidros-automotivos-vonixx-prizm-menos-de-um-terco-utilizado-10.webp"
       ]
     },
     {
@@ -641,7 +608,7 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/suporte-para-fazer-batata-chips-no-microondas-plastico-0.jpg"
+        "images/suporte-para-fazer-batata-chips-no-microondas-plastico-0.webp"
       ]
     },
     {
@@ -652,8 +619,8 @@
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/amazon-echo-dot-5-com-adaptador-330-1.jpg",
-        "images/amazon-echo-dot-5-com-adaptador-330-2.jpg"
+        "images/amazon-echo-dot-5-com-adaptador-330-1.webp",
+        "images/amazon-echo-dot-5-com-adaptador-330-2.webp"
       ]
     },
     {
@@ -664,7 +631,7 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/bowl-vegetais-7.jpg"
+        "images/bowl-vegetais-7.webp"
       ]
     },
     {
@@ -675,7 +642,7 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/serra-madeira-com-arco-usada-20.jpg"
+        "images/serra-madeira-com-arco-usada-20.webp"
       ]
     },
     {
@@ -686,7 +653,7 @@
       "condition": "novo",
       "category": "Outros",
       "photos": [
-        "images/shaker-em-plastico-novo-7.jpg"
+        "images/shaker-em-plastico-novo-7.webp"
       ]
     },
     {
@@ -697,8 +664,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/xicaras-nescafe-dolce-gusto-unidade-15-1.jpg",
-        "images/xicaras-nescafe-dolce-gusto-unidade-15-2.jpg"
+        "images/xicaras-nescafe-dolce-gusto-unidade-15-1.webp",
+        "images/xicaras-nescafe-dolce-gusto-unidade-15-2.webp"
       ]
     },
     {
@@ -709,7 +676,7 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/batedor-de-claras-grande-inox-10.jpg"
+        "images/batedor-de-claras-grande-inox-10.webp"
       ]
     },
     {
@@ -720,7 +687,7 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/colheres-de-nylon-unidade-5.jpg"
+        "images/colheres-de-nylon-unidade-5.webp"
       ]
     },
     {
@@ -731,7 +698,7 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/forma-de-sorvete-ursinho-pooh-5.jpg"
+        "images/forma-de-sorvete-ursinho-pooh-5.webp"
       ]
     },
     {
@@ -742,7 +709,7 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/pegador-inox-5.jpg"
+        "images/pegador-inox-5.webp"
       ]
     },
     {
@@ -753,8 +720,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/ralador-e-picador-de-alimentos-rosa-7-1.jpg",
-        "images/ralador-e-picador-de-alimentos-rosa-7-2.jpg"
+        "images/ralador-e-picador-de-alimentos-rosa-7-1.webp",
+        "images/ralador-e-picador-de-alimentos-rosa-7-2.webp"
       ]
     },
     {
@@ -766,8 +733,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/caneca-oktoberfest-blumenau-aluminio-com-tirante-0-1.jpg",
-        "images/caneca-oktoberfest-blumenau-aluminio-com-tirante-0-2.jpg"
+        "images/caneca-oktoberfest-blumenau-aluminio-com-tirante-0-1.webp",
+        "images/caneca-oktoberfest-blumenau-aluminio-com-tirante-0-2.webp"
       ]
     },
     {
@@ -778,7 +745,7 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/lampadas-de-natal-3m-5.jpg"
+        "images/lampadas-de-natal-3m-5.webp"
       ],
       "reserved": true
     },
@@ -790,8 +757,8 @@
       "condition": "bom estado",
       "category": "Brinquedos",
       "photos": [
-        "images/amigurumi-panda-artesanal-60-1.jpg",
-        "images/amigurumi-panda-artesanal-60-2.jpg"
+        "images/amigurumi-panda-artesanal-60-1.webp",
+        "images/amigurumi-panda-artesanal-60-2.webp"
       ]
     },
     {
@@ -802,8 +769,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/travesseiro-de-pescoco-inflavel-portatil-5-2.jpg",
-        "images/travesseiro-de-pescoco-inflavel-portatil-5-1.jpg"
+        "images/travesseiro-de-pescoco-inflavel-portatil-5-2.webp",
+        "images/travesseiro-de-pescoco-inflavel-portatil-5-1.webp"
       ]
     },
     {
@@ -814,7 +781,7 @@
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/cabos-de-rede-ethernet-cat5e-60cm-0.jpg"
+        "images/cabos-de-rede-ethernet-cat5e-60cm-0.webp"
       ]
     },
     {
@@ -825,20 +792,8 @@
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/extensao-3-pinos-20a-femea-10a-macho-40cm-5-1.jpg",
-        "images/extensao-3-pinos-20a-femea-10a-macho-40cm-5-2.jpg"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 185,
-      "name": "Extensão Preta 3 Pinos com 3 Entradas",
-      "description": "Extensão preta com 3 entradas e plugue de 3 pinos, boa para ligar aparelhos simples no dia a dia.",
-      "price": 7,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/extensao-preta-3-pinos-3-entradas-7.jpg"
+        "images/extensao-3-pinos-20a-femea-10a-macho-40cm-5-1.webp",
+        "images/extensao-3-pinos-20a-femea-10a-macho-40cm-5-2.webp"
       ],
       "reserved": true
     },
@@ -850,7 +805,7 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/tiara-de-rena-natal-0.jpg"
+        "images/tiara-de-rena-natal-0.webp"
       ],
       "reserved": true
     },
@@ -858,13 +813,14 @@
       "id": 190,
       "name": "Tomada Inteligente 20A Wi-Fi JWCOM",
       "description": "Tomada inteligente Wi-Fi JWCOM 20A, lê consumo e permite desligamento à distância pelo app.",
-      "price": 35,
+      "price": 45,
+      "promotionalPrice": 30,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/tomada-inteligente-20a-wifi-leconsumo-35-1.jpg",
-        "images/tomada-inteligente-20a-wifi-leconsumo-35-2.jpg",
-        "images/tomada-inteligente-20a-wifi-leconsumo-35-3.jpg"
+        "images/tomada-inteligente-20a-wifi-leconsumo-45-1.webp",
+        "images/tomada-inteligente-20a-wifi-leconsumo-45-2.webp",
+        "images/tomada-inteligente-20a-wifi-leconsumo-45-3.webp"
       ]
     },
     {
@@ -875,9 +831,9 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/varao-cortina-duplo-branco-madeira-190cm-0-1.jpg",
-        "images/varao-cortina-duplo-branco-madeira-190cm-0-2.jpg",
-        "images/varao-cortina-duplo-branco-madeira-190cm-0-3.jpg"
+        "images/varao-cortina-duplo-branco-madeira-190cm-0-1.webp",
+        "images/varao-cortina-duplo-branco-madeira-190cm-0-2.webp",
+        "images/varao-cortina-duplo-branco-madeira-190cm-0-3.webp"
       ],
       "reserved": true
     },
@@ -889,9 +845,9 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/vaso-para-planta-ecologico-marrom-cada-um-5-1.jpg",
-        "images/vaso-para-planta-ecologico-marrom-cada-um-5-2.jpg",
-        "images/vaso-para-planta-ecologico-marrom-cada-um-5-3.jpg"
+        "images/vaso-para-planta-ecologico-marrom-cada-um-5-1.webp",
+        "images/vaso-para-planta-ecologico-marrom-cada-um-5-2.webp",
+        "images/vaso-para-planta-ecologico-marrom-cada-um-5-3.webp"
       ]
     },
     {
@@ -899,38 +855,25 @@
       "name": "Máquina de Lavar Midea MA500 13 kg 110V",
       "description": "Máquina de lavar Midea MA500 13 kg, 110V, com boa capacidade para roupas do dia a dia e peças maiores.",
       "price": 1000,
+      "promotionalPrice": 900,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/maquina-de-lavar-midea-110v-ma500-13kg-1000-3.jpeg",
-        "images/maquina-de-lavar-midea-110v-ma500-13kg-1000-2.jpeg",
-        "images/maquina-de-lavar-midea-110v-ma500-13kg-1000-1.jpeg"
-      ]
-    },
-    {
-      "id": 194,
-      "name": "Secadora Eletrolux a Tambor 10 kg 220V",
-      "description": "Secadora Eletrolux a tambor 10 kg, 220V, prática para secar roupas com mais agilidade em dias frios ou chuvosos.",
-      "price": 650,
-      "condition": "bom estado",
-      "reserved": true,
-      "category": "Outros",
-      "photos": [
-        "images/secadora-eletrolux-a-tambor-10kg-220v-650-2.jpeg",
-        "images/secadora-eletrolux-a-tambor-10kg-220v-650.jpeg",
-        "images/secadora-eletrolux-a-tambor-10kg-220v-650-3.jpeg"
+        "images/maquina-de-lavar-midea-110v-ma500-13kg-1000-3.webp",
+        "images/maquina-de-lavar-midea-110v-ma500-13kg-1000-2.webp",
+        "images/maquina-de-lavar-midea-110v-ma500-13kg-1000-1.webp"
       ]
     },
     {
       "id": 195,
       "name": "Cabo HDMI",
       "description": "Cabo HDMI preto para ligar TV, monitor, notebook ou videogame.",
-      "price": 5,
+      "price": 0,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/cabo-hdmi-5-1.jpg",
-        "images/cabo-hdmi-5-2.jpg"
+        "images/cabo-hdmi-5-1.webp",
+        "images/cabo-hdmi-5-2.webp"
       ]
     },
     {
@@ -941,8 +884,8 @@
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/case-exbom-transparente-hd-externo-usb-a-usb-c-20-1.jpg",
-        "images/case-exbom-transparente-hd-externo-usb-a-usb-c-20-2.jpg"
+        "images/case-exbom-transparente-hd-externo-usb-a-usb-c-20-1.webp",
+        "images/case-exbom-transparente-hd-externo-usb-a-usb-c-20-2.webp"
       ]
     },
     {
@@ -953,9 +896,9 @@
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
-        "images/casaco-cinza-g-la-batida-120-3.jpeg",
-        "images/casaco-cinza-g-la-batida-120-1.jpeg",
-        "images/casaco-cinza-g-la-batida-120-2.jpeg"
+        "images/casaco-cinza-g-la-batida-120-3.webp",
+        "images/casaco-cinza-g-la-batida-120-1.webp",
+        "images/casaco-cinza-g-la-batida-120-2.webp"
       ]
     },
     {
@@ -966,23 +909,9 @@
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
-        "images/coberta-preta-210x180-50-1.jpeg",
-        "images/coberta-preta-210x180-50-2.jpeg",
-        "images/coberta-preta-210x180-50-3.jpeg"
-      ]
-    },
-    {
-      "id": 202,
-      "name": "Coberta marrom Jolitex dupla face 220x240",
-      "description": "Cobertor de lã, bem pesado para o inverno, face lisa e face em lã",
-      "price": 100,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Vestuário",
-      "photos": [
-        "images/coberta-marrom-jolitex-dupla-face-220x240-100-1.jpeg",
-        "images/coberta-marrom-jolitex-dupla-face-220x240-100-2.jpeg",
-        "images/coberta-marrom-jolitex-dupla-face-220x240-100-3.jpeg"
+        "images/coberta-preta-210x180-50-1.webp",
+        "images/coberta-preta-210x180-50-2.webp",
+        "images/coberta-preta-210x180-50-3.webp"
       ]
     },
     {
@@ -993,9 +922,9 @@
       "condition": "bom estado",
       "category": "Móveis",
       "photos": [
-        "images/armario-mdf-preto-120-1.jpeg",
-        "images/armario-mdf-preto-120-2.jpeg",
-        "images/armario-mdf-preto-120-3.jpeg"
+        "images/armario-mdf-preto-120-1.webp",
+        "images/armario-mdf-preto-120-2.webp",
+        "images/armario-mdf-preto-120-3.webp"
       ]
     },
     {
@@ -1006,12 +935,12 @@
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-1.jpg",
-        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-2.jpg",
-        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-3.jpg",
-        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-4.jpg",
-        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-5.jpg",
-        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-6.jpg"
+        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-1.webp",
+        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-2.webp",
+        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-3.webp",
+        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-4.webp",
+        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-5.webp",
+        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-6.webp"
       ]
     },
     {
@@ -1022,7 +951,7 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/4-pratos-de-bolo-colorex-marrom-10.jpeg"
+        "images/4-pratos-de-bolo-colorex-marrom-10.webp"
       ]
     },
     {
@@ -1034,8 +963,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/abridor-de-rolha-de-vinho-eletrico-a-pilha-com-dosador-e-abridor-de-lacre-LUATEK-20-1.jpg",
-        "images/abridor-de-rolha-de-vinho-eletrico-a-pilha-com-dosador-e-abridor-de-lacre-LUATEK-20-2.jpg"
+        "images/abridor-de-rolha-de-vinho-eletrico-a-pilha-com-dosador-e-abridor-de-lacre-LUATEK-20-1.webp",
+        "images/abridor-de-rolha-de-vinho-eletrico-a-pilha-com-dosador-e-abridor-de-lacre-LUATEK-20-2.webp"
       ]
     },
     {
@@ -1046,9 +975,9 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/bolsa-termica-preta-com-revestimento-termico-interno-e-ziper-25-3.jpg",
-        "images/bolsa-termica-preta-com-revestimento-termico-interno-e-ziper-25-2.jpg",
-        "images/bolsa-termica-preta-com-revestimento-termico-interno-e-ziper-25-1.jpg"
+        "images/bolsa-termica-preta-com-revestimento-termico-interno-e-ziper-25-3.webp",
+        "images/bolsa-termica-preta-com-revestimento-termico-interno-e-ziper-25-2.webp",
+        "images/bolsa-termica-preta-com-revestimento-termico-interno-e-ziper-25-1.webp"
       ]
     },
     {
@@ -1059,8 +988,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/kit-1-prato-3-pires-oxford-today-10-1.jpeg",
-        "images/kit-1-prato-3-pires-oxford-today-10-2.jpeg"
+        "images/kit-1-prato-3-pires-oxford-today-10-1.webp",
+        "images/kit-1-prato-3-pires-oxford-today-10-2.webp"
       ]
     },
     {
@@ -1071,7 +1000,7 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/kit-5-copos-medios-180ml-colorex-10.jpeg"
+        "images/kit-5-copos-medios-180ml-colorex-10.webp"
       ]
     },
     {
@@ -1083,8 +1012,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/kit-pratos-ceramica-3-rasos-3-fundos-nadir-151.jpeg",
-        "images/kit-pratos-ceramica-3-rasos-3-fundos-nadir-152.jpeg"
+        "images/kit-pratos-ceramica-3-rasos-3-fundos-nadir-151.webp",
+        "images/kit-pratos-ceramica-3-rasos-3-fundos-nadir-152.webp"
       ]
     },
     {
@@ -1096,24 +1025,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/moedor-de-cafe-em-vidro-manual-15-1.jpg",
-        "images/moedor-de-cafe-em-vidro-manual-15-2.jpg"
-      ]
-    },
-    {
-      "id": 213,
-      "name": "Refrigerador Duplex Electrolux Celebrate 430L 110V Branco",
-      "description": "Refrigerador duplex Electrolux Celebrate branco, 430 litros, 110V.",
-      "price": 700,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/refrigerador-duplex-electrolux-celebrate-430L-110v-branco-700-5.jpeg",
-        "images/refrigerador-duplex-electrolux-celebrate-430L-110v-branco-700-4.jpeg",
-        "images/refrigerador-duplex-electrolux-celebrate-430L-110v-branco-700-3.jpeg",
-        "images/refrigerador-duplex-electrolux-celebrate-430L-110v-branco-700-2.jpeg",
-        "images/refrigerador-duplex-electrolux-celebrate-430L-110v-branco-700-1.jpeg"
+        "images/moedor-de-cafe-em-vidro-manual-15-1.webp",
+        "images/moedor-de-cafe-em-vidro-manual-15-2.webp"
       ]
     },
     {
@@ -1124,8 +1037,8 @@
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/adaptador-4-tomadas-2-pinos-0-1.jpg",
-        "images/adaptador-4-tomadas-2-pinos-0-2.jpg"
+        "images/adaptador-4-tomadas-2-pinos-0-1.webp",
+        "images/adaptador-4-tomadas-2-pinos-0-2.webp"
       ]
     },
     {
@@ -1136,10 +1049,10 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/capas-de-almofadas-para-casa-4-unidades-0-1.jpg",
-        "images/capas-de-almofadas-para-casa-4-unidades-0-2.jpg",
-        "images/capas-de-almofadas-para-casa-4-unidades-0-3.jpg",
-        "images/capas-de-almofadas-para-casa-4-unidades-0-4.jpg"
+        "images/capas-de-almofadas-para-casa-4-unidades-0-1.webp",
+        "images/capas-de-almofadas-para-casa-4-unidades-0-2.webp",
+        "images/capas-de-almofadas-para-casa-4-unidades-0-3.webp",
+        "images/capas-de-almofadas-para-casa-4-unidades-0-4.webp"
       ]
     },
     {
@@ -1150,7 +1063,7 @@
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
-        "images/case-para-notebook-ate-16-pol-0.jpg"
+        "images/case-para-notebook-ate-16-pol-0.webp"
       ]
     },
     {
@@ -1161,8 +1074,8 @@
       "condition": "bom estado",
       "category": "Brinquedos",
       "photos": [
-        "images/jogo-ms-monopoly-30-1.jpg",
-        "images/jogo-ms-monopoly-30-2.jpg"
+        "images/jogo-ms-monopoly-30-1.webp",
+        "images/jogo-ms-monopoly-30-2.webp"
       ]
     },
     {
@@ -1173,8 +1086,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/panela-vermelha-com-tampa-7-1.jpg",
-        "images/panela-vermelha-com-tampa-7-2.jpg"
+        "images/panela-vermelha-com-tampa-7-1.webp",
+        "images/panela-vermelha-com-tampa-7-2.webp"
       ]
     },
     {
@@ -1185,7 +1098,7 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/varao-cortina-branco-150-0.jpg"
+        "images/varao-cortina-branco-150-0.webp"
       ]
     }
   ]
