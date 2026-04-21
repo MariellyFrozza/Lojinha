@@ -911,6 +911,7 @@
       "name": "4 Pratos de Bolo Colorex Marrom",
       "description": "Kit com 4 pratos de bolo Colorex na cor marrom.",
       "price": 10,
+      "promotionalPrice": 7,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -948,6 +949,7 @@
       "name": "Kit 1 Prato + 3 Pires Oxford Today",
       "description": "Kit com 1 prato e 3 pires da linha Oxford Today.",
       "price": 10,
+      "promotionalPrice": 7,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -960,6 +962,7 @@
       "name": "Kit 5 Copos Médios 180 ml Colorex",
       "description": "Kit com 5 copos médios Colorex com capacidade de 180 ml.",
       "price": 10,
+      "promotionalPrice": 7,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
