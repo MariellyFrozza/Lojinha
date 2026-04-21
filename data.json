@@ -195,7 +195,7 @@
       "id": 73,
       "name": "Hub USB FTX para MacBook com Ethernet",
       "description": "Hub USB-C FTX para MacBook com Ethernet, HDMI, portas USB e leitor de cartão em corpo compacto de alumínio.",
-      "price": 140,
+      "price": 125,
       "condition": "novo",
       "category": "Eletrônicos",
       "photos": [
@@ -616,22 +616,12 @@
       "name": "Amazon Echo Dot 5 com Adaptador",
       "description": "Caixa de som inteligente Amazon Echo Dot de 5ª geração, na cor preta, com adaptador incluso.",
       "price": 330,
+      "promotionalPrice": 280,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
         "images/amazon-echo-dot-5-com-adaptador-330-1.webp",
         "images/amazon-echo-dot-5-com-adaptador-330-2.webp"
-      ]
-    },
-    {
-      "id": 154,
-      "name": "Bowl Vegetais",
-      "description": "Bowl pequeno em cerâmica branca com detalhes amarelos de vegetais, bom para sobremesas, frutas ou petiscos. Há 2 unidades disponíveis, por R$7 cada.",
-      "price": 7,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/bowl-vegetais-7.webp"
       ]
     },
     {
@@ -810,20 +800,6 @@
       "reserved": true
     },
     {
-      "id": 190,
-      "name": "Tomada Inteligente 20A Wi-Fi JWCOM",
-      "description": "Tomada inteligente Wi-Fi JWCOM 20A, lê consumo e permite desligamento à distância pelo app.",
-      "price": 45,
-      "promotionalPrice": 30,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/tomada-inteligente-20a-wifi-leconsumo-45-1.webp",
-        "images/tomada-inteligente-20a-wifi-leconsumo-45-2.webp",
-        "images/tomada-inteligente-20a-wifi-leconsumo-45-3.webp"
-      ]
-    },
-    {
       "id": 191,
       "name": "Varão de Cortina Duplo Branco e Madeira 190 cm",
       "description": "Varão duplo de cortina com acabamento branco e madeira, medindo 190 cm.",
@@ -839,8 +815,8 @@
     },
     {
       "id": 192,
-      "name": "Vaso para Planta Ecológico Marrom (cada um)",
-      "description": "Vaso para planta em plástico reciclado na cor marrom. Há 3 unidades disponíveis; preço por unidade.",
+      "name": "Kit com 2 Vasos para Planta Ecológico Marrom",
+      "description": "Kit com 2 vasos para planta em plástico reciclado na cor marrom.",
       "price": 5,
       "condition": "bom estado",
       "category": "Decoração",
@@ -855,25 +831,12 @@
       "name": "Máquina de Lavar Midea MA500 13 kg 110V",
       "description": "Máquina de lavar Midea MA500 13 kg, 110V, com boa capacidade para roupas do dia a dia e peças maiores.",
       "price": 1000,
-      "promotionalPrice": 900,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
         "images/maquina-de-lavar-midea-110v-ma500-13kg-1000-3.webp",
         "images/maquina-de-lavar-midea-110v-ma500-13kg-1000-2.webp",
         "images/maquina-de-lavar-midea-110v-ma500-13kg-1000-1.webp"
-      ]
-    },
-    {
-      "id": 195,
-      "name": "Cabo HDMI",
-      "description": "Cabo HDMI preto para ligar TV, monitor, notebook ou videogame.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/cabo-hdmi-5-1.webp",
-        "images/cabo-hdmi-5-2.webp"
       ]
     },
     {
@@ -1042,20 +1005,6 @@
       ]
     },
     {
-      "id": 215,
-      "name": "Kit com 4 Capas de Almofada em Tons de Bege",
-      "description": "Kit com 4 capas de almofada em tecido, em tons de bege e salmão claro, para renovar a decoração.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/capas-de-almofadas-para-casa-4-unidades-0-1.webp",
-        "images/capas-de-almofadas-para-casa-4-unidades-0-2.webp",
-        "images/capas-de-almofadas-para-casa-4-unidades-0-3.webp",
-        "images/capas-de-almofadas-para-casa-4-unidades-0-4.webp"
-      ]
-    },
-    {
       "id": 216,
       "name": "Case Preta para Notebook de até 16 Polegadas",
       "description": "Case preta acolchoada para notebook de até 16 polegadas, com alças e bolsos externos com zíper.",
@@ -1064,18 +1013,6 @@
       "category": "Eletrônicos",
       "photos": [
         "images/case-para-notebook-ate-16-pol-0.webp"
-      ]
-    },
-    {
-      "id": 217,
-      "name": "Jogo Ms. Monopoly",
-      "description": "Jogo de tabuleiro Ms. Monopoly, edição para até 6 jogadores, em que as mulheres recebem mais no jogo.",
-      "price": 30,
-      "condition": "bom estado",
-      "category": "Brinquedos",
-      "photos": [
-        "images/jogo-ms-monopoly-30-1.webp",
-        "images/jogo-ms-monopoly-30-2.webp"
       ]
     },
     {
@@ -1099,6 +1036,18 @@
       "category": "Outros",
       "photos": [
         "images/varao-cortina-branco-150-0.webp"
+      ]
+    },
+    {
+      "id": 220,
+      "name": "Guarda-Sol Mor 180 cm com Proteção UV",
+      "description": "Guarda-sol Mor de 180 cm com proteção UV e estampa tropical colorida, ideal para praia, piscina ou área externa.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/guarda-sol-mor-180cm-protecao-uv-florido-20-1.webp",
+        "images/guarda-sol-mor-180cm-protecao-uv-florido-20-2.webp"
       ]
     }
   ]
