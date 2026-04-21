@@ -71,6 +71,12 @@ body {
 .app-header .subtitle {
     font-size: 1.1rem;
     color: var(--text-secondary);
+    margin-bottom: 8px;
+}
+
+.app-header .pickup-note {
+    font-size: 0.98rem;
+    color: var(--text-secondary);
     margin-bottom: 24px;
 }
 

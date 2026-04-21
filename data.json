@@ -20,7 +20,8 @@
       "photos": [
         "images/nerf-sidestrike1-15.jpg",
         "images/nerf-sidestrike2-15.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 24,
@@ -79,6 +80,7 @@
       "description": "Ampulheta decorativa com estrutura de madeira e vidro com areia verde.",
       "price": 15,
       "promotionalPrice": 10,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -109,7 +111,8 @@
         "images/caixa-decorativa-de-madeira-florida1-40.jpg",
         "images/caixa-decorativa-de-madeira-florida2-40.jpg",
         "images/caixa-decorativa-de-madeira-florida3-40.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 57,
@@ -121,7 +124,8 @@
       "photos": [
         "images/caneca-decorativa-verde-com-bromelia-artificial1-15.jpg",
         "images/caneca-decorativa-verde-com-bromelia-artificial2-15.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 58,
@@ -133,7 +137,8 @@
       "photos": [
         "images/carregador-usb-hmaston-com-duas-saidas1-10.jpg",
         "images/carregador-usb-hmaston-com-duas-saidas2-10.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 60,
@@ -222,7 +227,8 @@
       "photos": [
         "images/porta-retrato-com-brilho1-5.jpg",
         "images/porta-retrato-com-brilho2-5.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 76,
@@ -275,7 +281,8 @@
       "photos": [
         "images/chaleira-eletrica-cadence-vermelha-220v-30-1.jpg",
         "images/chaleira-eletrica-cadence-vermelha-220v-30-2.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 85,
@@ -345,7 +352,8 @@
       "category": "Móveis",
       "photos": [
         "images/cabideiro-de-parede-branco-4-ganchos-15.webp"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 100,
@@ -367,7 +375,8 @@
       "category": "Decoração",
       "photos": [
         "images/caixa-madeira-pequena-5.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 102,
@@ -385,7 +394,8 @@
         "images/kit-dois-bonecos-decorativos-de-natal-casal-50-5.jpg",
         "images/kit-dois-bonecos-decorativos-de-natal-casal-50-6.jpg",
         "images/kit-dois-bonecos-decorativos-de-natal-casal-50-7.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 103,
@@ -463,7 +473,8 @@
         "images/kit-duas-prateleiras-brancas-60x15-40-1.jpg",
         "images/kit-duas-prateleiras-brancas-60x15-40-2.jpg",
         "images/kit-duas-prateleiras-brancas-60x15-40-3.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 114,
@@ -476,7 +487,8 @@
       "photos": [
         "images/prateleira-preta-para-livros-120x25x4cm-50-1.webp",
         "images/prateleira-preta-para-livros-120x25x4cm-50-2.webp"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 115,
@@ -487,7 +499,8 @@
       "category": "Decoração",
       "photos": [
         "images/quadro-com-arte-de-artista-curitibano-panda-0.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 124,
@@ -544,7 +557,8 @@
       "category": "Eletrônicos",
       "photos": [
         "images/extensao-3-tomadas-2-pinos-5.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 132,
@@ -556,7 +570,8 @@
       "photos": [
         "images/cortina-blackout-pano-bellajanela-300x150-com-fios-puxados-40-2.jpg",
         "images/cortina-blackout-pano-bellajanela-300x150-com-fios-puxados-40.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 134,
@@ -567,13 +582,15 @@
       "category": "Móveis",
       "photos": [
         "images/prateleira-branca-madeira-100x20-20.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 140,
       "name": "Par de Copos Shot de Vidro com Estampa",
       "description": "Par de copos shot de vidro com estampas divertidas, bons para servir ou compor um cantinho de bar.",
       "price": 0,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -585,6 +602,7 @@
       "name": "Par de Copos Tipo Caldereta Brahma",
       "description": "Par de copos tipo caldereta com estampa Brahma, ideais para cerveja, chopp ou coleção.",
       "price": 5,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -619,6 +637,7 @@
       "name": "Suporte Plástico para Fazer Batata Chips no Micro-ondas",
       "description": "Suporte plástico para preparar batata chips no micro-ondas, simples de usar e fácil de lavar.",
       "price": 0,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -743,6 +762,7 @@
       "name": "Caneca Oktoberfest Blumenau em Alumínio com Tirante",
       "description": "Caneca de alumínio da Oktoberfest Blumenau com tirante, boa para coleção, fantasia ou decoração.",
       "price": 0,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -759,7 +779,8 @@
       "category": "Decoração",
       "photos": [
         "images/lampadas-de-natal-3m-5.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 176,
@@ -806,7 +827,8 @@
       "photos": [
         "images/extensao-3-pinos-20a-femea-10a-macho-40cm-5-1.jpg",
         "images/extensao-3-pinos-20a-femea-10a-macho-40cm-5-2.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 185,
@@ -817,7 +839,8 @@
       "category": "Eletrônicos",
       "photos": [
         "images/extensao-preta-3-pinos-3-entradas-7.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 189,
@@ -828,7 +851,8 @@
       "category": "Decoração",
       "photos": [
         "images/tiara-de-rena-natal-0.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 190,
@@ -854,7 +878,8 @@
         "images/varao-cortina-duplo-branco-madeira-190cm-0-1.jpg",
         "images/varao-cortina-duplo-branco-madeira-190cm-0-2.jpg",
         "images/varao-cortina-duplo-branco-madeira-190cm-0-3.jpg"
-      ]
+      ],
+      "reserved": true
     },
     {
       "id": 192,
@@ -1066,6 +1091,7 @@
       "name": "Moedor de Café Manual em Vidro",
       "description": "Moedor de café manual com corpo em vidro.",
       "price": 15,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
