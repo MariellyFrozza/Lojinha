@@ -1030,6 +1030,7 @@
       "name": "Abridor de Rolha de Vinho Elétrico Luatek",
       "description": "Abridor elétrico de rolha para vinho, com dosador e abridor de lacre.",
       "price": 20,
+      "promotionalPrice": 12,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -1113,6 +1114,78 @@
         "images/refrigerador-duplex-electrolux-celebrate-430L-110v-branco-700-3.jpeg",
         "images/refrigerador-duplex-electrolux-celebrate-430L-110v-branco-700-2.jpeg",
         "images/refrigerador-duplex-electrolux-celebrate-430L-110v-branco-700-1.jpeg"
+      ]
+    },
+    {
+      "id": 214,
+      "name": "Adaptador 4 Tomadas 2 Pinos",
+      "description": "Adaptador branco com 4 saídas para tomadas de 2 pinos, útil para ligar mais de um aparelho no mesmo ponto.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/adaptador-4-tomadas-2-pinos-0-1.jpg",
+        "images/adaptador-4-tomadas-2-pinos-0-2.jpg"
+      ]
+    },
+    {
+      "id": 215,
+      "name": "Kit com 4 Capas de Almofada em Tons de Bege",
+      "description": "Kit com 4 capas de almofada em tecido, em tons de bege e salmão claro, para renovar a decoração.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/capas-de-almofadas-para-casa-4-unidades-0-1.jpg",
+        "images/capas-de-almofadas-para-casa-4-unidades-0-2.jpg",
+        "images/capas-de-almofadas-para-casa-4-unidades-0-3.jpg",
+        "images/capas-de-almofadas-para-casa-4-unidades-0-4.jpg"
+      ]
+    },
+    {
+      "id": 216,
+      "name": "Case Preta para Notebook de até 16 Polegadas",
+      "description": "Case preta acolchoada para notebook de até 16 polegadas, com alças e bolsos externos com zíper.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/case-para-notebook-ate-16-pol-0.jpg"
+      ]
+    },
+    {
+      "id": 217,
+      "name": "Jogo Ms. Monopoly",
+      "description": "Jogo de tabuleiro Ms. Monopoly, edição para até 6 jogadores, em que as mulheres recebem mais no jogo.",
+      "price": 30,
+      "condition": "bom estado",
+      "category": "Brinquedos",
+      "photos": [
+        "images/jogo-ms-monopoly-30-1.jpg",
+        "images/jogo-ms-monopoly-30-2.jpg"
+      ]
+    },
+    {
+      "id": 218,
+      "name": "Panela Vermelha com Tampa",
+      "description": "Panela vermelha com tampa e alças pretas, boa para o dia a dia na cozinha.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/panela-vermelha-com-tampa-7-1.jpg",
+        "images/panela-vermelha-com-tampa-7-2.jpg"
+      ]
+    },
+    {
+      "id": 219,
+      "name": "Varão de Cortina Branco 150 cm",
+      "description": "Varão de cortina branco de 150 cm, com suportes inclusos para instalação.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/varao-cortina-branco-150-0.jpg"
       ]
     }
   ]
