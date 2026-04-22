@@ -41,7 +41,7 @@
       "name": "Caneta Crown Dourada e Azul",
       "description": "Caneta esferográfica Crown nas cores dourada e azul, com carga lacrada e caixa original.",
       "price": 50,
-      "promotionalPrice": 25,
+      "promotionalPrice": 20,
       "condition": "novo",
       "category": "Outros",
       "photos": [
@@ -280,6 +280,7 @@
       "name": "Luminária de Escritório Vermelha Tipo Pixar com Lâmpada Smart",
       "description": "Luminária articulada de mesa estilo Pixar, na cor vermelha, com base redonda e lâmpada smart inclusa.",
       "price": 40,
+      "promotionalPrice": 30,
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -668,11 +669,11 @@
       "id": 159,
       "name": "Batedor de Claras Grande em Inox",
       "description": "Batedor de claras grande em inox, bom para massas leves, ovos, cremes e preparo do dia a dia.",
-      "price": 10,
+      "price": 5,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/batedor-de-claras-grande-inox-10.webp"
+        "images/batedor-de-claras-grande-inox-5.webp"
       ]
     },
     {
@@ -690,11 +691,11 @@
       "id": 161,
       "name": "Forma de Sorvete Ursinho Pooh",
       "description": "Forma plástica para sorvete ou picolé caseiro com tema Ursinho Pooh, simples de usar e fácil de lavar.",
-      "price": 5,
+      "price": 0,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/forma-de-sorvete-ursinho-pooh-5.webp"
+        "images/forma-de-sorvete-ursinho-pooh-0.webp"
       ]
     },
     {
@@ -837,6 +838,7 @@
       "name": "Máquina de Lavar Midea MA500 13 kg 110V",
       "description": "Máquina de lavar Midea MA500 13 kg, 110V, com boa capacidade para roupas do dia a dia e peças maiores.",
       "price": 1000,
+      "promotionalPrice": 900,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -1142,8 +1144,8 @@
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/tabua-de-corte-em-itauba-artesanal-7-1.webp",
-        "images/tabua-de-corte-em-itauba-artesanal-7-2.webp"
+        "images/tabua-de-corte-em-itauba-artesanal-7-2.webp",
+        "images/tabua-de-corte-em-itauba-artesanal-7-1.webp"
       ]
     },
     {
