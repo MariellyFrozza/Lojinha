@@ -162,6 +162,7 @@
       "description": "Receptor USB TV.De+ da Pieno para assistir TV digital no computador, com entrada para antena e instalação simples via USB.",
       "price": 10,
       "promotionalPrice": 5,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -195,7 +196,8 @@
       "id": 73,
       "name": "Hub USB FTX para MacBook com Ethernet",
       "description": "Hub USB-C FTX para MacBook com Ethernet, HDMI, portas USB e leitor de cartão em corpo compacto de alumínio.",
-      "price": 125,
+      "price": 200,
+      "promotionalPrice": 125,
       "condition": "novo",
       "category": "Eletrônicos",
       "photos": [
@@ -349,6 +351,7 @@
       "name": "Cabo HDMI para DVI Reforçado com Pontas Gold",
       "description": "Cabo reforçado com conexão HDMI para DVI e pontas douradas para melhor encaixe.",
       "price": 5,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -508,6 +511,7 @@
       "name": "Brinquedo Carrinho Betoneira com Chave para Desmontar",
       "description": "Carrinho betoneira de brinquedo com chave para desmontar partes, ótimo para brincadeiras e para estimular a coordenação.",
       "price": 5,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Brinquedos",
       "photos": [
@@ -617,6 +621,7 @@
       "description": "Caixa de som inteligente Amazon Echo Dot de 5ª geração, na cor preta, com adaptador incluso.",
       "price": 330,
       "promotionalPrice": 280,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -882,6 +887,7 @@
       "name": "Armário em MDF 100% - preto",
       "description": "Armário 100% MDF - 35x99x46 (LxAxP)",
       "price": 120,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Móveis",
       "photos": [
@@ -912,6 +918,7 @@
       "description": "Kit com 4 pratos de bolo Colorex na cor marrom.",
       "price": 10,
       "promotionalPrice": 7,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -963,6 +970,7 @@
       "description": "Kit com 5 copos médios Colorex com capacidade de 180 ml.",
       "price": 10,
       "promotionalPrice": 7,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -1000,6 +1008,7 @@
       "name": "Adaptador 4 Tomadas 2 Pinos",
       "description": "Adaptador branco com 4 saídas para tomadas de 2 pinos, útil para ligar mais de um aparelho no mesmo ponto.",
       "price": 0,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -1012,6 +1021,7 @@
       "name": "Case Preta para Notebook de até 16 Polegadas",
       "description": "Case preta acolchoada para notebook de até 16 polegadas, com alças e bolsos externos com zíper.",
       "price": 0,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -1023,6 +1033,7 @@
       "name": "Panela Vermelha com Tampa",
       "description": "Panela vermelha com tampa e alças pretas, boa para o dia a dia na cozinha.",
       "price": 7,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -1035,6 +1046,7 @@
       "name": "Varão de Cortina Branco 150 cm",
       "description": "Varão de cortina branco de 150 cm, com suportes inclusos para instalação.",
       "price": 0,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -1051,6 +1063,99 @@
       "photos": [
         "images/guarda-sol-mor-180cm-protecao-uv-florido-20-1.webp",
         "images/guarda-sol-mor-180cm-protecao-uv-florido-20-2.webp"
+      ]
+    },
+    {
+      "id": 221,
+      "name": "Kit com 25 Canudos de Papel Vermelhos",
+      "description": "Kit com 25 canudos de papel estampados em vermelho e branco, com cerca de 21 cm, bons para festas e drinks.",
+      "price": 0,
+      "condition": "novo",
+      "category": "Outros",
+      "photos": [
+        "images/canudos-de-papel-vermelhos-0.webp"
+      ]
+    },
+    {
+      "id": 222,
+      "name": "Cesto Organizador em Plástico Verde Água",
+      "description": "Cesto organizador em plástico vazado, leve e útil para organizar armário, banheiro, mesa ou gavetas.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/cesto-organizador-em-plastico-0.webp"
+      ]
+    },
+    {
+      "id": 223,
+      "name": "Incensário de Vidro Preto e Dourado Lua",
+      "description": "Incensário de vidro com estampa celestial em preto e dourado e apoio central para vareta de incenso.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/incensario-preto-e-dourado-em-vidro-lua-10-1.webp",
+        "images/incensario-preto-e-dourado-em-vidro-lua-10-2.webp",
+        "images/incensario-preto-e-dourado-em-vidro-lua-10-3.webp"
+      ]
+    },
+    {
+      "id": 224,
+      "name": "Luva para Forno em Silicone e Tecido",
+      "description": "Luva térmica preta com parte em silicone texturizado e acabamento em tecido, boa para manusear formas e assadeiras.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/luva-para-forno-borracha-e-pano-0.webp"
+      ]
+    },
+    {
+      "id": 225,
+      "name": "Porta-Aromatizador de Vidro com Varetas",
+      "description": "Frasco de vidro para aromatizador de ambiente, com tampa prateada e varetas inclusas.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/porta-aromatizador-em-vidro-5.webp"
+      ]
+    },
+    {
+      "id": 226,
+      "name": "Ralador em Inox Mimo Style",
+      "description": "Ralador em inox da Mimo Style, ideal para queijos, alho, noz-moscada e outros preparos em pequenas porções.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/ralador-em-inox-para-queijos-e-graos-mimo-style-5.webp"
+      ]
+    },
+    {
+      "id": 227,
+      "name": "Tábua de Corte em Itaúba Artesanal",
+      "description": "Tábua de corte artesanal em madeira itaúba, robusta e boa para o uso do dia a dia na cozinha.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/tabua-de-corte-em-itauba-artesanal-7-1.webp",
+        "images/tabua-de-corte-em-itauba-artesanal-7-2.webp"
+      ]
+    },
+    {
+      "id": 228,
+      "name": "Toalha de Praia Estampada (unidade)",
+      "description": "Há 2 unidades na foto, uma com estampa de pantera e outra floral; preço por unidade.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/toalhas-de-praia-uma-de-pantera-a-outra-floral-7-cada-1.webp",
+        "images/toalhas-de-praia-uma-de-pantera-a-outra-floral-7-cada-2.webp",
+        "images/toalhas-de-praia-uma-de-pantera-a-outra-floral-7-cada-3.webp"
       ]
     }
   ]
