@@ -381,11 +381,11 @@
       "id": 103,
       "name": "Enfeite Cacto \"Lembrei de Você\" em Madeira",
       "description": "Enfeite em madeira com tema de cacto e frase decorativa \"Lembrei de você\".",
-      "price": 10,
+      "price": 5,
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/enfeite-cacto-lembrei-de-voce-em-madeira-10.webp"
+        "images/enfeite-cacto-lembrei-de-voce-em-madeira-5.webp"
       ]
     },
     {
@@ -653,6 +653,7 @@
       "name": "Utensílio de Nylon (unidade)",
       "description": "Utensílio de cozinha em nylon. Há peças variadas na foto; preço por unidade.",
       "price": 3,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -664,6 +665,7 @@
       "name": "Forma de Sorvete Ursinho Pooh",
       "description": "Forma plástica para sorvete ou picolé caseiro com tema Ursinho Pooh, simples de usar e fácil de lavar.",
       "price": 0,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -1033,6 +1035,7 @@
       "name": "Kit com 25 Canudos de Papel Vermelhos",
       "description": "Kit com 25 canudos de papel estampados em vermelho e branco, com cerca de 21 cm, bons para festas e drinks.",
       "price": 0,
+      "reserved": true,
       "condition": "novo",
       "category": "Outros",
       "photos": [
@@ -1044,6 +1047,7 @@
       "name": "Cesto Organizador em Plástico Verde Água",
       "description": "Cesto organizador em plástico vazado, leve e útil para organizar armário, banheiro, mesa ou gavetas.",
       "price": 0,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
