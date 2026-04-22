@@ -284,8 +284,8 @@
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
-        "images/luminaria-escritorio-vermelha-tipo-pixar-com-lampada-smart-40-1.webp",
-        "images/luminaria-escritorio-vermelha-tipo-pixar-com-lampada-smart-40-2.webp"
+        "images/luminaria-escritorio-vermelha-tipo-pixar-com-lampada-smart-40-2.webp",
+        "images/luminaria-escritorio-vermelha-tipo-pixar-com-lampada-smart-40-1.webp"
       ]
     },
     {
@@ -1061,6 +1061,7 @@
       "name": "Guarda-Sol Mor 180 cm com Proteção UV",
       "description": "Guarda-sol Mor de 180 cm com proteção UV e estampa tropical colorida, ideal para praia, piscina ou área externa.",
       "price": 20,
+      "promotionalPrice": 15,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -1159,6 +1160,19 @@
         "images/toalhas-de-praia-uma-de-pantera-a-outra-floral-7-cada-1.webp",
         "images/toalhas-de-praia-uma-de-pantera-a-outra-floral-7-cada-2.webp",
         "images/toalhas-de-praia-uma-de-pantera-a-outra-floral-7-cada-3.webp"
+      ]
+    },
+    {
+      "id": 229,
+      "name": "Controle TGT USB para Xbox e PC",
+      "description": "Controle TGT com cabo USB, compatível com Xbox e PC, em excelente estado e sem drift.",
+      "price": 25,
+      "promotionalPrice": 20,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/controle-xbox-e-pc-tgt-usb-excelente-sem-drift-25-1.webp",
+        "images/controle-xbox-e-pc-tgt-usb-excelente-sem-drift-25-2.webp"
       ]
     }
   ]
