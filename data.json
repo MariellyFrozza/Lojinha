@@ -248,20 +248,6 @@
       ]
     },
     {
-      "id": 79,
-      "name": "Cafeteira Nescafé Dolce Gusto Genio S Touch Prata",
-      "description": "Cafeteira de cápsulas Genio S Touch com painel touch, até 15 bar de pressão, ajuste de temperatura e função XL para bebidas quentes ou frias.",
-      "price": 430,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-430-1.webp",
-        "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-430-2.webp",
-        "images/cafeteira-nescafe-dolce-gusto-genio-s-touch-prata-430-3.webp"
-      ]
-    },
-    {
       "id": 82,
       "name": "Chaleira Elétrica Cadence Vermelha 220V",
       "description": "Chaleira elétrica Cadence Thermo One de 1,7 L com desligamento automático, base com porta-fio e tampa com abertura automática. Voltagem 220V.",
@@ -618,20 +604,6 @@
       ]
     },
     {
-      "id": 152,
-      "name": "Amazon Echo Dot 5 com Adaptador",
-      "description": "Caixa de som inteligente Amazon Echo Dot de 5ª geração, na cor preta, com adaptador incluso.",
-      "price": 330,
-      "promotionalPrice": 280,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/amazon-echo-dot-5-com-adaptador-330-1.webp",
-        "images/amazon-echo-dot-5-com-adaptador-330-2.webp"
-      ]
-    },
-    {
       "id": 156,
       "name": "Serra para Madeira com Arco",
       "description": "Serra manual para madeira com arco metálico e cabo plástico, usada, útil para cortes simples.",
@@ -655,8 +627,8 @@
     },
     {
       "id": 158,
-      "name": "Xícara de Vidro Nescafé Dolce Gusto (unidade)",
-      "description": "Xícara de vidro Nescafé Dolce Gusto com alça transparente. Há 2 unidades disponíveis; preço por unidade.",
+      "name": "Kit com 2 Xícaras de Vidro Nescafé Dolce Gusto",
+      "description": "Kit com 2 xícaras de vidro Nescafé Dolce Gusto com alça transparente.",
       "price": 15,
       "condition": "bom estado",
       "category": "Outros",
@@ -714,6 +686,7 @@
       "name": "Ralador e Picador de Alimentos Rosa",
       "description": "Utensílio rosa com lâmina para ralar ou fatiar alimentos, acompanhado de apoio coletor.",
       "price": 7,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -883,20 +856,6 @@
         "images/coberta-preta-210x180-50-1.webp",
         "images/coberta-preta-210x180-50-2.webp",
         "images/coberta-preta-210x180-50-3.webp"
-      ]
-    },
-    {
-      "id": 203,
-      "name": "Armário em MDF 100% - preto",
-      "description": "Armário 100% MDF - 35x99x46 (LxAxP)",
-      "price": 120,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Móveis",
-      "photos": [
-        "images/armario-mdf-preto-120-1.webp",
-        "images/armario-mdf-preto-120-2.webp",
-        "images/armario-mdf-preto-120-3.webp"
       ]
     },
     {
