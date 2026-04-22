@@ -175,6 +175,7 @@
       "name": "Restaurador de Palheta Baseus em Inox",
       "description": "Ferramenta Baseus em inox para restaurar o corte da borracha da palheta e melhorar a limpeza do para-brisa.",
       "price": 10,
+      "reserved": true,
       "condition": "novo",
       "category": "Outros",
       "photos": [
@@ -678,11 +679,11 @@
       "id": 160,
       "name": "Utensílio de Nylon (unidade)",
       "description": "Utensílio de cozinha em nylon. Há peças variadas na foto; preço por unidade.",
-      "price": 5,
+      "price": 3,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
-        "images/colheres-de-nylon-unidade-5.webp"
+        "images/colheres-de-nylon-unidade-3.webp"
       ]
     },
     {
