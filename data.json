@@ -11,19 +11,6 @@
   ],
   "items": [
     {
-      "id": 21,
-      "name": "NERF Sidestrike",
-      "description": "Lançador Nerf Sidestrike com coldre. Restou 1 unidade; Inclui kit de dardos!",
-      "price": 15,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/nerf-sidestrike1-15.webp",
-        "images/nerf-sidestrike2-15.webp"
-      ],
-      "reserved": true
-    },
-    {
       "id": 24,
       "name": "Bolsa Impermeável com alça",
       "description": "Cabem 3 celulares e uma carteira. Nunca utilizados. 2 unidades disponíveis",
@@ -65,24 +52,11 @@
       ]
     },
     {
-      "id": 53,
-      "name": "Adaptador Bluetooth USB CSR para PC",
-      "description": "Adaptador Bluetooth USB para PC, ideal para conectar periféricos sem fio com praticidade.",
-      "price": 10,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/adaptador-bluetooth-usb-para-pc-csr1-10.webp"
-      ]
-    },
-    {
       "id": 54,
       "name": "Ampulheta de Vidro e Madeira Verde",
       "description": "Ampulheta decorativa com estrutura de madeira e vidro com areia verde.",
       "price": 15,
       "promotionalPrice": 10,
-      "reserved": true,
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -101,47 +75,6 @@
         "images/caixa-de-acrilico-para-capsulas-de-cafe1-10.webp",
         "images/caixa-de-acrilico-para-capsulas-de-cafe2-10.webp"
       ]
-    },
-    {
-      "id": 56,
-      "name": "Caixa Decorativa de Madeira Florida",
-      "description": "Caixa decorativa de madeira maciça com acabamento branco rústico e pintura floral em laranja.",
-      "price": 40,
-      "promotionalPrice": 20,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/caixa-decorativa-de-madeira-florida1-40.webp",
-        "images/caixa-decorativa-de-madeira-florida2-40.webp",
-        "images/caixa-decorativa-de-madeira-florida3-40.webp"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 57,
-      "name": "Caneca Decorativa Verde com Bromélia Artificial",
-      "description": "Caneca decorativa verde acompanhada de bromélia artificial, ideal para compor ambientes.",
-      "price": 15,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/caneca-decorativa-verde-com-bromelia-artificial1-15.webp",
-        "images/caneca-decorativa-verde-com-bromelia-artificial2-15.webp"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 58,
-      "name": "Carregador USB H'Maston com Duas Saídas",
-      "description": "Carregador de tomada H'Maston com duas saídas USB.",
-      "price": 10,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/carregador-usb-hmaston-com-duas-saidas1-10.webp",
-        "images/carregador-usb-hmaston-com-duas-saidas2-10.webp"
-      ],
-      "reserved": true
     },
     {
       "id": 60,
@@ -171,18 +104,6 @@
       ]
     },
     {
-      "id": 67,
-      "name": "Restaurador de Palheta Baseus em Inox",
-      "description": "Ferramenta Baseus em inox para restaurar o corte da borracha da palheta e melhorar a limpeza do para-brisa.",
-      "price": 10,
-      "reserved": true,
-      "condition": "novo",
-      "category": "Outros",
-      "photos": [
-        "images/restaurador-de-palheta-baseus-em-inox1-10.webp"
-      ]
-    },
-    {
       "id": 69,
       "name": "Super Trunfo Grow: Edição Gatos",
       "description": "Jogo de cartas Super Trunfo Grow, edição Gatos, para partidas rápidas e divertidas em família.",
@@ -208,19 +129,6 @@
       ]
     },
     {
-      "id": 74,
-      "name": "Porta-Retrato com Brilho",
-      "description": "Porta-retrato com moldura preta e borda brilhante, ideal para fotos pequenas em mesa, rack ou estante.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/porta-retrato-com-brilho1-5.webp",
-        "images/porta-retrato-com-brilho2-5.webp"
-      ],
-      "reserved": true
-    },
-    {
       "id": 76,
       "name": "Saco Impermeável Decathlon Tribord para Esportes Aquáticos",
       "description": "Saco impermeável Decathlon Tribord com fecho dobrável e presilhas, ideal para proteger celular, carteira e itens pessoais em praia, piscina ou caiaque.",
@@ -232,34 +140,6 @@
         "images/saco-impermeavel-decathlon-tribord-para-esportes-aquaticos1-50.webp",
         "images/saco-impermeavel-decathlon-tribord-para-esportes-aquaticos2-50.webp"
       ]
-    },
-    {
-      "id": 77,
-      "name": "Teclado Logitech com Receptor Unifying",
-      "description": "Teclado Logitech sem fio com receptor Unifying, layout compacto com teclado numérico e teclas de atalho para uso diário.",
-      "price": 25,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/teclado-logitech-com-receptor-unifying1-25.webp",
-        "images/teclado-logitech-com-receptor-unifying2-25.webp",
-        "images/teclado-logitech-com-receptor-unifying3-25.webp"
-      ]
-    },
-    {
-      "id": 82,
-      "name": "Chaleira Elétrica Cadence Vermelha 220V",
-      "description": "Chaleira elétrica Cadence Thermo One de 1,7 L com desligamento automático, base com porta-fio e tampa com abertura automática. Voltagem 220V.",
-      "price": 30,
-      "promotionalPrice": 20,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/chaleira-eletrica-cadence-vermelha-220v-30-1.webp",
-        "images/chaleira-eletrica-cadence-vermelha-220v-30-2.webp"
-      ],
-      "reserved": true
     },
     {
       "id": 85,
@@ -286,19 +166,6 @@
       ]
     },
     {
-      "id": 91,
-      "name": "Selim Banco de Bicicleta San Marino Core",
-      "description": "Selim para bicicleta San Marino Core, com formato ergonômico e trilhos de fixação para reposição ou upgrade.",
-      "price": 15,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/selim-banco-de-bicicleta-san-marino-core-15-2.webp",
-        "images/selim-banco-de-bicicleta-san-marino-core-15-1.webp"
-      ]
-    },
-    {
       "id": 92,
       "name": "Suporte de TV ELG",
       "description": "Suporte de parede ELG com peças metálicas, parafusos e espaçadores para instalação de TV ou monitor compatível.",
@@ -321,18 +188,6 @@
       "photos": [
         "images/umidificador-frozen-iluminado-110v-40.webp"
       ]
-    },
-    {
-      "id": 99,
-      "name": "Cabideiro de Parede Branco com 4 Ganchos",
-      "description": "Cabideiro de parede branco com 4 ganchos, ideal para casacos, bolsas e acessórios.",
-      "price": 15,
-      "condition": "bom estado",
-      "category": "Móveis",
-      "photos": [
-        "images/cabideiro-de-parede-branco-4-ganchos-15.webp"
-      ],
-      "reserved": true
     },
     {
       "id": 100,
