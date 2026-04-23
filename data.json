@@ -347,41 +347,10 @@
       ]
     },
     {
-      "id": 101,
-      "name": "Caixa de Madeira Pequena",
-      "description": "Caixa pequena em madeira, útil para organização ou decoração.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/caixa-madeira-pequena-5.webp"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 102,
-      "name": "Kit com 2 Bonecos Decorativos de Natal Casal",
-      "description": "Kit com 2 bonecos decorativos de Natal em formato de casal, eles adoram ficar juntos, jamais separe-os.",
-      "price": 50,
-      "promotionalPrice": 30,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-1.webp",
-        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-2.webp",
-        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-3.webp",
-        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-4.webp",
-        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-5.webp",
-        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-6.webp",
-        "images/kit-dois-bonecos-decorativos-de-natal-casal-50-7.webp"
-      ],
-      "reserved": true
-    },
-    {
       "id": 103,
       "name": "Enfeite Cacto \"Lembrei de Você\" em Madeira",
       "description": "Enfeite em madeira com tema de cacto e frase decorativa \"Lembrei de você\".",
-      "price": 5,
+      "price": 0,
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -404,19 +373,6 @@
       ]
     },
     {
-      "id": 106,
-      "name": "Lixeira em Metal Prata",
-      "description": "Lixeira em metal prata, ideal para escritório, banheiro ou lavanderia.",
-      "price": 15,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/lixeira-metal-prata-15-1.webp",
-        "images/lixeira-metal-prata-15-2.webp"
-      ]
-    },
-    {
       "id": 110,
       "name": "Monitor ASUS 24\" Full HD 75Hz com HDMI DVI e VGA",
       "description": "Monitor ASUS de 24 polegadas com resolução Full HD, 75 Hz e entradas HDMI, DVI e VGA.",
@@ -431,46 +387,6 @@
         "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-4.webp",
         "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-5.webp"
       ]
-    },
-    {
-      "id": 113,
-      "name": "Kit com 2 Prateleiras Brancas 60 x 15 cm",
-      "description": "Kit com 2 prateleiras brancas de 60 x 15 cm, boas para livros, decoração ou apoio leve.",
-      "price": 40,
-      "condition": "bom estado",
-      "category": "Móveis",
-      "photos": [
-        "images/kit-duas-prateleiras-brancas-60x15-40-1.webp",
-        "images/kit-duas-prateleiras-brancas-60x15-40-2.webp",
-        "images/kit-duas-prateleiras-brancas-60x15-40-3.webp"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 114,
-      "name": "Prateleira Preta para Livros 120 x 25 x 4 cm",
-      "description": "Prateleira preta para livros com 120 cm de largura, 25 cm de profundidade e 4 cm de espessura.",
-      "price": 50,
-      "promotionalPrice": 40,
-      "condition": "bom estado",
-      "category": "Móveis",
-      "photos": [
-        "images/prateleira-preta-para-livros-120x25x4cm-50-1.webp",
-        "images/prateleira-preta-para-livros-120x25x4cm-50-2.webp"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 115,
-      "name": "Quadro com Arte de Artista Curitibano (Panda)",
-      "description": "Quadro com arte de artista curitibano em estilo panda, ótimo para decorar o ambiente.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/quadro-com-arte-de-artista-curitibano-panda-0.webp"
-      ],
-      "reserved": true
     },
     {
       "id": 124,
@@ -520,67 +436,6 @@
       ]
     },
     {
-      "id": 130,
-      "name": "Extensão com 3 Tomadas de 2 Pinos",
-      "description": "Extensão elétrica branca com 3 tomadas de 2 pinos e cabo longo, útil para ligar aparelhos simples no dia a dia.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/extensao-3-tomadas-2-pinos-5.webp"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 132,
-      "name": "Cortina Blackout Bellajanela 300 x 150 cm",
-      "description": "Cortina blackout da Bellajanela com ilhós, medindo 300 x 150 cm, com alguns fios puxados.",
-      "price": 40,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/cortina-blackout-pano-bellajanela-300x150-com-fios-puxados-40-2.webp",
-        "images/cortina-blackout-pano-bellajanela-300x150-com-fios-puxados-40.webp"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 134,
-      "name": "Prateleira Branca de Madeira 100 x 20 cm",
-      "description": "Prateleira branca de madeira com 100 x 20 cm, boa para livros, objetos decorativos ou apoio leve.",
-      "price": 20,
-      "condition": "bom estado",
-      "category": "Móveis",
-      "photos": [
-        "images/prateleira-branca-madeira-100x20-20.webp"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 140,
-      "name": "Par de Copos Shot de Vidro com Estampa",
-      "description": "Par de copos shot de vidro com estampas divertidas, bons para servir ou compor um cantinho de bar.",
-      "price": 0,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/copos-shot-vidro-tequila-0.webp"
-      ]
-    },
-    {
-      "id": 141,
-      "name": "Par de Copos Tipo Caldereta Brahma",
-      "description": "Par de copos tipo caldereta com estampa Brahma, ideais para cerveja, chopp ou coleção.",
-      "price": 5,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/copos-tipo-caldereta-chopp-brahma-5.webp"
-      ]
-    },
-    {
       "id": 149,
       "name": "Restaurador de Vidros Automotivos Vonixx Prizm",
       "description": "Produto Vonixx Prizm para restauração de vidros automotivos, com menos de um terço utilizado e bastante conteúdo restante.",
@@ -589,18 +444,6 @@
       "category": "Outros",
       "photos": [
         "images/produto-para-vidros-automotivos-vonixx-prizm-menos-de-um-terco-utilizado-10.webp"
-      ]
-    },
-    {
-      "id": 150,
-      "name": "Suporte Plástico para Fazer Batata Chips no Micro-ondas",
-      "description": "Suporte plástico para preparar batata chips no micro-ondas, simples de usar e fácil de lavar.",
-      "price": 0,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/suporte-para-fazer-batata-chips-no-microondas-plastico-0.webp"
       ]
     },
     {
@@ -701,7 +544,6 @@
       "name": "Caneca Oktoberfest Blumenau em Alumínio com Tirante",
       "description": "Caneca de alumínio da Oktoberfest Blumenau com tirante, boa para coleção, fantasia ou decoração.",
       "price": 0,
-      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -710,22 +552,11 @@
       ]
     },
     {
-      "id": 171,
-      "name": "Cordão de Luzes de Natal 3 m",
-      "description": "Cordão de luzes de Natal em LED com 3 metros, bom para decorar árvore, janela ou cabeceira.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/lampadas-de-natal-3m-5.webp"
-      ],
-      "reserved": true
-    },
-    {
       "id": 176,
       "name": "Amigurumi Panda Artesanal",
       "description": "Amigurumi artesanal em formato de panda, feito em crochê, ótimo para presentear ou decorar.",
       "price": 60,
+      "promotionalPrice": 40,
       "condition": "bom estado",
       "category": "Brinquedos",
       "photos": [
@@ -757,45 +588,6 @@
       ]
     },
     {
-      "id": 184,
-      "name": "Extensão 3 Pinos 10A Macho 60 cm",
-      "description": "Extensão 3 pinos, útil para adaptar equipamentos com tomada mais robusta.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/extensao-3-pinos-20a-femea-10a-macho-40cm-5-1.webp",
-        "images/extensao-3-pinos-20a-femea-10a-macho-40cm-5-2.webp"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 189,
-      "name": "Tiara de Rena de Natal",
-      "description": "Tiara temática de rena de Natal, boa para festas, fotos e fantasias.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/tiara-de-rena-natal-0.webp"
-      ],
-      "reserved": true
-    },
-    {
-      "id": 191,
-      "name": "Varão de Cortina Duplo Branco e Madeira 190 cm",
-      "description": "Varão duplo de cortina com acabamento branco e madeira, medindo 190 cm.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/varao-cortina-duplo-branco-madeira-190cm-0-1.webp",
-        "images/varao-cortina-duplo-branco-madeira-190cm-0-2.webp",
-        "images/varao-cortina-duplo-branco-madeira-190cm-0-3.webp"
-      ],
-      "reserved": true
-    },
-    {
       "id": 192,
       "name": "Kit com 2 Vasos para Planta Ecológico Marrom",
       "description": "Kit com 2 vasos para planta em plástico reciclado na cor marrom.",
@@ -813,7 +605,7 @@
       "name": "Máquina de Lavar Midea MA500 13 kg 110V",
       "description": "Máquina de lavar Midea MA500 13 kg, 110V, com boa capacidade para roupas do dia a dia e peças maiores.",
       "price": 1000,
-      "promotionalPrice": 900,
+      "promotionalPrice": 850,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -839,6 +631,7 @@
       "name": "Casaco cinza G lã batida",
       "description": "Casaco da marca Byz, lã batida, bem quentinho",
       "price": 120,
+      "promotionalPrice": 100,
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
@@ -852,6 +645,7 @@
       "name": "Coberta preta 210 x 180",
       "description": "Cobertor de lã, bem pesado para o inverno. Leve detalhe apresentado em foto!",
       "price": 50,
+      "promotionalPrice": 30,
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
@@ -942,54 +736,15 @@
       ]
     },
     {
-      "id": 210,
-      "name": "Kit de Pratos de Cerâmica Nadir (3 Rasos e 3 Fundos)",
-      "description": "Kit de pratos de cerâmica Nadir com 3 pratos rasos e 3 pratos fundos.",
-      "price": 15,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/kit-pratos-ceramica-3-rasos-3-fundos-nadir-151.webp",
-        "images/kit-pratos-ceramica-3-rasos-3-fundos-nadir-152.webp"
-      ]
-    },
-    {
       "id": 212,
       "name": "Moedor de Café Manual em Vidro",
       "description": "Moedor de café manual com corpo em vidro.",
       "price": 15,
-      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
         "images/moedor-de-cafe-em-vidro-manual-15-1.webp",
         "images/moedor-de-cafe-em-vidro-manual-15-2.webp"
-      ]
-    },
-    {
-      "id": 214,
-      "name": "Adaptador 4 Tomadas 2 Pinos",
-      "description": "Adaptador branco com 4 saídas para tomadas de 2 pinos, útil para ligar mais de um aparelho no mesmo ponto.",
-      "price": 0,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/adaptador-4-tomadas-2-pinos-0-1.webp",
-        "images/adaptador-4-tomadas-2-pinos-0-2.webp"
-      ]
-    },
-    {
-      "id": 216,
-      "name": "Case Preta para Notebook de até 16 Polegadas",
-      "description": "Case preta acolchoada para notebook de até 16 polegadas, com alças e bolsos externos com zíper.",
-      "price": 0,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/case-para-notebook-ate-16-pol-0.webp"
       ]
     },
     {
@@ -1006,22 +761,11 @@
       ]
     },
     {
-      "id": 219,
-      "name": "Varão de Cortina Branco 150 cm",
-      "description": "Varão de cortina branco de 150 cm, com suportes inclusos para instalação.",
-      "price": 0,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/varao-cortina-branco-150-0.webp"
-      ]
-    },
-    {
       "id": 220,
       "name": "Guarda-Sol Mor 180 cm com Proteção UV",
       "description": "Guarda-sol Mor de 180 cm com proteção UV e estampa tropical colorida, ideal para praia, piscina ou área externa.",
       "price": 20,
+      "reserved": true,
       "promotionalPrice": 15,
       "condition": "bom estado",
       "category": "Outros",
@@ -1040,18 +784,6 @@
       "category": "Outros",
       "photos": [
         "images/canudos-de-papel-vermelhos-0.webp"
-      ]
-    },
-    {
-      "id": 222,
-      "name": "Cesto Organizador em Plástico Verde Água",
-      "description": "Cesto organizador em plástico vazado, leve e útil para organizar armário, banheiro, mesa ou gavetas.",
-      "price": 0,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/cesto-organizador-em-plastico-0.webp"
       ]
     },
     {
