@@ -27,8 +27,8 @@
       "id": 51,
       "name": "Caneta Crown Dourada e Azul",
       "description": "Caneta esferográfica Crown nas cores dourada e azul, com carga lacrada e caixa original.",
-      "price": 50,
-      "promotionalPrice": 20,
+      "price": 30,
+      "promotionalPrice": 15,
       "condition": "novo",
       "category": "Outros",
       "photos": [
@@ -56,7 +56,7 @@
       "name": "Ampulheta de Vidro e Madeira Verde",
       "description": "Ampulheta decorativa com estrutura de madeira e vidro com areia verde.",
       "price": 15,
-      "promotionalPrice": 10,
+      "promotionalPrice": 5,
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -107,7 +107,7 @@
       "id": 69,
       "name": "Super Trunfo Grow: Edição Gatos",
       "description": "Jogo de cartas Super Trunfo Grow, edição Gatos, para partidas rápidas e divertidas em família.",
-      "price": 5,
+      "price": 0,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -175,18 +175,6 @@
       "category": "Eletrônicos",
       "photos": [
         "images/suporte-tv-elg-15.webp"
-      ]
-    },
-    {
-      "id": 94,
-      "name": "Umidificador Frozen Iluminado 110V",
-      "description": "Umidificador com estampa Frozen e iluminação suave, ideal para quarto infantil. Funciona em 110V.",
-      "price": 40,
-      "promotionalPrice": 30,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/umidificador-frozen-iluminado-110v-40.webp"
       ]
     },
     {
@@ -425,6 +413,7 @@
       "description": "Travesseiro de pescoço inflável portátil, bom para viagens, carro ou descanso no dia a dia.",
       "price": 5,
       "condition": "bom estado",
+      "reserved": true,
       "category": "Outros",
       "photos": [
         "images/travesseiro-de-pescoco-inflavel-portatil-5-2.webp",
@@ -446,7 +435,7 @@
       "id": 192,
       "name": "Kit com 2 Vasos para Planta Ecológico Marrom",
       "description": "Kit com 2 vasos para planta em plástico reciclado na cor marrom.",
-      "price": 5,
+      "price": 0,
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -513,7 +502,7 @@
       "id": 204,
       "name": "Volante Logitech G923 TrueForce com Pedais para PC, PS4 e PS5",
       "description": "Volante Logitech G923 TrueForce com conjunto de pedais, compatível com PC, PS4 e PS5, bom para jogos de corrida com mais imersão.",
-      "price": 2000,
+      "price": 1900,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -646,6 +635,7 @@
       "name": "Incensário de Vidro Preto e Dourado Lua",
       "description": "Incensário de vidro com estampa celestial em preto e dourado e apoio central para vareta de incenso.",
       "price": 10,
+      "promotionalPrice": 5,
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [

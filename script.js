@@ -288,7 +288,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const priceA = getEffectivePrice(a);
             const priceB = getEffectivePrice(b);
 
-            if (sortQuery === 'asc') {
+            if (sortQuery === 'desc') {
                 return priceA - priceB;
             }
 
