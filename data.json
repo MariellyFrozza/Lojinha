@@ -417,6 +417,7 @@
       "description": "Cobertor de lã, bem pesado para o inverno. Leve detalhe apresentado em foto!",
       "price": 50,
       "promotionalPrice": 30,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
@@ -598,6 +599,256 @@
       "photos": [
         "images/controle-xbox-e-pc-tgt-usb-excelente-sem-drift-25-1.webp",
         "images/controle-xbox-e-pc-tgt-usb-excelente-sem-drift-25-2.webp"
+      ]
+    },
+    {
+      "id": 230,
+      "name": "Cabo HDMI e cabos de áudio auxiliares",
+      "description": "Conjunto de cabos contendo HDMI e cabos de áudio auxiliares, úteis para conexões diversas.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/cabo-hdmi-e-cabos-de-audio-auxiliares-0.jpeg"
+      ]
+    },
+    {
+      "id": 231,
+      "name": "Carregador de Pilha AAA",
+      "description": "Carregador para pilhas palito (AAA).",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/carregadorPilha-aaa-5.jpeg",
+        "images/carregador-pilha-2.jpeg"
+      ]
+    },
+    {
+      "id": 232,
+      "name": "Coberta Jolitex GG",
+      "description": "Cobertor grande da marca Jolitex, ideal para camas de casal ou king.",
+      "price": 100,
+      "condition": "bom estado",
+      "category": "Vestuário",
+      "photos": [
+        "images/cobertaJolitextGG-100.jpeg"
+      ]
+    },
+    {
+      "id": 233,
+      "name": "Copo Caveira GG",
+      "description": "Copo decorativo em formato de caveira, tamanho grande.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/copocaveiraGG-7.jpeg",
+        "images/copocaveiraGG2-7.jpeg"
+      ]
+    },
+    {
+      "id": 234,
+      "name": "Copo Martini",
+      "description": "Copo clássico para drinks tipo Martini ou coquetéis.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/copomartini-5.jpeg"
+      ]
+    },
+    {
+      "id": 235,
+      "name": "Jarra Plástica",
+      "description": "Jarra simples de plástico para água ou sucos.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/jarraplastico-0.jpeg"
+      ]
+    },
+    {
+      "id": 236,
+      "name": "Kit dois livros Bobbie Goods e canetinhas",
+      "description": "Kit contendo dois livros para colorir Bobbie Goods e conjunto de canetinhas.",
+      "price": 30,
+      "condition": "bom estado",
+      "category": "Livros",
+      "photos": [
+        "images/kit-dois-livros-bobbie-goods-e-canetinhas-30.jpeg"
+      ]
+    },
+    {
+      "id": 237,
+      "name": "Kit xícaras de vidro",
+      "description": "Kit com xícaras de vidro transparente, ideais para café ou chá.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/kit-xicaras-de-vidro-7.jpeg"
+      ]
+    },
+    {
+      "id": 238,
+      "name": "Martelo e ferramentas",
+      "description": "Conjunto básico de ferramentas contendo martelo e outros itens manuais.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/martelo-e-ferramentas-15.jpeg"
+      ]
+    },
+    {
+      "id": 239,
+      "name": "Panela Vermelha Grande",
+      "description": "Panela grande na cor vermelha com revestimento interno.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/panelaVermelha-grande-15.jpeg"
+      ]
+    },
+    {
+      "id": 240,
+      "name": "Par de fronhas com travesseiro e fronhas",
+      "description": "Par de fronhas acompanhado de travesseiro e fronhas adicionais.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Vestuário",
+      "photos": [
+        "images/par-de-fronhas-com-travesseiro-e-fronhas-7.jpeg"
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Pote Gato Plástico",
+      "description": "Pote plástico decorado com tema de gato, útil para armazenamento.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/potegato-plastico-0.jpeg",
+        "images/potegato-plastico-0-2.jpeg"
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Tapete Branco Crochê",
+      "description": "Tapete artesanal feito em crochê na cor branca.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/tapete-branco-croche-10.jpeg"
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Termômetro Multilaser Branco Digital",
+      "description": "Termômetro digital da marca Multilaser, prático e preciso.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/termometro-multilaser-branco-digital-10.jpeg"
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Copos e xícaras em vidro",
+      "description": "Conjunto de copos e xícaras em vidro.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/whatsapp-image-2026-04-25.jpeg"
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Adaptador de tomada 3 pinos para 2",
+      "description": "Adaptador de tomada de 3 pinos para 2 pinos, útil para tomadas antigas.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/adaptador-de-tomada-3-pinos-para-2-0.jpg"
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Air Fryer Gaabor Digital Branca 110V",
+      "description": "Fritadeira elétrica digital da marca Gaabor, cor branca, voltagem 110V.",
+      "price": 90,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/air-fryer-gaabor-digital-branca-90-110v-1.jpg",
+        "images/air-fryer-gaabor-digital-branca-90-110v-2.jpg",
+        "images/air-fryer-gaabor-digital-branca-90-110v-3.jpg",
+        "images/air-fryer-gaabor-digital-branca-90-110v-4.jpg"
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Binóculo",
+      "description": "Binóculo para observação, acompanha capa protetora.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/binoculo-7-1.jpg",
+        "images/binoculo-7-2.jpg"
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Cabo HDMI",
+      "description": "Cabo HDMI para conexão de vídeo e áudio em alta definição.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/cabo-hdmi-0.jpg"
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Carregador Tipo-C Motorola",
+      "description": "Carregador original Motorola com saída USB Tipo-C.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/carregador-tipo-c-motorola-15.jpg"
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Carrinho de carga em ferro desmontável (1 pneu murcho)",
+      "description": "Carrinho de carga robusto em ferro, desmontável. Atenção: um dos pneus está murcho.",
+      "price": 90,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/carrinho-de-carga-em-ferro-desmontavel-1-pneu-murcho1.jpg",
+        "images/carrinho-de-carga-em-ferro-desmontavel-1-pneu-murcho2.jpg"
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Extensão de tomada 3 pinos 20A 150cm",
+      "description": "Extensão de tomada reforçada (20A) com 1,5 metros de comprimento.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/extensao-tomada-3-pinos-20a-150cm-7.jpg"
       ]
     }
   ]
