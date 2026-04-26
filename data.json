@@ -90,20 +90,6 @@
       ]
     },
     {
-      "id": 66,
-      "name": "Receptor USB de TV Digital Pieno com Antena",
-      "description": "Receptor USB TV.De+ da Pieno para assistir TV digital no computador, com entrada para antena e instalação simples via USB.",
-      "price": 10,
-      "promotionalPrice": 5,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/receptor-usb-de-tv-digital-pieno-com-antena1-10.webp",
-        "images/receptor-usb-de-tv-digital-pieno-com-antena2-10.webp"
-      ]
-    },
-    {
       "id": 69,
       "name": "Super Trunfo Grow: Edição Gatos",
       "description": "Jogo de cartas Super Trunfo Grow, edição Gatos, para partidas rápidas e divertidas em família.",
@@ -178,18 +164,6 @@
       ]
     },
     {
-      "id": 100,
-      "name": "Cabo HDMI para DVI Reforçado com Pontas Gold",
-      "description": "Cabo reforçado com conexão HDMI para DVI e pontas douradas para melhor encaixe.",
-      "price": 5,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/cabo-hdmi-para-dvi-reforcado-pontas-gold-5.webp"
-      ]
-    },
-    {
       "id": 103,
       "name": "Enfeite Cacto \"Lembrei de Você\" em Madeira",
       "description": "Enfeite em madeira com tema de cacto e frase decorativa \"Lembrei de você\".",
@@ -251,19 +225,6 @@
       "category": "Decoração",
       "photos": [
         "images/porta-retrato-branco-e-dourado-14x9-5.webp"
-      ]
-    },
-    {
-      "id": 128,
-      "name": "Brinquedo Carrinho Betoneira com Chave para Desmontar",
-      "description": "Carrinho betoneira de brinquedo com chave para desmontar partes, ótimo para brincadeiras e para estimular a coordenação.",
-      "price": 5,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Brinquedos",
-      "photos": [
-        "images/brinquedo-carrinho-betoneira-vem-com-chave-para-desmontar-5-1.webp",
-        "images/brinquedo-carrinho-betoneira-vem-com-chave-para-desmontar-5-2.webp"
       ]
     },
     {
@@ -340,6 +301,7 @@
       "description": "Utensílio de cozinha em nylon. Há peças variadas na foto; preço por unidade.",
       "price": 3,
       "reserved": true,
+      "to": "Phill",
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -352,6 +314,7 @@
       "description": "Forma plástica para sorvete ou picolé caseiro com tema Ursinho Pooh, simples de usar e fácil de lavar.",
       "price": 0,
       "reserved": true,
+      "to": "Phill",
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -363,23 +326,12 @@
       "name": "Pegador Inox",
       "description": "Pegador simples em inox, útil para servir alimentos, saladas ou churrasco.",
       "price": 5,
+      "to": "Wagner Treviso",
       "condition": "bom estado",
+      "reserved": true,
       "category": "Outros",
       "photos": [
         "images/pegador-inox-5.webp"
-      ]
-    },
-    {
-      "id": 166,
-      "name": "Ralador e Picador de Alimentos Rosa",
-      "description": "Utensílio rosa com lâmina para ralar ou fatiar alimentos, acompanhado de apoio coletor.",
-      "price": 7,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/ralador-e-picador-de-alimentos-rosa-7-1.webp",
-        "images/ralador-e-picador-de-alimentos-rosa-7-2.webp"
       ]
     },
     {
@@ -387,6 +339,8 @@
       "name": "Caneca Oktoberfest Blumenau em Alumínio com Tirante",
       "description": "Caneca de alumínio da Oktoberfest Blumenau com tirante, boa para coleção, fantasia ou decoração.",
       "price": 0,
+      "reserved": true,
+      "to": "Wagner Treviso",
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -405,19 +359,6 @@
       "photos": [
         "images/amigurumi-panda-artesanal-60-1.webp",
         "images/amigurumi-panda-artesanal-60-2.webp"
-      ]
-    },
-    {
-      "id": 180,
-      "name": "Travesseiro de Pescoço Inflável Portátil",
-      "description": "Travesseiro de pescoço inflável portátil, bom para viagens, carro ou descanso no dia a dia.",
-      "price": 5,
-      "condition": "bom estado",
-      "reserved": true,
-      "category": "Outros",
-      "photos": [
-        "images/travesseiro-de-pescoco-inflavel-portatil-5-2.webp",
-        "images/travesseiro-de-pescoco-inflavel-portatil-5-1.webp"
       ]
     },
     {
@@ -471,20 +412,6 @@
       ]
     },
     {
-      "id": 198,
-      "name": "Casaco cinza G lã batida",
-      "description": "Casaco da marca Byz, lã batida, bem quentinho",
-      "price": 120,
-      "promotionalPrice": 100,
-      "condition": "bom estado",
-      "category": "Vestuário",
-      "photos": [
-        "images/casaco-cinza-g-la-batida-120-3.webp",
-        "images/casaco-cinza-g-la-batida-120-1.webp",
-        "images/casaco-cinza-g-la-batida-120-2.webp"
-      ]
-    },
-    {
       "id": 201,
       "name": "Coberta preta 210 x 180",
       "description": "Cobertor de lã, bem pesado para o inverno. Leve detalhe apresentado em foto!",
@@ -512,19 +439,6 @@
         "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-4.webp",
         "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-5.webp",
         "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-6.webp"
-      ]
-    },
-    {
-      "id": 205,
-      "name": "4 Pratos de Bolo Colorex Marrom",
-      "description": "Kit com 4 pratos de bolo Colorex na cor marrom.",
-      "price": 10,
-      "promotionalPrice": 7,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/4-pratos-de-bolo-colorex-marrom-10.webp"
       ]
     },
     {
@@ -567,23 +481,12 @@
       ]
     },
     {
-      "id": 209,
-      "name": "Kit 5 Copos Médios 180 ml Colorex",
-      "description": "Kit com 5 copos médios Colorex com capacidade de 180 ml.",
-      "price": 10,
-      "promotionalPrice": 7,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/kit-5-copos-medios-180ml-colorex-10.webp"
-      ]
-    },
-    {
       "id": 212,
       "name": "Moedor de Café Manual em Vidro",
       "description": "Moedor de café manual com corpo em vidro.",
       "price": 15,
+      "reserved": true,
+      "to": "Phill",
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -592,24 +495,12 @@
       ]
     },
     {
-      "id": 218,
-      "name": "Panela Vermelha com Tampa",
-      "description": "Panela vermelha com tampa e alças pretas, boa para o dia a dia na cozinha.",
-      "price": 7,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/panela-vermelha-com-tampa-7-1.webp",
-        "images/panela-vermelha-com-tampa-7-2.webp"
-      ]
-    },
-    {
       "id": 220,
       "name": "Guarda-Sol Mor 180 cm com Proteção UV",
       "description": "Guarda-sol Mor de 180 cm com proteção UV e estampa tropical colorida, ideal para praia, piscina ou área externa.",
       "price": 20,
       "reserved": true,
+      "to": "Phill",
       "promotionalPrice": 15,
       "condition": "bom estado",
       "category": "Outros",
@@ -624,6 +515,7 @@
       "description": "Kit com 25 canudos de papel estampados em vermelho e branco, com cerca de 21 cm, bons para festas e drinks.",
       "price": 0,
       "reserved": true,
+      "to": "Phill",
       "condition": "novo",
       "category": "Outros",
       "photos": [
@@ -651,6 +543,8 @@
       "price": 0,
       "condition": "bom estado",
       "category": "Outros",
+      "reserved": true,
+      "to": "Phill",
       "photos": [
         "images/luva-para-forno-borracha-e-pano-0.webp"
       ]
@@ -664,17 +558,6 @@
       "category": "Decoração",
       "photos": [
         "images/porta-aromatizador-em-vidro-5.webp"
-      ]
-    },
-    {
-      "id": 226,
-      "name": "Ralador em Inox Mimo Style",
-      "description": "Ralador em inox da Mimo Style, ideal para queijos, alho, noz-moscada e outros preparos em pequenas porções.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/ralador-em-inox-para-queijos-e-graos-mimo-style-5.webp"
       ]
     },
     {
@@ -695,6 +578,8 @@
       "description": "Há 2 unidades na foto, uma com estampa de pantera e outra floral; preço por unidade.",
       "price": 7,
       "condition": "bom estado",
+      "reserved": true,
+      "to": "Phill",
       "category": "Outros",
       "photos": [
         "images/toalhas-de-praia-uma-de-pantera-a-outra-floral-7-cada-1.webp",
