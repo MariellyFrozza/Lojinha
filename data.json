@@ -29,6 +29,7 @@
       "description": "Caneta esferográfica Crown nas cores dourada e azul, com carga lacrada e caixa original.",
       "price": 30,
       "promotionalPrice": 15,
+      "reserved": true,
       "condition": "novo",
       "category": "Outros",
       "photos": [
@@ -448,6 +449,7 @@
       "description": "Abridor elétrico de rolha para vinho, com dosador e abridor de lacre.",
       "price": 20,
       "promotionalPrice": 12,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -752,6 +754,7 @@
       "name": "Termômetro Multilaser Branco Digital",
       "description": "Termômetro digital da marca Multilaser, prático e preciso.",
       "price": 10,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -774,6 +777,7 @@
       "name": "Adaptador de tomada 3 pinos para 2",
       "description": "Adaptador de tomada de 3 pinos para 2 pinos, útil para tomadas antigas.",
       "price": 0,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -799,6 +803,7 @@
       "name": "Binóculo",
       "description": "Binóculo para observação, acompanha capa protetora.",
       "price": 7,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -849,6 +854,167 @@
       "category": "Eletrônicos",
       "photos": [
         "images/extensao-tomada-3-pinos-20a-150cm-7.jpg"
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Cabo coaxial branco 150 cm",
+      "description": "Cabo coaxial branco com 1,5 metro, ideal para conexões de TV e antena.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/cabo-coaxial-branco-150cm-0.webp"
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Kit com 2 cadeados pequenos com chave dupla",
+      "description": "Duas unidades de cadeado pequeno com chave. Preço anunciado é por unidade.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/cadeado-com-chave-dupla-pequeno-duas-unidades-5-cada-1.webp",
+        "images/cadeado-com-chave-dupla-pequeno-duas-unidades-5-cada-2.webp"
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Guarda-chuva azul usado",
+      "description": "Guarda-chuva azul em condição de usado, funcional para o dia a dia.",
+      "price": 0,
+      "condition": "usado",
+      "category": "Outros",
+      "photos": [
+        "images/guarda-chuva-azul-usado-0-1.webp",
+        "images/guarda-chuva-azul-usado-0-2.webp"
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Kit com 2 copos de vidro",
+      "description": "Par de copos de vidro transparentes para uso diário.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/kit-2-copos-vidro-5.webp"
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Kit com 20 lixas Tigre P120 e P060",
+      "description": "Kit com 20 lixas para massa e madeira, com granulações P120 e P060.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/kit-20-lixa-massa-madeira-tigre-p120-p060-0-1.webp",
+        "images/kit-20-lixa-massa-madeira-tigre-p120-p060-0-2.webp"
+      ]
+    },
+    {
+      "id": 257,
+      "name": "Kit com 35 grampos de roupa",
+      "description": "Conjunto com 35 grampos de roupa para uso doméstico.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/kit-35-grampos-7.webp"
+      ]
+    },
+    {
+      "id": 258,
+      "name": "Kit com 2 taças de vinho",
+      "description": "Par de taças de vinho em vidro, ideal para compor mesa posta.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/kit-taca-vinho-2-unidades-15.webp"
+      ]
+    },
+    {
+      "id": 259,
+      "name": "Lençol branco king Conamore Hotelaria",
+      "description": "Lençol branco tamanho king da linha hotelaria Conamore.",
+      "price": 10,
+      "condition": "usado",
+      "category": "Vestuário",
+      "photos": [
+        "images/lencol-branco-king-conamore-usado-hotelaria-10-1.webp",
+        "images/lencol-branco-king-conamore-usado-5-2.webp"
+      ]
+    },
+    {
+      "id": 260,
+      "name": "Lixeira preta em plástico Coza 10L",
+      "description": "Lixeira preta da marca Coza com capacidade de 10 litros.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/lixeira-preta-em-plastico-coza-10l-10-1.webp",
+        "images/lixeira-preta-em-plastico-coza-10l-10-2.webp"
+      ]
+    },
+    {
+      "id": 261,
+      "name": "Peneira inox pequena",
+      "description": "Peneira pequena em aço inox, prática para cozinha.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/peneira-inox-pequena-5.webp"
+      ]
+    },
+    {
+      "id": 262,
+      "name": "Porta detergente e esponja Coza",
+      "description": "Organizador de pia da marca Coza para detergente e esponja.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/porta-detergente-e-esponja-coza-7-1.webp",
+        "images/porta-detergente-e-esponja-coza-7-2.webp"
+      ]
+    },
+    {
+      "id": 263,
+      "name": "Tapete de banheiro rosa",
+      "description": "Tapete de banheiro na cor rosa.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/tapete-de-banheiro-rosa-5.webp"
+      ]
+    },
+    {
+      "id": 264,
+      "name": "Toalha de rosto marrom",
+      "description": "Toalha de rosto marrom para uso diário.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Vestuário",
+      "photos": [
+        "images/toalha-de-rosto-marrom-0.webp"
+      ]
+    },
+    {
+      "id": 265,
+      "name": "Kit com 2 toucas pretas adultas",
+      "description": "Duas toucas pretas de adulto. Preço anunciado é por unidade.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Vestuário",
+      "photos": [
+        "images/touca-preta-adulto-duas-unidades-7-cada-1.webp",
+        "images/touca-preta-adulto-duas-unidades-7-cada-2.webp"
       ]
     }
   ]
