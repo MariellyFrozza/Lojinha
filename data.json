@@ -39,20 +39,6 @@
       ]
     },
     {
-      "id": 52,
-      "name": "Carteira Rosa Grande",
-      "description": "Carteira grande na cor rosa, com alça e acabamento em material PU.",
-      "price": 10,
-      "promotionalPrice": 5,
-      "condition": "bom estado",
-      "category": "Vestuário",
-      "photos": [
-        "images/carteira-rosa-grande1-10.webp",
-        "images/carteira-rosa-grande2-10.webp",
-        "images/carteira-rosa-grande3-10.webp"
-      ]
-    },
-    {
       "id": 54,
       "name": "Ampulheta de Vidro e Madeira Verde",
       "description": "Ampulheta decorativa com estrutura de madeira e vidro com areia verde.",
@@ -88,17 +74,6 @@
       "photos": [
         "images/coleira-rosa-com-guia-para-gato-ou-cachorro-medio1-20.webp",
         "images/coleira-rosa-com-guia-para-gato-ou-cachorro-medio2-20.webp"
-      ]
-    },
-    {
-      "id": 69,
-      "name": "Super Trunfo Grow: Edição Gatos",
-      "description": "Jogo de cartas Super Trunfo Grow, edição Gatos, para partidas rápidas e divertidas em família.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/super-trunfo-grow-edicao-gatos1-5.webp"
       ]
     },
     {
@@ -321,24 +296,12 @@
       ]
     },
     {
-      "id": 192,
-      "name": "Kit com 2 Vasos para Planta Ecológico Marrom",
-      "description": "Kit com 2 vasos para planta em plástico reciclado na cor marrom.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/vaso-para-planta-ecologico-marrom-cada-um-5-1.webp",
-        "images/vaso-para-planta-ecologico-marrom-cada-um-5-2.webp",
-        "images/vaso-para-planta-ecologico-marrom-cada-um-5-3.webp"
-      ]
-    },
-    {
       "id": 193,
       "name": "Máquina de Lavar Midea MA500 13 kg 110V",
       "description": "Máquina de lavar Midea MA500 13 kg, 110V, com boa capacidade para roupas do dia a dia e peças maiores.",
       "price": 1000,
       "promotionalPrice": 850,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -524,17 +487,6 @@
       ]
     },
     {
-      "id": 235,
-      "name": "Jarra Plástica",
-      "description": "Jarra simples de plástico para água ou sucos.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/jarraplastico-0.jpeg"
-      ]
-    },
-    {
       "id": 236,
       "name": "Kit dois livros Bobbie Goods e canetinhas",
       "description": "Kit contendo dois livros para colorir Bobbie Goods e conjunto de canetinhas.",
@@ -590,21 +542,9 @@
       ]
     },
     {
-      "id": 241,
-      "name": "Pote Gato Plástico",
-      "description": "Pote plástico decorado com tema de gato, útil para armazenamento.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/potegato-plastico-0.jpeg",
-        "images/potegato-plastico-0-2.jpeg"
-      ]
-    },
-    {
       "id": 242,
-      "name": "Tapete Branco Crochê",
-      "description": "Tapete artesanal feito em crochê na cor branca.",
+      "name": "Saída de Praia em Crochê Refinado",
+      "description": "Saída de praia em crochê refinado",
       "price": 10,
       "condition": "bom estado",
       "category": "Decoração",
@@ -734,8 +674,8 @@
       "id": 253,
       "name": "Kit com 2 cadeados pequenos com chave dupla",
       "description": "Duas unidades de cadeado pequeno com chave. Preço anunciado é por unidade.",
-      "price": 5,
-      "condition": "bom estado",
+      "price": 10,
+      "condition": "novo",
       "category": "Outros",
       "photos": [
         "images/cadeado-com-chave-dupla-pequeno-duas-unidades-5-cada-1.webp",
