@@ -880,6 +880,63 @@
         "images/colcha-cinza-cortex-king-20-1.webp",
         "images/colcha-cinza-cortex-king-20-2.webp"
       ]
+    },
+    {
+      "id": 267,
+      "name": "Aspirador de Pó WAP",
+      "description": "Aspirador de pó WAP funcional, porém não possui o adaptador de chão (funciona apenas no modo bico).",
+      "price": 45,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/aspirador-de-po-wap-apenas-bico-45.jpeg",
+        "images/aspirador-de-po-wap-apenas-bico-45-2.jpeg"
+      ]
+    },
+    {
+      "id": 268,
+      "name": "Faca Azul",
+      "description": "Faca de cozinha com cabo na cor azul, útil para o dia a dia.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/faca-azul-0.jpeg"
+      ]
+    },
+    {
+      "id": 269,
+      "name": "Kit com 2 Potes Sanremo",
+      "description": "Conjunto com dois potes plásticos da marca Sanremo, ideais para armazenar alimentos.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/kit-dois-pote-sanremo-7.jpeg"
+      ]
+    },
+    {
+      "id": 270,
+      "name": "Kit de Facas Inox",
+      "description": "Kit com facas em aço inox, resistentes e práticas para a cozinha.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/kit-facas-inox-5.jpeg"
+      ]
+    },
+    {
+      "id": 271,
+      "name": "Mini Processador de Alimentos Lenoxx",
+      "description": "Mini processador de alimentos da marca Lenoxx, compacto e eficiente para picar temperos e pequenos alimentos.",
+      "price": 40,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/mini-processador-de-alimentos-lenoxx-40-2.jpeg",
+        "images/mini-processador-de-alimentos-lenoxx-40-3.jpeg"
+      ]
     }
   ]
 }
