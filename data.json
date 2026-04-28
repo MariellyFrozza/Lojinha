@@ -907,6 +907,117 @@
         "images/mini-processador-de-alimentos-lenoxx-40-2.jpeg",
         "images/mini-processador-de-alimentos-lenoxx-40-3.jpeg"
       ]
+    },
+    {
+      "id": 272,
+      "name": "Balde abóbora Doces",
+      "description": "Balde decorativo em formato de abóbora, ideal para servir doces, balas e guloseimas em festas temáticas, especialmente Halloween ou outras comemorações.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/balde-abobora-doces-0.webp"
+      ]
+    },
+    {
+      "id": 273,
+      "name": "Bolsa Adidas Modelo Good Tote Sol",
+      "description": "Bolsa modelo tote da Adidas na cor sol/areia. Espaçosa e versátil, ótima para o dia a dia, academia ou passeios. Item usado, mas em bom estado de conservação.",
+      "price": 25,
+      "condition": "usado",
+      "category": "Outros",
+      "photos": [
+        "images/bolsa-adidas-modelo-good-tote-sol-25.webp"
+      ]
+    },
+    {
+      "id": 274,
+      "name": "Caneca de vidro Calcutá 172 ml",
+      "description": "Caneca de vidro transparente modelo Calcutá com capacidade de 172 ml. Design elegante e resistente, perfeita para café, chá ou outras bebidas quentes.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/caneca-de-vidro-calcuta-172-ml-0.webp"
+      ]
+    },
+    {
+      "id": 275,
+      "name": "Canecas Vidro Transparente (250 ml)Linha Nadir",
+      "description": "Canecas de vidro transparente com capacidade de 250 ml, da linha Nadir. Práticas e resistentes, ideais para o uso diário em casa ou no escritório.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/canecas-vidro-transparente-250-ml-linha-nadir-5.webp"
+      ]
+    },
+    {
+      "id": 276,
+      "name": "Canecas de vidro texturizadas espinha   de peixe (250 ml)Linha Luminarc Amadea",
+      "description": "Canecas de vidro texturizadas com padrão espinha de peixe, capacidade de 250 ml, da linha Amadea da Luminarc. Design moderno e sofisticado para mesas especiais ou uso cotidiano.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/canecas-de-vidro-texturizadas-espinha-de-peixe-250-ml-linha-luminarc-amadea-7.webp"
+      ]
+    },
+    {
+      "id": 277,
+      "name": "Cesta organizadora Dimensões 15 X 19 X 7",
+      "description": "Cesta organizadora com dimensões 15 x 19 x 7 cm, ideal para organizar gavetas, armários, bancadas ou closets. Compacta e funcional.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/cesta-organizadora-dimensoes-15-x-19-x-7-0.webp"
+      ]
+    },
+    {
+      "id": 278,
+      "name": "Copo multifuncional (150 ml)",
+      "description": "Copo multifuncional com capacidade de 150 ml. Versátil para diferentes usos na cozinha, mesa posta ou preparo de pequenas porções.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/copo-multifuncional-150-ml-0.webp"
+      ]
+    },
+    {
+      "id": 279,
+      "name": "Faqueiro Inox (36 peças)-brinox",
+      "description": "Faqueiro completo em aço inox com 36 peças da marca Brinox. Inclui facas, garfos, colheres de mesa e talheres de serviço, ideais para o dia a dia ou recepções.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/faqueiro-inox-36-pecas-brinox-20.webp"
+      ]
+    },
+    {
+      "id": 280,
+      "name": "Frigideira Wok Alumínio Multiflon Essencial (28 cm diâmetro)",
+      "description": "Frigideira tipo wok em alumínio da Multiflon, linha Essencial, com 28 cm de diâmetro. Possui revestimento antiaderente de qualidade, ideal para preparar refogados, salteados e pratos orientais.",
+      "price": 7,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/frigideira-wok-aluminio-multiflon-essencial-28-cm-diametro-7.webp"
+      ]
+    },
+    {
+      "id": 281,
+      "name": "kit-5-Taças Linha Lírio Vidro Cristalino300 ml",
+      "description": "Kit com 5 taças de vidro cristalino da linha Lírio, com capacidade de 300 ml cada. Elegantes e sofisticadas, perfeitas para servir sucos, refrigerantes, drinks ou sobremesas.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/kit-5-tacas-linha-lirio-vidro-cristalino300-ml-20-1.webp",
+        "images/kit-5-tacas-linha-lirio-vidro-cristalino300-ml-20-2.webp"
+      ]
     }
   ]
 }
