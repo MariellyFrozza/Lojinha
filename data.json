@@ -15,6 +15,8 @@
       "name": "Bolsa Impermeável com alça",
       "description": "Cabem 3 celulares e uma carteira. Nunca utilizados. 2 unidades disponíveis",
       "price": 15,
+      "reserved": true,
+      "to": "Loh Compras",
       "promotionalPrice": 10,
       "condition": "novo",
       "category": "Outros",
@@ -144,6 +146,8 @@
       "name": "Enfeite Cacto \"Lembrei de Você\" em Madeira",
       "description": "Enfeite em madeira com tema de cacto e frase decorativa \"Lembrei de você\".",
       "price": 0,
+      "reserved": true,
+      "to": "Loh Compras",
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -186,6 +190,8 @@
       "name": "Porta-Retrato Branco 12 x 8 cm",
       "description": "Porta-retrato branco com moldura lisa, ideal para fotos pequenas em mesa, rack ou aparador.",
       "price": 5,
+      "reserved": true,
+      "to": "Loh Compras",
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -208,6 +214,8 @@
       "name": "Carrinho Picape Preta",
       "description": "Carrinho de brinquedo em formato de picape preta, com visual esportivo e acabamento fosco.",
       "price": 5,
+      "reserved": true,
+      "to": "Loh Compras",
       "condition": "bom estado",
       "category": "Brinquedos",
       "photos": [
@@ -265,6 +273,8 @@
       "name": "Batedor de Claras Grande em Inox",
       "description": "Batedor de claras grande em inox, bom para massas leves, ovos, cremes e preparo do dia a dia.",
       "price": 5,
+      "reserved": true,
+      "to": "Rodrigo Bacacheri",
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -371,6 +381,8 @@
       "name": "Kit 1 Prato + 3 Pires Oxford Today",
       "description": "Kit com 1 prato e 3 pires da linha Oxford Today.",
       "price": 10,
+      "reserved": true,
+      "to": "Loh Compras",
       "promotionalPrice": 7,
       "condition": "bom estado",
       "category": "Outros",
@@ -480,6 +492,8 @@
       "name": "Copo Martini",
       "description": "Copo clássico para drinks tipo Martini ou coquetéis.",
       "price": 5,
+      "reserved": true,
+      "to": "Rodrigo Bacacheri",
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -546,6 +560,8 @@
       "name": "Saída de Praia em Crochê Refinado",
       "description": "Saída de praia em crochê refinado",
       "price": 10,
+      "reserved": true,
+      "to": "Loh Compras",
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -569,6 +585,8 @@
       "name": "Copos e xícaras em vidro",
       "description": "Conjunto de copos e xícaras em vidro.",
       "price": 10,
+      "reserved": true,
+      "to": "Loh Compras",
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -687,6 +705,8 @@
       "name": "Guarda-chuva azul usado",
       "description": "Guarda-chuva azul em condição de usado, funcional para o dia a dia.",
       "price": 0,
+      "reserved": true,
+      "to": "Loh Compras",
       "condition": "usado",
       "category": "Outros",
       "photos": [
@@ -711,6 +731,8 @@
       "description": "Kit com 20 lixas para massa e madeira, com granulações P120 e P060.",
       "price": 0,
       "condition": "bom estado",
+      "reserved": true,
+      "to": "Rodrigo Bacacheri",
       "category": "Outros",
       "photos": [
         "images/kit-20-lixa-massa-madeira-tigre-p120-p060-0-1.webp",
@@ -780,6 +802,8 @@
       "name": "Tapete de banheiro rosa",
       "description": "Tapete de banheiro na cor rosa.",
       "price": 5,
+      "reserved": true,
+      "to": "Loh Compras",
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -791,6 +815,8 @@
       "name": "Toalha de rosto marrom",
       "description": "Toalha de rosto marrom para uso diário.",
       "price": 0,
+      "reserved": true,
+      "to": "Loh Compras",
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
@@ -838,6 +864,8 @@
       "name": "Faca Azul",
       "description": "Faca de cozinha com cabo na cor azul, útil para o dia a dia.",
       "price": 0,
+      "reserved": true,
+      "to": "Loh Compras",
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -849,6 +877,8 @@
       "name": "Kit com 2 Potes Sanremo",
       "description": "Conjunto com dois potes plásticos da marca Sanremo, ideais para armazenar alimentos.",
       "price": 7,
+      "reserved": true,
+      "to": "Loh Compras",
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
