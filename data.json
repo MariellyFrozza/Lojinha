@@ -791,7 +791,7 @@
     {
       "id": 259,
       "name": "Lençol branco king Conamore Hotelaria",
-      "description": "Lençol branco tamanho king da linha hotelaria Conamore.",
+      "description": "Lençol branco tamanho king da linha hotelaria Conamore. 2 unidades disponíveis.",
       "price": 10,
       "condition": "usado",
       "category": "Vestuário",
@@ -867,6 +867,18 @@
       "photos": [
         "images/touca-preta-adulto-duas-unidades-7-cada-1.webp",
         "images/touca-preta-adulto-duas-unidades-7-cada-2.webp"
+      ]
+    },
+    {
+      "id": 266,
+      "name": "Colcha cinza Cortex king",
+      "description": "Colcha tamanho king na cor cinza, da marca Cortex.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Vestuário",
+      "photos": [
+        "images/colcha-cinza-cortex-king-20-1.webp",
+        "images/colcha-cinza-cortex-king-20-2.webp"
       ]
     }
   ]
