@@ -297,59 +297,6 @@
       ]
     },
     {
-      "id": 160,
-      "name": "Utensílio de Nylon (unidade)",
-      "description": "Utensílio de cozinha em nylon. Há peças variadas na foto; preço por unidade.",
-      "price": 3,
-      "reserved": true,
-      "to": "Phill",
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/colheres-de-nylon-unidade-3.webp"
-      ]
-    },
-    {
-      "id": 161,
-      "name": "Forma de Sorvete Ursinho Pooh",
-      "description": "Forma plástica para sorvete ou picolé caseiro com tema Ursinho Pooh, simples de usar e fácil de lavar.",
-      "price": 0,
-      "reserved": true,
-      "to": "Phill",
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/forma-de-sorvete-ursinho-pooh-0.webp"
-      ]
-    },
-    {
-      "id": 165,
-      "name": "Pegador Inox",
-      "description": "Pegador simples em inox, útil para servir alimentos, saladas ou churrasco.",
-      "price": 5,
-      "to": "Wagner Treviso",
-      "condition": "bom estado",
-      "reserved": true,
-      "category": "Outros",
-      "photos": [
-        "images/pegador-inox-5.webp"
-      ]
-    },
-    {
-      "id": 168,
-      "name": "Caneca Oktoberfest Blumenau em Alumínio com Tirante",
-      "description": "Caneca de alumínio da Oktoberfest Blumenau com tirante, boa para coleção, fantasia ou decoração.",
-      "price": 0,
-      "reserved": true,
-      "to": "Wagner Treviso",
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/caneca-oktoberfest-blumenau-aluminio-com-tirante-0-1.webp",
-        "images/caneca-oktoberfest-blumenau-aluminio-com-tirante-0-2.webp"
-      ]
-    },
-    {
       "id": 176,
       "name": "Amigurumi Panda Artesanal",
       "description": "Amigurumi artesanal em formato de panda, feito em crochê, ótimo para presentear ou decorar.",
@@ -444,20 +391,6 @@
       ]
     },
     {
-      "id": 206,
-      "name": "Abridor de Rolha de Vinho Elétrico Luatek",
-      "description": "Abridor elétrico de rolha para vinho, com dosador e abridor de lacre.",
-      "price": 20,
-      "promotionalPrice": 12,
-      "reserved": true,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/abridor-de-rolha-de-vinho-eletrico-a-pilha-com-dosador-e-abridor-de-lacre-LUATEK-20-1.webp",
-        "images/abridor-de-rolha-de-vinho-eletrico-a-pilha-com-dosador-e-abridor-de-lacre-LUATEK-20-2.webp"
-      ]
-    },
-    {
       "id": 207,
       "name": "Bolsa Térmica Preta com Zíper",
       "description": "Bolsa térmica preta com revestimento térmico interno e fechamento em zíper.",
@@ -484,48 +417,6 @@
       ]
     },
     {
-      "id": 212,
-      "name": "Moedor de Café Manual em Vidro",
-      "description": "Moedor de café manual com corpo em vidro.",
-      "price": 15,
-      "reserved": true,
-      "to": "Phill",
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/moedor-de-cafe-em-vidro-manual-15-1.webp",
-        "images/moedor-de-cafe-em-vidro-manual-15-2.webp"
-      ]
-    },
-    {
-      "id": 220,
-      "name": "Guarda-Sol Mor 180 cm com Proteção UV",
-      "description": "Guarda-sol Mor de 180 cm com proteção UV e estampa tropical colorida, ideal para praia, piscina ou área externa.",
-      "price": 20,
-      "reserved": true,
-      "to": "Phill",
-      "promotionalPrice": 15,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/guarda-sol-mor-180cm-protecao-uv-florido-20-1.webp",
-        "images/guarda-sol-mor-180cm-protecao-uv-florido-20-2.webp"
-      ]
-    },
-    {
-      "id": 221,
-      "name": "Kit com 25 Canudos de Papel Vermelhos",
-      "description": "Kit com 25 canudos de papel estampados em vermelho e branco, com cerca de 21 cm, bons para festas e drinks.",
-      "price": 0,
-      "reserved": true,
-      "to": "Phill",
-      "condition": "novo",
-      "category": "Outros",
-      "photos": [
-        "images/canudos-de-papel-vermelhos-0.webp"
-      ]
-    },
-    {
       "id": 223,
       "name": "Incensário de Vidro Preto e Dourado Lua",
       "description": "Incensário de vidro com estampa celestial em preto e dourado e apoio central para vareta de incenso.",
@@ -537,19 +428,6 @@
         "images/incensario-preto-e-dourado-em-vidro-lua-10-1.webp",
         "images/incensario-preto-e-dourado-em-vidro-lua-10-2.webp",
         "images/incensario-preto-e-dourado-em-vidro-lua-10-3.webp"
-      ]
-    },
-    {
-      "id": 224,
-      "name": "Luva para Forno em Silicone e Tecido",
-      "description": "Luva térmica preta com parte em silicone texturizado e acabamento em tecido, boa para manusear formas e assadeiras.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Outros",
-      "reserved": true,
-      "to": "Phill",
-      "photos": [
-        "images/luva-para-forno-borracha-e-pano-0.webp"
       ]
     },
     {
@@ -573,21 +451,6 @@
       "photos": [
         "images/tabua-de-corte-em-itauba-artesanal-7-2.webp",
         "images/tabua-de-corte-em-itauba-artesanal-7-1.webp"
-      ]
-    },
-    {
-      "id": 228,
-      "name": "Toalha de Praia Estampada (unidade)",
-      "description": "Há 2 unidades na foto, uma com estampa de pantera e outra floral; preço por unidade.",
-      "price": 7,
-      "condition": "bom estado",
-      "reserved": true,
-      "to": "Phill",
-      "category": "Outros",
-      "photos": [
-        "images/toalhas-de-praia-uma-de-pantera-a-outra-floral-7-cada-1.webp",
-        "images/toalhas-de-praia-uma-de-pantera-a-outra-floral-7-cada-2.webp",
-        "images/toalhas-de-praia-uma-de-pantera-a-outra-floral-7-cada-3.webp"
       ]
     },
     {
@@ -923,17 +786,6 @@
       "category": "Outros",
       "photos": [
         "images/kit-35-grampos-7.webp"
-      ]
-    },
-    {
-      "id": 258,
-      "name": "Kit com 2 taças de vinho",
-      "description": "Par de taças de vinho em vidro, ideal para compor mesa posta.",
-      "price": 15,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/kit-taca-vinho-2-unidades-15.webp"
       ]
     },
     {
