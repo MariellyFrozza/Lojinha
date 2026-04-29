@@ -496,6 +496,8 @@
       "name": "Par de fronhas com travesseiro e fronhas",
       "description": "Par de fronhas acompanhado de travesseiro e fronhas adicionais.",
       "price": 7,
+      "reserved": true,
+      "to": "Moça academia mae",
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
