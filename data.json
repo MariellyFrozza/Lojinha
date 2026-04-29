@@ -58,6 +58,8 @@
       "description": "Caixa organizadora de acrílico para cápsulas de café Nescafé, Nespresso e Três Corações.",
       "price": 10,
       "promotionalPrice": 5,
+      "reserved": true,
+      "to": "Moça Phill",
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -111,6 +113,8 @@
       "description": "Luminária articulada de mesa estilo Pixar, na cor vermelha, com base redonda e lâmpada smart inclusa.",
       "price": 40,
       "promotionalPrice": 30,
+      "reserved": true,
+      "to": "Moça academia mae",
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -348,22 +352,6 @@
       ]
     },
     {
-      "id": 204,
-      "name": "Volante Logitech G923 TrueForce com Pedais para PC, PS4 e PS5",
-      "description": "Volante Logitech G923 TrueForce com conjunto de pedais, compatível com PC, PS4 e PS5, bom para jogos de corrida com mais imersão.",
-      "price": 1900,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-1.webp",
-        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-2.webp",
-        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-3.webp",
-        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-4.webp",
-        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-5.webp",
-        "images/volante-g923-trueforce-logitech-com-pedais-para-pc-ps4-ps5-2000-6.webp"
-      ]
-    },
-    {
       "id": 207,
       "name": "Bolsa Térmica Preta com Zíper",
       "description": "Bolsa térmica preta com revestimento térmico interno e fechamento em zíper.",
@@ -534,17 +522,6 @@
       ]
     },
     {
-      "id": 239,
-      "name": "Panela Vermelha Grande",
-      "description": "Panela grande na cor vermelha com revestimento interno.",
-      "price": 15,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/panelaVermelha-grande-15.jpeg"
-      ]
-    },
-    {
       "id": 240,
       "name": "Par de fronhas com travesseiro e fronhas",
       "description": "Par de fronhas acompanhado de travesseiro e fronhas adicionais.",
@@ -655,18 +632,6 @@
       ]
     },
     {
-      "id": 250,
-      "name": "Carrinho de carga em ferro desmontável (1 pneu murcho)",
-      "description": "Carrinho de carga robusto em ferro, desmontável. Atenção: um dos pneus está murcho.",
-      "price": 90,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/carrinho-de-carga-em-ferro-desmontavel-1-pneu-murcho1.jpg",
-        "images/carrinho-de-carga-em-ferro-desmontavel-1-pneu-murcho2.jpg"
-      ]
-    },
-    {
       "id": 251,
       "name": "Extensão de tomada 3 pinos 20A 150cm",
       "description": "Extensão de tomada reforçada (20A) com 1,5 metros de comprimento.",
@@ -756,6 +721,8 @@
       "description": "Lençol branco tamanho king da linha hotelaria Conamore. 2 unidades disponíveis.",
       "price": 10,
       "condition": "usado",
+      "reserved": true,
+      "to": "Moça Phill",
       "category": "Vestuário",
       "photos": [
         "images/lencol-branco-king-conamore-usado-hotelaria-10-1.webp",
@@ -781,6 +748,8 @@
       "price": 5,
       "condition": "bom estado",
       "category": "Outros",
+      "reserved": true,
+      "to": "Moça Phill",
       "photos": [
         "images/peneira-inox-pequena-5.webp"
       ]
@@ -841,6 +810,8 @@
       "description": "Colcha tamanho king na cor cinza, da marca Cortex.",
       "price": 20,
       "condition": "bom estado",
+      "reserved": true,
+      "to": "Moça Phill",
       "category": "Vestuário",
       "photos": [
         "images/colcha-cinza-cortex-king-20-1.webp",
@@ -891,6 +862,8 @@
       "description": "Kit com facas em aço inox, resistentes e práticas para a cozinha.",
       "price": 5,
       "condition": "bom estado",
+      "reserved": true,
+      "to": "Moça Phill",
       "category": "Outros",
       "photos": [
         "images/kit-facas-inox-5.jpeg"
@@ -914,6 +887,8 @@
       "description": "Balde decorativo em formato de abóbora, ideal para servir doces, balas e guloseimas em festas temáticas, especialmente Halloween ou outras comemorações.",
       "price": 0,
       "condition": "bom estado",
+      "reserved": true,
+      "to": "Moça Phill",
       "category": "Decoração",
       "photos": [
         "images/balde-abobora-doces-0.webp"
@@ -936,20 +911,11 @@
       "description": "Caneca de vidro transparente modelo Calcutá com capacidade de 172 ml. Design elegante e resistente, perfeita para café, chá ou outras bebidas quentes.",
       "price": 0,
       "condition": "bom estado",
+      "reserved": true,
+      "to": "Moça Phill",
       "category": "Outros",
       "photos": [
         "images/caneca-de-vidro-calcuta-172-ml-0.webp"
-      ]
-    },
-    {
-      "id": 275,
-      "name": "Canecas Vidro Transparente (250 ml)Linha Nadir",
-      "description": "Canecas de vidro transparente com capacidade de 250 ml, da linha Nadir. Práticas e resistentes, ideais para o uso diário em casa ou no escritório.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/canecas-vidro-transparente-250-ml-linha-nadir-5.webp"
       ]
     },
     {
@@ -969,20 +935,11 @@
       "description": "Cesta organizadora com dimensões 15 x 19 x 7 cm, ideal para organizar gavetas, armários, bancadas ou closets. Compacta e funcional.",
       "price": 0,
       "condition": "bom estado",
+      "reserved": true,
+      "to": "Moça Phill",
       "category": "Outros",
       "photos": [
         "images/cesta-organizadora-dimensoes-15-x-19-x-7-0.webp"
-      ]
-    },
-    {
-      "id": 278,
-      "name": "Copo multifuncional (150 ml)",
-      "description": "Copo multifuncional com capacidade de 150 ml. Versátil para diferentes usos na cozinha, mesa posta ou preparo de pequenas porções.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/copo-multifuncional-150-ml-0.webp"
       ]
     },
     {
@@ -990,6 +947,8 @@
       "name": "Faqueiro Inox (36 peças)-brinox",
       "description": "Faqueiro completo em aço inox com 36 peças da marca Brinox. Inclui facas, garfos, colheres de mesa e talheres de serviço, ideais para o dia a dia ou recepções.",
       "price": 20,
+      "reserved": true,
+      "to": "Moça Phill",
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -1002,6 +961,8 @@
       "description": "Frigideira tipo wok em alumínio da Multiflon, linha Essencial, com 28 cm de diâmetro. Possui revestimento antiaderente de qualidade, ideal para preparar refogados, salteados e pratos orientais.",
       "price": 7,
       "condition": "bom estado",
+      "reserved": true,
+      "to": "Moça Phill",
       "category": "Outros",
       "photos": [
         "images/frigideira-wok-aluminio-multiflon-essencial-28-cm-diametro-7.webp"
