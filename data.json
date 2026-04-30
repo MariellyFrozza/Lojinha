@@ -217,6 +217,7 @@
       "name": "Restaurador de Vidros Automotivos Vonixx Prizm",
       "description": "Produto Vonixx Prizm para restauração de vidros automotivos, com menos de um terço utilizado e bastante conteúdo restante.",
       "price": 10,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -300,7 +301,6 @@
       "description": "Máquina de lavar Midea MA500 13 kg, 110V, com boa capacidade para roupas do dia a dia e peças maiores.",
       "price": 1000,
       "promotionalPrice": 850,
-      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -434,18 +434,6 @@
       ]
     },
     {
-      "id": 233,
-      "name": "Copo Caveira GG",
-      "description": "Copo decorativo em formato de caveira, tamanho grande.",
-      "price": 7,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/copocaveiraGG-7.jpeg",
-        "images/copocaveiraGG2-7.jpeg"
-      ]
-    },
-    {
       "id": 234,
       "name": "Copo Martini",
       "description": "Copo clássico para drinks tipo Martini ou coquetéis.",
@@ -471,9 +459,9 @@
     },
     {
       "id": 237,
-      "name": "Kit xícaras de vidro",
-      "description": "Kit com xícaras de vidro transparente, ideais para café ou chá.",
-      "price": 7,
+      "name": "Xícara de vidro",
+      "description": "Apenas uma unidade disponível.",
+      "price": 3,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -565,39 +553,6 @@
       "category": "Eletrônicos",
       "photos": [
         "images/cabo-hdmi-0.jpg"
-      ]
-    },
-    {
-      "id": 249,
-      "name": "Carregador Tipo-C Motorola",
-      "description": "Carregador original Motorola com saída USB Tipo-C.",
-      "price": 15,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/carregador-tipo-c-motorola-15.jpg"
-      ]
-    },
-    {
-      "id": 251,
-      "name": "Extensão de tomada 3 pinos 20A 150cm",
-      "description": "Extensão de tomada reforçada (20A) com 1,5 metros de comprimento.",
-      "price": 7,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/extensao-tomada-3-pinos-20a-150cm-7.jpg"
-      ]
-    },
-    {
-      "id": 252,
-      "name": "Cabo coaxial branco 150 cm",
-      "description": "Cabo coaxial branco com 1,5 metro, ideal para conexões de TV e antena.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/cabo-coaxial-branco-150cm-0.webp"
       ]
     },
     {
@@ -741,9 +696,9 @@
     },
     {
       "id": 265,
-      "name": "Kit com 2 toucas pretas adultas",
-      "description": "Duas toucas pretas de adulto. Preço anunciado é por unidade.",
-      "price": 7,
+      "name": "Touca preta",
+      "description": "Touca preta de adulto. 5 reais cada.",
+      "price": 5,
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
@@ -863,17 +818,6 @@
       "category": "Outros",
       "photos": [
         "images/caneca-de-vidro-calcuta-172-ml-0.webp"
-      ]
-    },
-    {
-      "id": 276,
-      "name": "Canecas de vidro texturizadas espinha   de peixe (250 ml)Linha Luminarc Amadea",
-      "description": "Canecas de vidro texturizadas com padrão espinha de peixe, capacidade de 250 ml, da linha Amadea da Luminarc. Design moderno e sofisticado para mesas especiais ou uso cotidiano.",
-      "price": 7,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/canecas-de-vidro-texturizadas-espinha-de-peixe-250-ml-linha-luminarc-amadea-7.webp"
       ]
     },
     {
