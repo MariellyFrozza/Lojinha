@@ -94,8 +94,7 @@
       "id": 92,
       "name": "Suporte de TV ELG",
       "description": "Suporte de parede ELG com peças metálicas, parafusos e espaçadores para instalação de TV ou monitor compatível.",
-      "price": 15,
-      "promotionalPrice": 10,
+      "price": 5,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -138,13 +137,14 @@
       "category": "Outros",
       "photos": [
         "images/serra-madeira-com-arco-usada-20.webp"
-      ]
+      ],
+      "promotionalPrice": 5
     },
     {
       "id": 158,
       "name": "Kit com 2 Xícaras de Vidro Nescafé Dolce Gusto",
       "description": "Kit com 2 xícaras de vidro Nescafé Dolce Gusto com alça transparente.",
-      "price": 15,
+      "price": 10,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -246,7 +246,7 @@
       "name": "Controle TGT USB para Xbox e PC",
       "description": "Controle TGT com cabo USB, compatível com Xbox e PC, em excelente estado e sem drift.",
       "price": 25,
-      "promotionalPrice": 20,
+      "promotionalPrice": 15,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -338,9 +338,9 @@
     },
     {
       "id": 253,
-      "name": "Kit com 2 cadeados pequenos com chave dupla",
-      "description": "Duas unidades de cadeado pequeno com chave. Preço anunciado é por unidade.",
-      "price": 10,
+      "name": "Cadeado pequeno com chave dupla",
+      "description": "Duas unidades de cadeado pequeno com chave. Preço anunciado é por unidade. 2 unidades disponíveis.",
+      "price": 5,
       "condition": "novo",
       "category": "Outros",
       "photos": [
@@ -457,7 +457,8 @@
       "photos": [
         "images/aspirador-de-po-wap-apenas-bico-45.jpeg",
         "images/aspirador-de-po-wap-apenas-bico-45-2.jpeg"
-      ]
+      ],
+      "promotionalPrice": 30
     },
     {
       "id": 270,
@@ -482,7 +483,8 @@
       "photos": [
         "images/mini-processador-de-alimentos-lenoxx-40-2.jpeg",
         "images/mini-processador-de-alimentos-lenoxx-40-3.jpeg"
-      ]
+      ],
+      "promotionalPrice": 30
     },
     {
       "id": 272,
@@ -570,6 +572,65 @@
       "photos": [
         "images/kit-5-tacas-linha-lirio-vidro-cristalino300-ml-20-1.webp",
         "images/kit-5-tacas-linha-lirio-vidro-cristalino300-ml-20-2.webp"
+      ]
+    },
+    {
+      "id": 282,
+      "name": "Arranhador Gatos Grande Para Parede",
+      "description": "Arranhador grande para gatos, ideal para instalar na parede. Perfeito para gatos de todos os tamanhos brincarem e afiarem as unhas.",
+      "price": 10,
+      "condition": "novo",
+      "category": "Outros",
+      "photos": [
+        "images/arranhador-gatos-grande-para-parede-10-1.webp",
+        "images/arranhador-gatos-grande-para-parede-10-2.webp"
+      ]
+    },
+    {
+      "id": 283,
+      "name": "Baqueta para percussão pouco usada",
+      "description": "Baqueta para percussão em bom estado de conservação. Pouco utilizada, ideal para bateria ou prática musical.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/baqueta-para-percussao-pouco-usada-0.webp"
+      ]
+    },
+    {
+      "id": 284,
+      "name": "Caixa De Som Para Computador Usb Philips Branca",
+      "description": "Caixa de som Philips branca para computador, conexão USB. Compacta e prática para uso no dia a dia.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/caixa-de-som-para-computador-usb-philips-branca-0-2.webp",
+        "images/caixa-de-som-para-computador-usb-philips-branca-0-1.webp"
+      ]
+    },
+    {
+      "id": 285,
+      "name": "Controle remoto universal de ar condicionado",
+      "description": "Controle remoto universal compatível com diversos modelos de ar condicionado. Prático e fácil de configurar.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/controle-remoto-universal-de-ar-condicionado-0.webp"
+      ]
+    },
+    {
+      "id": 286,
+      "name": "Kit Jogo Americano 6 Lugares",
+      "description": "Kit com jogo americano para 6 lugares. Ideal para organizar e decorar a mesa de jantar.",
+      "price": 10,
+      "condition": "novo",
+      "category": "Outros",
+      "photos": [
+        "images/kit-jogo-americano-6-lugares-10-1.webp",
+        "images/kit-jogo-americano-6-lugares-10-2.webp",
+        "images/kit-jogo-americano-6-lugares-10-3.webp"
       ]
     }
   ]
