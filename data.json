@@ -58,6 +58,8 @@
       "description": "Coleira rosa com guia, indicada para gatos ou cães de porte médio.",
       "price": 20,
       "promotionalPrice": 10,
+      "reserved": true,
+      "to": "sogra",
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -355,6 +357,8 @@
       "description": "Incensário de vidro com estampa celestial em preto e dourado e apoio central para vareta de incenso.",
       "price": 10,
       "promotionalPrice": 5,
+      "reserved": true,
+      "to": "sogra",
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -861,7 +865,7 @@
     },
     {
       "id": 281,
-      "name": "kit-5-Taças Linha Lírio Vidro Cristalino300 ml",
+      "name": "Kit com 5 Taças Linha Lírio Vidro Cristalino 300 ml",
       "description": "Kit com 5 taças de vidro cristalino da linha Lírio, com capacidade de 300 ml cada. Elegantes e sofisticadas, perfeitas para servir sucos, refrigerantes, drinks ou sobremesas.",
       "price": 20,
       "condition": "bom estado",
