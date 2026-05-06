@@ -129,7 +129,6 @@
         "images/porta-retrato-branco-e-dourado-14x9-5.webp"
       ]
     },
-
     {
       "id": 158,
       "name": "Kit com 2 Xícaras de Vidro Nescafé Dolce Gusto",
@@ -179,7 +178,6 @@
         "images/cabos-de-rede-ethernet-cat5e-60cm-0.webp"
       ]
     },
-
     {
       "id": 207,
       "name": "Bolsa Térmica Preta com Zíper",
@@ -234,7 +232,6 @@
         "images/controle-xbox-e-pc-tgt-usb-excelente-sem-drift-25-2.webp"
       ]
     },
-
     {
       "id": 231,
       "name": "Carregador de Pilha AAA",
@@ -253,8 +250,6 @@
       "name": "Copo Martini",
       "description": "Copo clássico para drinks tipo Martini ou coquetéis.",
       "price": 5,
-      "reserved": true,
-      "to": "Rodrigo Bacacheri",
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -308,19 +303,6 @@
       ]
     },
     {
-      "id": 253,
-      "name": "Cadeado pequeno com chave dupla",
-      "description": "Duas unidades de cadeado pequeno com chave. Preço anunciado é por unidade. 2 unidades disponíveis.",
-      "price": 5,
-      "reserved": true,
-      "condition": "novo",
-      "category": "Outros",
-      "photos": [
-        "images/cadeado-com-chave-dupla-pequeno-duas-unidades-5-cada-1.webp",
-        "images/cadeado-com-chave-dupla-pequeno-duas-unidades-5-cada-2.webp"
-      ]
-    },
-    {
       "id": 255,
       "name": "Kit com 2 copos de vidro",
       "description": "Par de copos de vidro transparentes para uso diário.",
@@ -331,7 +313,6 @@
         "images/kit-2-copos-vidro-5.webp"
       ]
     },
-
     {
       "id": 259,
       "name": "Lençol branco king Conamore Hotelaria",
@@ -528,18 +509,7 @@
         "images/frigideira-wok-aluminio-multiflon-essencial-28-cm-diametro-7.webp"
       ]
     },
-    {
-      "id": 281,
-      "name": "Kit com 5 Taças Linha Lírio Vidro Cristalino 300 ml",
-      "description": "Kit com 5 taças de vidro cristalino da linha Lírio, com capacidade de 300 ml cada. Elegantes e sofisticadas, perfeitas para servir sucos, refrigerantes, drinks ou sobremesas.",
-      "price": 20,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/kit-5-tacas-linha-lirio-vidro-cristalino300-ml-20-1.webp",
-        "images/kit-5-tacas-linha-lirio-vidro-cristalino300-ml-20-2.webp"
-      ]
-    },
+
     {
       "id": 282,
       "name": "Arranhador Gatos Grande Para Parede",
@@ -601,6 +571,124 @@
         "images/kit-jogo-americano-6-lugares-10-1.webp",
         "images/kit-jogo-americano-6-lugares-10-2.webp",
         "images/kit-jogo-americano-6-lugares-10-3.webp"
+      ]
+    },
+    {
+      "id": 287,
+      "name": "Porta Chave Veado",
+      "description": "Porta-chaves decorativo em formato de veado, ideal para organizar e decorar a entrada de casa.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Decoração",
+      "photos": [
+        "images/porta-chave-veado-0-1.jpg",
+        "images/porta-chave-veado-0-2.jpg",
+        "images/porta-chave-veado-0-3.jpg"
+      ]
+    },
+    {
+      "id": 288,
+      "name": "Kit Pratos Duralex 3 Fundos 3 Rasos 2 Sobremesa",
+      "description": "Kit com 8 pratos Duralex: 3 fundos, 3 rasos e 2 de sobremesa. Resistentes e ideais para o dia a dia.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/kit-pratos-duralex-3-fundos-3-rasos-2-sobremesa-15-1.jpg",
+        "images/kit-pratos-duralex-3-fundos-3-rasos-2-sobremesa-15-2.jpg",
+        "images/kit-pratos-duralex-3-fundos-3-rasos-2-sobremesa-15-3.jpg",
+        "images/kit-pratos-duralex-3-fundos-3-rasos-2-sobremesa-15-4.jpg",
+        "images/kit-pratos-duralex-3-fundos-3-rasos-2-sobremesa-15-5.jpg"
+      ]
+    },
+    {
+      "id": 289,
+      "name": "Prato Raso para Servir Melanina",
+      "description": "Prato raso grande em melanina, ideal para servir. Resistente e prático para uso diário.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/prato-raso-para-servir-melanina-0-.jpg"
+      ]
+    },
+    {
+      "id": 290,
+      "name": "Ducha em Inox com Chuveirinho Docol",
+      "description": "Ducha em aço inox com chuveirinho da marca Docol. Acabamento moderno e durabilidade para o banheiro.",
+      "price": 20,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/ducha-em-inox-com-chuveirinho-docol-20-1.jpg",
+        "images/ducha-em-inox-com-chuveirinho-docol-20-2.jpg",
+        "images/ducha-em-inox-com-chuveirinho-docol-20-3.jpg"
+      ]
+    },
+    {
+      "id": 291,
+      "name": "Cadeado Pequeno Pado Stam",
+      "description": "Cadeado pequeno da marca Pado modelo Stam. Compacto e resistente para uso em malas, armários e lockers.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/cadeado-pequeno-pado-stam-.jpg"
+      ]
+    },
+    {
+      "id": 292,
+      "name": "Cadeado Grande Pado",
+      "description": "Cadeado grande da marca Pado. Robusto e seguro para portões, armários e outros usos.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/cadeado-grande-pado-5.jpg"
+      ]
+    },
+    {
+      "id": 293,
+      "name": "Filtro de Linha Intelbras",
+      "description": "Filtro de linha Intelbras com proteção contra surtos elétricos. Ideal para proteger aparelhos eletrônicos.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Eletrônicos",
+      "photos": [
+        "images/filtro-de-linha-intelbras-15.jpg"
+      ]
+    },
+    {
+      "id": 294,
+      "name": "Medidor para Anéis (Aneleira)",
+      "description": "Aneleira medidora de dedos para descobrir o número do anel. Útil para compras de joias online ou em lojas.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/medidor-para-aneis-aneleira-0.jpg"
+      ]
+    },
+    {
+      "id": 295,
+      "name": "Mexedor de Bolo Grande",
+      "description": "Mexedor grande para preparo de bolos, massas e cremes. Resistente e prático para o dia a dia.",
+      "price": 3,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/mexedor-de-bolo-grande-3.jpg"
+      ]
+    },
+    {
+      "id": 296,
+      "name": "Rolo de Velcro Preto Grande",
+      "description": "Rolo grande de fita velcro preta, ideal para organização de cabos, costura e fixação diversa.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/rolo-de-velcro-preto-grande-5.jpg"
       ]
     }
   ]
