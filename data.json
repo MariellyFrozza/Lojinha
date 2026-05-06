@@ -16,6 +16,7 @@
       "description": "Ampulheta decorativa com estrutura de madeira e vidro com areia verde.",
       "price": 15,
       "promotionalPrice": 5,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Decoração",
       "photos": [
@@ -128,18 +129,7 @@
         "images/porta-retrato-branco-e-dourado-14x9-5.webp"
       ]
     },
-    {
-      "id": 156,
-      "name": "Serra para Madeira com Arco",
-      "description": "Serra manual para madeira com arco metálico e cabo plástico, usada, útil para cortes simples.",
-      "price": 20,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/serra-madeira-com-arco-usada-20.webp"
-      ],
-      "promotionalPrice": 5
-    },
+
     {
       "id": 158,
       "name": "Kit com 2 Xícaras de Vidro Nescafé Dolce Gusto",
@@ -189,18 +179,7 @@
         "images/cabos-de-rede-ethernet-cat5e-60cm-0.webp"
       ]
     },
-    {
-      "id": 196,
-      "name": "Case Exbom Transparente para HD Externo USB-A e USB-C",
-      "description": "Case Exbom transparente para HD ou SSD 2,5\", com cabos USB-A e USB-C inclusos.",
-      "price": 20,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/case-exbom-transparente-hd-externo-usb-a-usb-c-20-1.webp",
-        "images/case-exbom-transparente-hd-externo-usb-a-usb-c-20-2.webp"
-      ]
-    },
+
     {
       "id": 207,
       "name": "Bolsa Térmica Preta com Zíper",
@@ -247,6 +226,7 @@
       "description": "Controle TGT com cabo USB, compatível com Xbox e PC, em excelente estado e sem drift.",
       "price": 25,
       "promotionalPrice": 15,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -254,22 +234,13 @@
         "images/controle-xbox-e-pc-tgt-usb-excelente-sem-drift-25-2.webp"
       ]
     },
-    {
-      "id": 230,
-      "name": "Cabo HDMI e cabos de áudio auxiliares",
-      "description": "Conjunto de cabos contendo HDMI e cabos de áudio auxiliares, úteis para conexões diversas.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/cabo-hdmi-e-cabos-de-audio-auxiliares-0.jpeg"
-      ]
-    },
+
     {
       "id": 231,
       "name": "Carregador de Pilha AAA",
       "description": "Carregador para pilhas palito (AAA).",
       "price": 5,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -341,6 +312,7 @@
       "name": "Cadeado pequeno com chave dupla",
       "description": "Duas unidades de cadeado pequeno com chave. Preço anunciado é por unidade. 2 unidades disponíveis.",
       "price": 5,
+      "reserved": true,
       "condition": "novo",
       "category": "Outros",
       "photos": [
@@ -359,17 +331,7 @@
         "images/kit-2-copos-vidro-5.webp"
       ]
     },
-    {
-      "id": 257,
-      "name": "Kit com 35 grampos de roupa",
-      "description": "Conjunto com 35 grampos de roupa para uso doméstico.",
-      "price": 7,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/kit-35-grampos-7.webp"
-      ]
-    },
+
     {
       "id": 259,
       "name": "Lençol branco king Conamore Hotelaria",
@@ -389,6 +351,7 @@
       "name": "Lixeira preta em plástico Coza 10L",
       "description": "Lixeira preta da marca Coza com capacidade de 10 litros.",
       "price": 10,
+      "promotionalPrice": 7,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -426,6 +389,7 @@
       "name": "Touca preta",
       "description": "Touca preta de adulto. 5 reais cada.",
       "price": 5,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Vestuário",
       "photos": [
@@ -452,6 +416,7 @@
       "name": "Aspirador de Pó WAP",
       "description": "Aspirador de pó WAP funcional, porém não possui o adaptador de chão (funciona apenas no modo bico).",
       "price": 45,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -478,6 +443,7 @@
       "name": "Mini Processador de Alimentos Lenoxx",
       "description": "Mini processador de alimentos da marca Lenoxx, compacto e eficiente para picar temperos e pequenos alimentos.",
       "price": 40,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -579,6 +545,7 @@
       "name": "Arranhador Gatos Grande Para Parede",
       "description": "Arranhador grande para gatos, ideal para instalar na parede. Perfeito para gatos de todos os tamanhos brincarem e afiarem as unhas.",
       "price": 10,
+      "reserved": true,
       "condition": "novo",
       "category": "Outros",
       "photos": [
@@ -602,6 +569,7 @@
       "name": "Caixa De Som Para Computador Usb Philips Branca",
       "description": "Caixa de som Philips branca para computador, conexão USB. Compacta e prática para uso no dia a dia.",
       "price": 0,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -614,6 +582,7 @@
       "name": "Controle remoto universal de ar condicionado",
       "description": "Controle remoto universal compatível com diversos modelos de ar condicionado. Prático e fácil de configurar.",
       "price": 0,
+      "reserved": true,
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -625,6 +594,7 @@
       "name": "Kit Jogo Americano 6 Lugares",
       "description": "Kit com jogo americano para 6 lugares. Ideal para organizar e decorar a mesa de jantar.",
       "price": 10,
+      "promotionalPrice": 7,
       "condition": "novo",
       "category": "Outros",
       "photos": [
