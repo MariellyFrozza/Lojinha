@@ -77,7 +77,6 @@
       "name": "Monitor ASUS 24\" Full HD 75Hz com HDMI DVI e VGA",
       "description": "Monitor ASUS de 24 polegadas com resolução Full HD, 75 Hz e entradas HDMI, DVI e VGA.",
       "price": 380,
-      "hidden": true,
       "condition": "bom estado",
       "category": "Eletrônicos",
       "photos": [
@@ -86,6 +85,17 @@
         "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-3.webp",
         "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-4.webp",
         "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-5.webp"
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Jogo Uno na Caixa",
+      "description": "Jogo de cartas Uno na caixa, pronto para brincar em família ou com amigos.",
+      "price": 0,
+      "condition": "bom estado",
+      "category": "Brinquedos",
+      "photos": [
+        "images/jogo-uno-na-caixa-0.jpg"
       ]
     },
     {
@@ -116,8 +126,6 @@
       "name": "Batedor de Claras Grande em Inox",
       "description": "Batedor de claras grande em inox, bom para massas leves, ovos, cremes e preparo do dia a dia.",
       "price": 5,
-      "reserved": true,
-      "to": "Rodrigo Bacacheri",
       "condition": "bom estado",
       "category": "Outros",
       "photos": [
@@ -158,10 +166,8 @@
       "promotionalPrice": 20,
       "condition": "bom estado",
       "category": "Eletrônicos",
-      "photos": [
-        "images/controle-xbox-e-pc-tgt-usb-excelente-sem-drift-25-1.webp",
-        "images/controle-xbox-e-pc-tgt-usb-excelente-sem-drift-25-2.webp"
-      ]
+      "photos": [],
+      "hidden": true
     },
     {
       "id": 231,
@@ -184,9 +190,8 @@
       "to": "Rodrigo Bacacheri",
       "condition": "bom estado",
       "category": "Decoração",
-      "photos": [
-        "images/copomartini-5.jpeg"
-      ]
+      "photos": [],
+      "hidden": true
     },
     {
       "id": 236,
@@ -206,9 +211,8 @@
       "price": 3,
       "condition": "bom estado",
       "category": "Outros",
-      "photos": [
-        "images/kit-xicaras-de-vidro-7.jpeg"
-      ]
+      "photos": [],
+      "hidden": true
     },
     {
       "id": 248,
@@ -228,9 +232,8 @@
       "price": 5,
       "condition": "bom estado",
       "category": "Outros",
-      "photos": [
-        "images/kit-2-copos-vidro-5.webp"
-      ]
+      "photos": [],
+      "hidden": true
     },
     {
       "id": 260,
@@ -244,7 +247,6 @@
         "images/lixeira-preta-em-plastico-coza-10l-10-2.webp"
       ]
     },
-
     {
       "id": 265,
       "name": "Touca preta",
@@ -252,10 +254,8 @@
       "price": 5,
       "condition": "bom estado",
       "category": "Vestuário",
-      "photos": [
-        "images/touca-preta-adulto-duas-unidades-7-cada-1.webp",
-        "images/touca-preta-adulto-duas-unidades-7-cada-2.webp"
-      ]
+      "photos": [],
+      "hidden": true
     },
     {
       "id": 267,
@@ -264,10 +264,8 @@
       "price": 45,
       "condition": "bom estado",
       "category": "Outros",
-      "photos": [
-        "images/aspirador-de-po-wap-apenas-bico-45.jpeg",
-        "images/aspirador-de-po-wap-apenas-bico-45-2.jpeg"
-      ]
+      "photos": [],
+      "hidden": true
     },
     {
       "id": 271,
@@ -276,10 +274,8 @@
       "price": 40,
       "condition": "bom estado",
       "category": "Outros",
-      "photos": [
-        "images/mini-processador-de-alimentos-lenoxx-40-2.jpeg",
-        "images/mini-processador-de-alimentos-lenoxx-40-3.jpeg"
-      ]
+      "photos": [],
+      "hidden": true
     },
     {
       "id": 273,
@@ -290,6 +286,67 @@
       "category": "Outros",
       "photos": [
         "images/bolsa-adidas-modelo-good-tote-sol-25.webp"
+      ]
+    },
+    {
+      "id": 274,
+      "name": "Cesto de Roupas",
+      "description": "Cesto de roupas, ideal para organizar o quarto ou banheiro. Prático e funcional para o dia a dia.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/cesto-de-roupas-5-1.webp",
+        "images/cesto-de-roupas-5-2.webp"
+      ]
+    },
+    {
+      "id": 275,
+      "name": "Ducha Banheiro Inox Docol com Chuveirinho",
+      "description": "Ducha de banheiro em aço inox da marca Docol com chuveirinho. Acabamento moderno e resistente.",
+      "price": 15,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/ducha-banheiro-inox-docol-com-ducha-15-1.webp",
+        "images/ducha-banheiro-inox-docol-com-ducha-15-2.webp",
+        "images/ducha-banheiro-inox-docol-com-ducha-15-3.webp"
+      ]
+    },
+    {
+      "id": 276,
+      "name": "Escorredor de Louça Inox",
+      "description": "Escorredor de louça em aço inox, resistente e prático para secar pratos, copos e talheres.",
+      "price": 10,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/escorredor-de-louca-inox-10-1.webp",
+        "images/escorredor-de-louca-inox-10-2.webp"
+      ]
+    },
+    {
+      "id": 277,
+      "name": "Guia para Animal Pequeno Porta",
+      "description": "Guia para animal pequeno com porta, ideal para passeios seguros com pets de pequeno porte.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/guia-para-animal-pequeno-porta-5-1.webp"
+      ]
+    },
+    {
+      "id": 278,
+      "name": "Potinho Mel Artesanal Pooh",
+      "description": "Potinho de mel artesanal decorado com o tema Ursinho Pooh. Ótimo para presentear ou decorar.",
+      "price": 5,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/potinho-mel-artesanal-pooh-5-1.webp",
+        "images/potinho-mel-artesanal-pooh-5-2.webp",
+        "images/potinho-mel-artesanal-pooh-5-3.webp"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const excludedCarouselItemIds = new Set([110]);
+    const excludedCarouselItemIds = new Set([]);
     const searchParams = new URLSearchParams(window.location.search);
     if (!searchParams.has('page')) {
         window.location.replace(`${window.location.pathname}?page=1`);
