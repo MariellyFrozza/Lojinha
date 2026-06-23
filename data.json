@@ -10,7 +10,7 @@
     "Outros"
   ],
   "items": [
-        {
+    {
       "id": 73,
       "name": "Hub USB FTX para MacBook com Ethernet",
       "description": "Hub USB-C FTX para MacBook com Ethernet, HDMI, portas USB e leitor de cartão em corpo compacto de alumínio.",
@@ -56,7 +56,7 @@
       "price": 380,
       "condition": "bom estado",
       "category": "Eletrônicos",
-            "reserved": true,
+      "reserved": true,
       "photos": [
         "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-1.webp",
         "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-2.webp",
@@ -108,18 +108,6 @@
       "category": "Outros",
       "photos": [
         "images/batedor-de-claras-grande-inox-5.webp"
-      ]
-    },
-    {
-      "id": 231,
-      "name": "Carregador de Pilha AAA",
-      "description": "Carregador para pilhas palito (AAA).",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/carregadorPilha-aaa-5.jpeg",
-        "images/carregador-pilha-2.jpeg"
       ]
     },
     {
@@ -235,6 +223,19 @@
         "images/potinho-mel-artesanal-pooh-5-1.webp",
         "images/potinho-mel-artesanal-pooh-5-2.webp",
         "images/potinho-mel-artesanal-pooh-5-3.webp"
+      ]
+    },
+    {
+      "id": 279,
+      "name": "Microfone HyperX Quadcast",
+      "description": "Usado poucas vezes. Acompanha caixa, cabos e manual. Funcionando perfeitamente!",
+      "price": 500,
+      "promotionalPrice": 450,
+      "condition": "bom estado",
+      "category": "Outros",
+      "photos": [
+        "images/microphone1.jpeg",
+        "images/microphone2.jpeg"
       ]
     }
   ]
