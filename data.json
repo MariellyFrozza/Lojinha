@@ -10,19 +10,7 @@
     "Outros"
   ],
   "items": [
-    {
-      "id": 54,
-      "name": "Ampulheta de Vidro e Madeira Verde",
-      "description": "Ampulheta decorativa com estrutura de madeira e vidro com areia verde.",
-      "price": 15,
-      "promotionalPrice": 5,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/ampulheta-de-vidro-e-madeira-verde1-15.webp"
-      ]
-    },
-    {
+        {
       "id": 73,
       "name": "Hub USB FTX para MacBook com Ethernet",
       "description": "Hub USB-C FTX para MacBook com Ethernet, HDMI, portas USB e leitor de cartão em corpo compacto de alumínio.",
@@ -50,17 +38,6 @@
       ]
     },
     {
-      "id": 86,
-      "name": "Moldura de Madeira com Vidro Grande Preta 75 x 55 cm (2 Unidades)",
-      "description": "Moldura grande em madeira preta com vidro, ideal para pôsteres, frases ou fotos. Medidas de 75 x 55 cm. Preço unitário de R$200, com desconto levando as duas.",
-      "price": 200,
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [
-        "images/moldura-madeira-com-vidro-grande-preta-75x55-duas-unidades-desconto-levando-as-duas-200.webp"
-      ]
-    },
-    {
       "id": 92,
       "name": "Suporte de TV ELG",
       "description": "Suporte de parede ELG com peças metálicas, parafusos e espaçadores para instalação de TV ou monitor compatível.",
@@ -79,6 +56,7 @@
       "price": 380,
       "condition": "bom estado",
       "category": "Eletrônicos",
+            "reserved": true,
       "photos": [
         "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-1.webp",
         "images/monitor-24-asus-full-hd-75hz-hdmi-dvi-vga-380-2.webp",
@@ -133,43 +111,6 @@
       ]
     },
     {
-      "id": 176,
-      "name": "Amigurumi Panda Artesanal",
-      "description": "Amigurumi artesanal em formato de panda, feito em crochê, ótimo para presentear ou decorar.",
-      "price": 60,
-      "promotionalPrice": 40,
-      "condition": "bom estado",
-      "category": "Brinquedos",
-      "photos": [
-        "images/amigurumi-panda-artesanal-60-1.webp",
-        "images/amigurumi-panda-artesanal-60-2.webp"
-      ]
-    },
-    {
-      "id": 207,
-      "name": "Bolsa Térmica Preta com Zíper",
-      "description": "Bolsa térmica preta com revestimento térmico interno e fechamento em zíper.",
-      "price": 25,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [
-        "images/bolsa-termica-preta-com-revestimento-termico-interno-e-ziper-25-3.webp",
-        "images/bolsa-termica-preta-com-revestimento-termico-interno-e-ziper-25-2.webp",
-        "images/bolsa-termica-preta-com-revestimento-termico-interno-e-ziper-25-1.webp"
-      ]
-    },
-    {
-      "id": 229,
-      "name": "Controle TGT USB para Xbox e PC",
-      "description": "Controle TGT com cabo USB, compatível com Xbox e PC, em excelente estado e sem drift.",
-      "price": 25,
-      "promotionalPrice": 20,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [],
-      "hidden": true
-    },
-    {
       "id": 231,
       "name": "Carregador de Pilha AAA",
       "description": "Carregador para pilhas palito (AAA).",
@@ -180,18 +121,6 @@
         "images/carregadorPilha-aaa-5.jpeg",
         "images/carregador-pilha-2.jpeg"
       ]
-    },
-    {
-      "id": 234,
-      "name": "Copo Martini",
-      "description": "Copo clássico para drinks tipo Martini ou coquetéis.",
-      "price": 5,
-      "reserved": true,
-      "to": "Rodrigo Bacacheri",
-      "condition": "bom estado",
-      "category": "Decoração",
-      "photos": [],
-      "hidden": true
     },
     {
       "id": 236,
@@ -215,17 +144,6 @@
       "hidden": true
     },
     {
-      "id": 248,
-      "name": "Cabo HDMI",
-      "description": "Cabo HDMI para conexão de vídeo e áudio em alta definição.",
-      "price": 0,
-      "condition": "bom estado",
-      "category": "Eletrônicos",
-      "photos": [
-        "images/cabo-hdmi-0.jpg"
-      ]
-    },
-    {
       "id": 255,
       "name": "Kit com 2 copos de vidro",
       "description": "Par de copos de vidro transparentes para uso diário.",
@@ -246,36 +164,6 @@
         "images/lixeira-preta-em-plastico-coza-10l-10-1.webp",
         "images/lixeira-preta-em-plastico-coza-10l-10-2.webp"
       ]
-    },
-    {
-      "id": 265,
-      "name": "Touca preta",
-      "description": "Touca preta de adulto. 5 reais cada.",
-      "price": 5,
-      "condition": "bom estado",
-      "category": "Vestuário",
-      "photos": [],
-      "hidden": true
-    },
-    {
-      "id": 267,
-      "name": "Aspirador de Pó WAP",
-      "description": "Aspirador de pó WAP funcional, porém não possui o adaptador de chão (funciona apenas no modo bico).",
-      "price": 45,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [],
-      "hidden": true
-    },
-    {
-      "id": 271,
-      "name": "Mini Processador de Alimentos Lenoxx",
-      "description": "Mini processador de alimentos da marca Lenoxx, compacto e eficiente para picar temperos e pequenos alimentos.",
-      "price": 40,
-      "condition": "bom estado",
-      "category": "Outros",
-      "photos": [],
-      "hidden": true
     },
     {
       "id": 273,
